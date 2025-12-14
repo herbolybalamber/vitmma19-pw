@@ -1,0 +1,214 @@
+2025-12-14 23:20:31 | INFO     | evaluation | MODEL EVALUATION
+2025-12-14 23:20:31 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-14 23:20:31 | INFO     | evaluation | Training data: (2255, 8)
+2025-12-14 23:20:31 | INFO     | evaluation | Test data:     (749, 15)
+2025-12-14 23:20:31 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-14 23:20:32 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-14 23:20:32 | INFO     | evaluation | Validation samples: 564
+2025-12-14 23:20:32 | INFO     | evaluation | Test samples:       749
+2025-12-14 23:20:32 | INFO     | evaluation | Device: mps
+2025-12-14 23:20:32 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-14 23:20:33 | INFO     | evaluation | ✓ Model loaded (epoch 4)
+2025-12-14 23:20:33 | INFO     | evaluation | VALIDATION
+2025-12-14 23:20:54 | INFO     | evaluation | 
+Classification report – Validation
+2025-12-14 23:20:54 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.6857    0.8889    0.7742        27
+     Class 2     0.6667    0.6154    0.6400        65
+     Class 3     0.6279    0.4286    0.5094       126
+     Class 4     0.5806    0.6136    0.5967       176
+     Class 5     0.7360    0.8529    0.7902       170
+
+    accuracy                         0.6578       564
+   macro avg     0.6594    0.6799    0.6621       564
+weighted avg     0.6530    0.6578    0.6490       564
+
+2025-12-14 23:24:52 | INFO     | evaluation | MODEL EVALUATION
+2025-12-14 23:24:52 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-14 23:24:52 | INFO     | evaluation | Training data: (2255, 8)
+2025-12-14 23:24:52 | INFO     | evaluation | Test data:     (749, 15)
+2025-12-14 23:24:52 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-14 23:24:53 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-14 23:24:53 | INFO     | evaluation | Validation samples: 564
+2025-12-14 23:24:53 | INFO     | evaluation | Test samples:       749
+2025-12-14 23:24:53 | INFO     | evaluation | Device: mps
+2025-12-14 23:24:53 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-14 23:24:54 | INFO     | evaluation | ✓ Model loaded (epoch 4)
+2025-12-14 23:24:54 | INFO     | evaluation | EVALUATING ON VALIDATION AND TEST SETS
+2025-12-14 23:25:36 | INFO     | evaluation | 
+Classification Report (Validation):
+2025-12-14 23:25:36 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.6857    0.8889    0.7742        27
+     Class 2     0.6667    0.6154    0.6400        65
+     Class 3     0.6279    0.4286    0.5094       126
+     Class 4     0.5806    0.6136    0.5967       176
+     Class 5     0.7360    0.8529    0.7902       170
+
+    accuracy                         0.6578       564
+   macro avg     0.6594    0.6799    0.6621       564
+weighted avg     0.6530    0.6578    0.6490       564
+
+2025-12-14 23:25:36 | INFO     | evaluation | 
+Classification Report (Test):
+2025-12-14 23:25:36 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.6389    0.5750    0.6053        40
+     Class 2     0.5529    0.5222    0.5371        90
+     Class 3     0.5752    0.3988    0.4710       163
+     Class 4     0.5678    0.5982    0.5826       224
+     Class 5     0.7097    0.8534    0.7750       232
+
+    accuracy                         0.6235       749
+   macro avg     0.6089    0.5895    0.5942       749
+weighted avg     0.6154    0.6235    0.6136       749
+
+2025-12-14 23:25:36 | INFO     | evaluation | 
+Validation:
+2025-12-14 23:25:36 | INFO     | evaluation |   Exact Accuracy:     0.6578
+2025-12-14 23:25:36 | INFO     | evaluation |   Within-1 Accuracy:  0.9433
+2025-12-14 23:25:36 | INFO     | evaluation |   Within-2 Accuracy:  0.9947
+2025-12-14 23:25:36 | INFO     | evaluation | 
+Test:
+2025-12-14 23:25:36 | INFO     | evaluation |   Exact Accuracy:     0.6235
+2025-12-14 23:25:36 | INFO     | evaluation |   Within-1 Accuracy:  0.9119
+2025-12-14 23:25:36 | INFO     | evaluation |   Within-2 Accuracy:  0.9813
+2025-12-14 23:25:36 | INFO     | evaluation | 
+Recall by class:
+2025-12-14 23:25:36 | INFO     | evaluation | ----------------------------------------
+2025-12-14 23:25:36 | INFO     | evaluation | Class      Validation      Test           
+2025-12-14 23:25:36 | INFO     | evaluation | ----------------------------------------
+2025-12-14 23:25:36 | INFO     | evaluation | Class 1    0.8889          0.5750         
+2025-12-14 23:25:36 | INFO     | evaluation | Class 2    0.6154          0.5222         
+2025-12-14 23:25:36 | INFO     | evaluation | Class 3    0.4286          0.3988         
+2025-12-14 23:25:36 | INFO     | evaluation | Class 4    0.6136          0.5982         
+2025-12-14 23:25:36 | INFO     | evaluation | Class 5    0.8529          0.8534         
+2025-12-14 23:27:11 | INFO     | evaluation | MODEL EVALUATION
+2025-12-14 23:27:11 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-14 23:27:11 | INFO     | evaluation | Training data: (2255, 8)
+2025-12-14 23:27:11 | INFO     | evaluation | Test data:     (749, 15)
+2025-12-14 23:27:11 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-14 23:27:12 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-14 23:27:12 | INFO     | evaluation | Validation samples: 564
+2025-12-14 23:27:12 | INFO     | evaluation | Test samples:       749
+2025-12-14 23:27:12 | INFO     | evaluation | Device: mps
+2025-12-14 23:27:12 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-14 23:27:13 | INFO     | evaluation | ✓ Model loaded (epoch 4)
+2025-12-14 23:27:13 | INFO     | evaluation | EVALUATING ON VALIDATION AND TEST SETS
+2025-12-14 23:27:54 | INFO     | evaluation | 
+Classification Report (Validation):
+2025-12-14 23:27:54 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.6857    0.8889    0.7742        27
+     Class 2     0.6667    0.6154    0.6400        65
+     Class 3     0.6279    0.4286    0.5094       126
+     Class 4     0.5806    0.6136    0.5967       176
+     Class 5     0.7360    0.8529    0.7902       170
+
+    accuracy                         0.6578       564
+   macro avg     0.6594    0.6799    0.6621       564
+weighted avg     0.6530    0.6578    0.6490       564
+
+2025-12-14 23:27:54 | INFO     | evaluation | 
+Classification Report (Test):
+2025-12-14 23:27:54 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.6389    0.5750    0.6053        40
+     Class 2     0.5529    0.5222    0.5371        90
+     Class 3     0.5752    0.3988    0.4710       163
+     Class 4     0.5678    0.5982    0.5826       224
+     Class 5     0.7097    0.8534    0.7750       232
+
+    accuracy                         0.6235       749
+   macro avg     0.6089    0.5895    0.5942       749
+weighted avg     0.6154    0.6235    0.6136       749
+
+2025-12-14 23:27:54 | INFO     | evaluation | 
+Validation:
+2025-12-14 23:27:54 | INFO     | evaluation |   Exact Accuracy:     0.6578
+2025-12-14 23:27:54 | INFO     | evaluation |   Within-1 Accuracy:  0.9433
+2025-12-14 23:27:54 | INFO     | evaluation |   Within-2 Accuracy:  0.9947
+2025-12-14 23:27:54 | INFO     | evaluation | 
+Test:
+2025-12-14 23:27:54 | INFO     | evaluation |   Exact Accuracy:     0.6235
+2025-12-14 23:27:54 | INFO     | evaluation |   Within-1 Accuracy:  0.9119
+2025-12-14 23:27:54 | INFO     | evaluation |   Within-2 Accuracy:  0.9813
+2025-12-14 23:27:54 | INFO     | evaluation | 
+Recall by class:
+2025-12-14 23:27:54 | INFO     | evaluation | ----------------------------------------
+2025-12-14 23:27:54 | INFO     | evaluation | Class      Validation      Test           
+2025-12-14 23:27:54 | INFO     | evaluation | ----------------------------------------
+2025-12-14 23:27:54 | INFO     | evaluation | Class 1    0.8889          0.5750         
+2025-12-14 23:27:54 | INFO     | evaluation | Class 2    0.6154          0.5222         
+2025-12-14 23:27:54 | INFO     | evaluation | Class 3    0.4286          0.3988         
+2025-12-14 23:27:54 | INFO     | evaluation | Class 4    0.6136          0.5982         
+2025-12-14 23:27:54 | INFO     | evaluation | Class 5    0.8529          0.8534         
+2025-12-14 23:27:55 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_validation.png
+2025-12-14 23:27:55 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_validation_norm_true.png
+2025-12-14 23:27:55 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_test.png
+2025-12-14 23:27:55 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_test_norm_true.png
+2025-12-14 23:36:01 | INFO     | evaluation | MODEL EVALUATION
+2025-12-14 23:36:01 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-14 23:36:01 | INFO     | evaluation | Training data: (2255, 8)
+2025-12-14 23:36:01 | INFO     | evaluation | Test data:     (749, 15)
+2025-12-14 23:36:01 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-14 23:36:02 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-14 23:36:02 | INFO     | evaluation | Validation samples: 564
+2025-12-14 23:36:02 | INFO     | evaluation | Test samples:       749
+2025-12-14 23:36:02 | INFO     | evaluation | Device: mps
+2025-12-14 23:36:02 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-14 23:36:03 | INFO     | evaluation | ✓ Model loaded (epoch 4)
+2025-12-14 23:36:03 | INFO     | evaluation | EVALUATING ON VALIDATION AND TEST SETS
+2025-12-14 23:36:47 | INFO     | evaluation | 
+Classification Report (Validation):
+2025-12-14 23:36:47 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.6857    0.8889    0.7742        27
+     Class 2     0.6667    0.6154    0.6400        65
+     Class 3     0.6279    0.4286    0.5094       126
+     Class 4     0.5806    0.6136    0.5967       176
+     Class 5     0.7360    0.8529    0.7902       170
+
+    accuracy                         0.6578       564
+   macro avg     0.6594    0.6799    0.6621       564
+weighted avg     0.6530    0.6578    0.6490       564
+
+2025-12-14 23:36:47 | INFO     | evaluation | 
+Classification Report (Test):
+2025-12-14 23:36:47 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.6389    0.5750    0.6053        40
+     Class 2     0.5529    0.5222    0.5371        90
+     Class 3     0.5752    0.3988    0.4710       163
+     Class 4     0.5678    0.5982    0.5826       224
+     Class 5     0.7097    0.8534    0.7750       232
+
+    accuracy                         0.6235       749
+   macro avg     0.6089    0.5895    0.5942       749
+weighted avg     0.6154    0.6235    0.6136       749
+
+2025-12-14 23:36:47 | INFO     | evaluation | 
+Validation:
+2025-12-14 23:36:47 | INFO     | evaluation |   Exact Accuracy:     0.6578
+2025-12-14 23:36:47 | INFO     | evaluation |   Within-1 Accuracy:  0.9433
+2025-12-14 23:36:47 | INFO     | evaluation |   Within-2 Accuracy:  0.9947
+2025-12-14 23:36:47 | INFO     | evaluation | 
+Test:
+2025-12-14 23:36:47 | INFO     | evaluation |   Exact Accuracy:     0.6235
+2025-12-14 23:36:47 | INFO     | evaluation |   Within-1 Accuracy:  0.9119
+2025-12-14 23:36:47 | INFO     | evaluation |   Within-2 Accuracy:  0.9813
+2025-12-14 23:36:47 | INFO     | evaluation | 
+Recall by class:
+2025-12-14 23:36:47 | INFO     | evaluation | ----------------------------------------
+2025-12-14 23:36:47 | INFO     | evaluation | Class      Validation      Test           
+2025-12-14 23:36:47 | INFO     | evaluation | ----------------------------------------
+2025-12-14 23:36:47 | INFO     | evaluation | Class 1    0.8889          0.5750         
+2025-12-14 23:36:47 | INFO     | evaluation | Class 2    0.6154          0.5222         
+2025-12-14 23:36:47 | INFO     | evaluation | Class 3    0.4286          0.3988         
+2025-12-14 23:36:47 | INFO     | evaluation | Class 4    0.6136          0.5982         
+2025-12-14 23:36:47 | INFO     | evaluation | Class 5    0.8529          0.8534         
+2025-12-14 23:36:47 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_validation.png
+2025-12-14 23:36:47 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_validation_norm_true.png
+2025-12-14 23:36:47 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_test.png
+2025-12-14 23:36:47 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_test_norm_true.png

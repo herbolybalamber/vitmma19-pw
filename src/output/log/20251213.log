@@ -1,0 +1,2355 @@
+2025-12-13 11:24:35 | INFO     | aggregate_jsons | Starting data pipeline...
+2025-12-13 11:24:35 | INFO     | aggregate_jsons | Input directory: data/original
+2025-12-13 11:24:35 | INFO     | aggregate_jsons | Output directory: data/aggregated
+2025-12-13 11:24:35 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-13 11:24:35 | INFO     | aggregate_jsons | Downloading data from SharePoint...
+2025-12-13 11:24:35 | INFO     | aggregate_jsons | Download size: 11.6 MB
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Downloaded 11.6 MB
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Extracting zip contents...
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Flattening nested folder: legaltextdecoder
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Moving data to data/original...
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Extraction complete!
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Starting data aggregation...
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: A5VHUA
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     merged_annotations.json: 159 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     nemzeti_tehetseg_program_aszf_labeled.json: 68 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     belvarosi_epito_aszf_labeled.json: 91 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: BCLHKC
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     cimkezes.json: 107 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: BP17IB
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     meta.json: 0 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: E77YIW
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     mak_aszf_cimkezes.json: 105 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: EKGPBX
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     project-29-at-2025-10-16-16-34-dc747442.json: 269 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: F0B9YK
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     holyduck_aszf.json: 151 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: FA0B9B
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     FA0B9B_labeling.json: 104 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: G1QFG2
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     cimkezes.json: 103 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: GSFSJ1
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     fonallak_cimkezes.json: 101 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: HV75KB
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     labels.json: 124 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: HW921K
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     labeled_terms.json: 123 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: I1TLYH
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     epitesi_beruhazas.json: 168 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     dpd.json: 110 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: J0R9YS
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: K3I7DL
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     KH_aszf_cimkezes.json: 92 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: KRR9OD
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: LWVUH9
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     shiver_aszf_cimkezes.json: 89 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     sportkorhaz_aszf_cimkezes.json: 69 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: LXXAMS
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     budapestgo_aszf.json: 133 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: MDKFWC
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     hasznalt_auto_cimkek.json: 143 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: NHVU6N
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     hardverapro_labeled.json: 40 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     zalando_labeled.json: 50 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     netkazan_labeled.json: 15 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: Q88P3E
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     erste-diakhitel-kozpont_cimkezes.json: 224 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: QG1L1V
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     granit_bank_cimkezes.json: 119 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: R1Q6I8
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     telekom_aszf.json: 110 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: R92D9T
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: SS0N7G
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     alza_aszf.json: 189 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: T989VT
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     legal_text_dataset.json: 144 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: TFH22P
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     cimekezes.json: 126 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: UJVBTY
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: WFXBHI
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     kepregeny_depo_aszf.json: 67 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     libri_aszf.json: 120 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: XQEBMQ
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     xqebmq.json: 111 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Processing student: Z7ZF6D
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     vatera-aszf.json: 120 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Skipping excluded folder: consensus
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Skipping excluded folder: sample
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Aggregation complete!
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Total records: 3744
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Output file: data/aggregated/labeled_data.csv
+2025-12-13 11:24:36 | INFO     | aggregate_jsons | Statistics:
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Unique students: 25
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Unique texts: 3399
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |   Label distribution:
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     Label 1: 200 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     Label 2: 450 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     Label 3: 814 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     Label 4: 1121 records
+2025-12-13 11:24:36 | INFO     | aggregate_jsons |     Label 5: 1159 records
+2025-12-13 11:24:45 | INFO     | refinement | Source file: data/aggregated/labeled_data.csv
+2025-12-13 11:24:45 | INFO     | refinement | Destination directory: data/processed
+2025-12-13 11:24:45 | INFO     | refinement | Reading source data...
+2025-12-13 11:24:45 | INFO     | refinement |   Source file: data/aggregated/labeled_data.csv
+2025-12-13 11:24:45 | INFO     | refinement |   Loaded 3744 entries.
+2025-12-13 11:24:45 | INFO     | refinement | Extracted 92 entries for the test set.
+2025-12-13 11:24:45 | INFO     | refinement |   From annotator K3I7DL: 92 entries
+2025-12-13 11:24:45 | INFO     | refinement |   From annotator BCLHKC (source 'telekom'): 0 entries
+2025-12-13 11:24:45 | INFO     | refinement | Remaining work dataset size: 3652 entries
+2025-12-13 11:24:45 | INFO     | refinement | Filtering to relevant columns...
+2025-12-13 11:24:45 | INFO     | refinement |   Kept 7 columns.
+2025-12-13 11:24:45 | INFO     | refinement | Resolving duplicate content entries...
+2025-12-13 11:24:45 | INFO     | refinement | Found 345 duplicate content entries out of 3652.
+2025-12-13 11:24:45 | INFO     | refinement | Removed 345 duplicate entries. New count: 3307
+2025-12-13 11:24:45 | INFO     | refinement | Filtering out entries with content length < 50 chars.
+2025-12-13 11:24:45 | INFO     | refinement | Removed 137 short-content entries.
+2025-12-13 11:24:45 | INFO     | refinement | Excluding annotators with avg. lead time < 10.0s.
+2025-12-13 11:24:45 | INFO     | refinement | Found rushed annotators to exclude:
+2025-12-13 11:24:45 | INFO     | refinement |   - EKGPBX
+2025-12-13 11:24:45 | INFO     | refinement |   - XQEBMQ
+2025-12-13 11:24:45 | INFO     | refinement | Removed 185 entries from 2 rushed annotators.
+2025-12-13 11:24:45 | INFO     | refinement | FINAL DATASET SUMMARIES
+2025-12-13 11:24:45 | INFO     | refinement | Training Set Summary:
+2025-12-13 11:24:45 | INFO     | refinement |   Total Entries: 2985
+2025-12-13 11:24:45 | INFO     | refinement |   Unique Content Snippets: 2985
+2025-12-13 11:24:45 | INFO     | refinement |   Unique Annotators: 22
+2025-12-13 11:24:45 | INFO     | refinement |   Avg Content Length: 426 chars
+2025-12-13 11:24:45 | INFO     | refinement |   Median Content Length: 319 chars
+2025-12-13 11:24:45 | INFO     | refinement |   Avg Annotation Time: 48.57s
+2025-12-13 11:24:45 | INFO     | refinement |   Median Annotation Time: 13.63s
+2025-12-13 11:24:45 | INFO     | refinement |  Rating Distribution:
+2025-12-13 11:24:45 | INFO     | refinement |     Rating 1:  142 ( 4.76%)
+2025-12-13 11:24:45 | INFO     | refinement |     Rating 2:  331 (11.09%)
+2025-12-13 11:24:45 | INFO     | refinement |     Rating 3:  654 (21.91%)
+2025-12-13 11:24:45 | INFO     | refinement |     Rating 4:  940 (31.49%)
+2025-12-13 11:24:45 | INFO     | refinement |     Rating 5:  918 (30.75%)
+2025-12-13 11:24:45 | INFO     | refinement | Test Set Summary:
+2025-12-13 11:24:45 | INFO     | refinement |   Total Entries: 92
+2025-12-13 11:24:45 | INFO     | refinement |   Unique Content Snippets: 92
+2025-12-13 11:24:45 | INFO     | refinement |   Unique Annotators: 1
+2025-12-13 11:24:45 | INFO     | refinement |   Avg Content Length: 331 chars
+2025-12-13 11:24:45 | INFO     | refinement |   Median Content Length: 305 chars
+2025-12-13 11:24:45 | INFO     | refinement |   Avg Annotation Time: 44.68s
+2025-12-13 11:24:45 | INFO     | refinement |   Median Annotation Time: 22.19s
+2025-12-13 11:24:45 | INFO     | refinement |  Rating Distribution:
+2025-12-13 11:24:45 | INFO     | refinement |     Rating 1:    6 ( 6.52%)
+2025-12-13 11:24:45 | INFO     | refinement |     Rating 2:   18 (19.57%)
+2025-12-13 11:24:45 | INFO     | refinement |     Rating 3:   24 (26.09%)
+2025-12-13 11:24:45 | INFO     | refinement |     Rating 4:   21 (22.83%)
+2025-12-13 11:24:45 | INFO     | refinement |     Rating 5:   23 (25.00%)
+2025-12-13 11:24:45 | INFO     | refinement | Writing final datasets to output files...
+2025-12-13 11:24:45 | INFO     | refinement | Saved training data to: data/processed/train.csv (2985 entries)
+2025-12-13 11:24:45 | INFO     | refinement | Saved test data to: data/processed/test.csv (92 entries)
+2025-12-13 11:24:45 | INFO     | refinement | Generating visual report of the cleaned dataset...
+2025-12-13 11:24:46 | INFO     | refinement | Visual report saved to 'media' directory.
+2025-12-13 11:24:46 | INFO     | refinement | DATA PREPROCESSING REPORT
+2025-12-13 11:24:46 | INFO     | refinement | Initial entry count: 3744
+2025-12-13 11:24:46 | INFO     | refinement | Entries moved to test set: 92
+2025-12-13 11:24:46 | INFO     | refinement | Duplicate entries removed: 345
+2025-12-13 11:24:46 | INFO     | refinement | Short content entries removed: 137
+2025-12-13 11:24:46 | INFO     | refinement | Entries from low-quality annotators removed: 185
+2025-12-13 11:24:46 | INFO     | refinement | Excluded annotator IDs: EKGPBX, XQEBMQ
+2025-12-13 11:24:46 | INFO     | refinement | Final training entries: 2985
+2025-12-13 11:24:46 | INFO     | refinement | Final test entries: 92
+2025-12-13 11:24:46 | INFO     | refinement | Total final entries: 3077
+2025-12-13 11:24:46 | INFO     | refinement | DATA REFINEMENT WORKFLOW COMPLETE!
+2025-12-13 11:24:46 | INFO     | refinement | Output files are ready for model training.
+2025-12-13 11:38:20 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-13 11:38:20 | INFO     | train | 
+Configuration:
+2025-12-13 11:38:20 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 11:38:20 | INFO     | train |   Batch size: 16
+2025-12-13 11:38:20 | INFO     | train |   Learning rate: 3e-05
+2025-12-13 11:38:20 | INFO     | train |   Epochs: 5
+2025-12-13 11:38:20 | INFO     | train |   Max length: 256
+2025-12-13 11:38:20 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-13 11:38:20 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-13 11:38:20 | INFO     | train | LOADING DATA
+2025-12-13 11:38:20 | INFO     | train | 
+Training data: (2985, 8)
+2025-12-13 11:38:20 | INFO     | train | Test data: (92, 15)
+2025-12-13 11:38:20 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 11:38:21 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-13 11:38:21 | INFO     | train | 
+Class weights:
+2025-12-13 11:38:21 | INFO     | train |   Class 1: 4.2042
+2025-12-13 11:38:21 | INFO     | train |   Class 2: 1.8036
+2025-12-13 11:38:21 | INFO     | train |   Class 3: 0.9128
+2025-12-13 11:38:21 | INFO     | train |   Class 4: 0.6351
+2025-12-13 11:38:21 | INFO     | train |   Class 5: 0.6503
+2025-12-13 11:38:21 | INFO     | train | CREATING DATA SPLITS
+2025-12-13 11:38:21 | INFO     | train | 
+Tokenizing training data...
+2025-12-13 11:38:21 | INFO     | train | ✓ Training data tokenized: 2985 samples
+2025-12-13 11:38:21 | INFO     | train | Tokenizing test data...
+2025-12-13 11:38:21 | INFO     | train | ✓ Test data tokenized: 92 samples
+2025-12-13 11:38:21 | INFO     | train | 
+Split sizes:
+2025-12-13 11:38:21 | INFO     | train |   Training:   2388 samples
+2025-12-13 11:38:21 | INFO     | train |   Validation: 597 samples
+2025-12-13 11:38:21 | INFO     | train |   Test:       92 samples
+2025-12-13 11:38:21 | INFO     | train | 
+Label distribution in training:
+2025-12-13 11:38:21 | INFO     | train |   Class 1:  114 samples ( 4.77%)
+2025-12-13 11:38:21 | INFO     | train |   Class 2:  265 samples (11.10%)
+2025-12-13 11:38:21 | INFO     | train |   Class 3:  523 samples (21.90%)
+2025-12-13 11:38:21 | INFO     | train |   Class 4:  752 samples (31.49%)
+2025-12-13 11:38:21 | INFO     | train |   Class 5:  734 samples (30.74%)
+2025-12-13 11:38:21 | INFO     | train | CREATING DATALOADERS
+2025-12-13 11:38:21 | INFO     | train | ✓ Created PyTorch datasets
+2025-12-13 11:38:21 | INFO     | train |   Train: 2388 samples
+2025-12-13 11:38:21 | INFO     | train |   Val:   597 samples
+2025-12-13 11:38:21 | INFO     | train |   Test:  92 samples
+2025-12-13 11:38:21 | INFO     | train | 
+DataLoader settings: num_workers=2, pin_memory=True
+2025-12-13 11:38:21 | INFO     | train | 
+✓ Created DataLoaders
+2025-12-13 11:38:21 | INFO     | train |   Train batches: 150
+2025-12-13 11:38:21 | INFO     | train |   Val batches:   38
+2025-12-13 11:38:21 | INFO     | train |   Test batches:  6
+2025-12-13 11:38:31 | INFO     | train | 
+Sample batch verification:
+2025-12-13 11:38:31 | INFO     | train |   input_ids shape: torch.Size([16, 256])
+2025-12-13 11:38:31 | INFO     | train |   attention_mask shape: torch.Size([16, 256])
+2025-12-13 11:38:31 | INFO     | train |   labels shape: torch.Size([16])
+2025-12-13 11:38:31 | INFO     | train |   labels range: 1 to 4
+2025-12-13 11:38:31 | INFO     | train | INITIALIZING TRAINING COMPONENTS
+2025-12-13 11:38:31 | INFO     | train | 
+Device: mps
+2025-12-13 11:38:31 | INFO     | train | PyTorch version: 2.9.1
+2025-12-13 11:38:31 | INFO     | train | 
+Loading model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 11:38:32 | INFO     | train | ✓ Model loaded and moved to mps
+2025-12-13 11:38:32 | INFO     | train |   Total parameters: 110,621,957
+2025-12-13 11:38:32 | INFO     | train |   Trainable parameters: 110,621,957
+2025-12-13 11:38:32 | INFO     | train |   Model architecture:
+BertForSequenceClassification(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(32001, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSdpaSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+    (pooler): BertPooler(
+      (dense): Linear(in_features=768, out_features=768, bias=True)
+      (activation): Tanh()
+    )
+  )
+  (dropout): Dropout(p=0.1, inplace=False)
+  (classifier): Linear(in_features=768, out_features=5, bias=True)
+)
+2025-12-13 11:38:32 | INFO     | train | 
+✓ Class weights prepared: ['4.204', '1.804', '0.913', '0.635', '0.650']
+2025-12-13 11:38:32 | INFO     | train | ✓ Loss function: CrossEntropyLoss with class weights
+2025-12-13 11:38:32 | INFO     | train | ✓ Optimizer: AdamW (lr=3e-05)
+2025-12-13 11:38:32 | INFO     | train | ✓ Scheduler: Linear with warmup
+2025-12-13 11:38:32 | INFO     | train |   Total training steps: 750
+2025-12-13 11:38:32 | INFO     | train |   Warmup steps: 75
+2025-12-13 11:38:32 | INFO     | train | 
+✓ All training components initialized!
+2025-12-13 11:38:32 | INFO     | train | STARTING TRAINING
+2025-12-13 11:38:32 | INFO     | train | 
+Training for 5 epochs...
+2025-12-13 11:38:32 | INFO     | train | 
+============================================================
+2025-12-13 11:38:32 | INFO     | train | EPOCH 1/5
+2025-12-13 11:38:32 | INFO     | train | ============================================================
+2025-12-13 11:40:02 | INFO     | train | 
+Train Loss: 1.5091, Train Acc: 0.3208
+2025-12-13 11:40:23 | INFO     | train | Val Loss:   1.3696, Val Acc:   0.4121
+2025-12-13 11:40:23 | INFO     | train |   Per-class recall: 
+2025-12-13 11:40:23 | INFO     | train | C1:0.57 
+2025-12-13 11:40:23 | INFO     | train | C2:0.12 
+2025-12-13 11:40:23 | INFO     | train | C3:0.57 
+2025-12-13 11:40:23 | INFO     | train | C4:0.10 
+2025-12-13 11:40:23 | INFO     | train | C5:0.70 
+2025-12-13 11:40:26 | INFO     | train | ✓ New best model saved! (Val Acc: 0.4121)
+2025-12-13 11:40:26 | INFO     | train | 
+============================================================
+2025-12-13 11:40:26 | INFO     | train | EPOCH 2/5
+2025-12-13 11:40:26 | INFO     | train | ============================================================
+2025-12-13 11:41:56 | INFO     | train | 
+Train Loss: 1.2937, Train Acc: 0.4359
+2025-12-13 11:42:17 | INFO     | train | Val Loss:   1.3276, Val Acc:   0.4422
+2025-12-13 11:42:17 | INFO     | train |   Per-class recall: 
+2025-12-13 11:42:17 | INFO     | train | C1:0.75 
+2025-12-13 11:42:17 | INFO     | train | C2:0.00 
+2025-12-13 11:42:17 | INFO     | train | C3:0.33 
+2025-12-13 11:42:17 | INFO     | train | C4:0.35 
+2025-12-13 11:42:17 | INFO     | train | C5:0.73 
+2025-12-13 11:42:20 | INFO     | train | ✓ New best model saved! (Val Acc: 0.4422)
+2025-12-13 11:42:20 | INFO     | train | 
+============================================================
+2025-12-13 11:42:20 | INFO     | train | EPOCH 3/5
+2025-12-13 11:42:20 | INFO     | train | ============================================================
+2025-12-13 11:44:05 | INFO     | train | 
+Train Loss: 1.1258, Train Acc: 0.5021
+2025-12-13 11:44:25 | INFO     | train | Val Loss:   1.3298, Val Acc:   0.4740
+2025-12-13 11:44:25 | INFO     | train |   Per-class recall: 
+2025-12-13 11:44:25 | INFO     | train | C1:0.64 
+2025-12-13 11:44:25 | INFO     | train | C2:0.21 
+2025-12-13 11:44:25 | INFO     | train | C3:0.50 
+2025-12-13 11:44:25 | INFO     | train | C4:0.41 
+2025-12-13 11:44:25 | INFO     | train | C5:0.59 
+2025-12-13 11:44:28 | INFO     | train | ✓ New best model saved! (Val Acc: 0.4740)
+2025-12-13 11:44:28 | INFO     | train | 
+============================================================
+2025-12-13 11:44:28 | INFO     | train | EPOCH 4/5
+2025-12-13 11:44:28 | INFO     | train | ============================================================
+2025-12-13 11:46:03 | INFO     | train | 
+Train Loss: 0.8738, Train Acc: 0.6160
+2025-12-13 11:46:24 | INFO     | train | Val Loss:   1.5060, Val Acc:   0.4757
+2025-12-13 11:46:24 | INFO     | train |   Per-class recall: 
+2025-12-13 11:46:24 | INFO     | train | C1:0.21 
+2025-12-13 11:46:24 | INFO     | train | C2:0.39 
+2025-12-13 11:46:24 | INFO     | train | C3:0.17 
+2025-12-13 11:46:24 | INFO     | train | C4:0.47 
+2025-12-13 11:46:24 | INFO     | train | C5:0.77 
+2025-12-13 11:46:25 | INFO     | train | ✓ New best model saved! (Val Acc: 0.4757)
+2025-12-13 11:46:25 | INFO     | train | 
+============================================================
+2025-12-13 11:46:25 | INFO     | train | EPOCH 5/5
+2025-12-13 11:46:25 | INFO     | train | ============================================================
+2025-12-13 11:47:54 | INFO     | train | 
+Train Loss: 0.6538, Train Acc: 0.7265
+2025-12-13 11:48:14 | INFO     | train | Val Loss:   1.6030, Val Acc:   0.4908
+2025-12-13 11:48:14 | INFO     | train |   Per-class recall: 
+2025-12-13 11:48:14 | INFO     | train | C1:0.18 
+2025-12-13 11:48:14 | INFO     | train | C2:0.39 
+2025-12-13 11:48:14 | INFO     | train | C3:0.25 
+2025-12-13 11:48:14 | INFO     | train | C4:0.46 
+2025-12-13 11:48:14 | INFO     | train | C5:0.77 
+2025-12-13 11:48:16 | INFO     | train | ✓ New best model saved! (Val Acc: 0.4908)
+2025-12-13 11:48:16 | INFO     | train | TRAINING COMPLETE!
+2025-12-13 11:48:16 | INFO     | train | 
+Best validation accuracy: 0.4908 (Epoch 5)
+2025-12-13 11:48:16 | INFO     | train | 
+Loading best model from output/best_model.pt...
+2025-12-13 11:48:17 | INFO     | train | ✓ Loaded best model from epoch 5
+2025-12-13 11:48:17 | INFO     | train | TRAINING HISTORY
+2025-12-13 11:48:17 | INFO     | train | ✓ Training history saved to output/training_history.png
+2025-12-13 11:48:17 | INFO     | train | TRAINING COMPLETE!
+2025-12-13 11:48:17 | INFO     | train | 
+Best model saved to: output/best_model.pt
+2025-12-13 11:48:17 | INFO     | train | To run full evaluation, use: python 03_evaluation.py
+2025-12-13 11:52:27 | INFO     | evaluation | Model Evaluation
+2025-12-13 11:52:27 | INFO     | evaluation | 
+Configuration:
+2025-12-13 11:52:27 | INFO     | evaluation |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 11:52:27 | INFO     | evaluation |   Train path: data/processed/train.csv
+2025-12-13 11:52:27 | INFO     | evaluation |   Test path: data/processed/test.csv
+2025-12-13 11:52:27 | INFO     | evaluation |   Model path: output/best_model.pt
+2025-12-13 11:52:27 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-13 11:52:27 | INFO     | evaluation | 
+Training data: (2985, 8)
+2025-12-13 11:52:27 | INFO     | evaluation | Test data: (92, 15)
+2025-12-13 11:52:27 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 11:52:28 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-13 11:52:28 | INFO     | evaluation | 
+Tokenizing data...
+2025-12-13 11:52:28 | INFO     | evaluation | 
+Dataset sizes:
+2025-12-13 11:52:28 | INFO     | evaluation |   Validation: 597 samples
+2025-12-13 11:52:28 | INFO     | evaluation |   Test:       92 samples
+2025-12-13 11:52:28 | INFO     | evaluation | 
+DataLoader settings: num_workers=2, pin_memory=True
+2025-12-13 11:52:28 | INFO     | evaluation | 
+✓ DataLoaders created
+2025-12-13 11:52:28 | INFO     | evaluation |   Val batches:  38
+2025-12-13 11:52:28 | INFO     | evaluation |   Test batches: 6
+2025-12-13 11:52:28 | INFO     | evaluation | 
+Device: mps
+2025-12-13 11:52:28 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-13 11:52:29 | INFO     | evaluation | ✓ Model loaded from epoch 5
+2025-12-13 11:52:29 | INFO     | evaluation |   Validation accuracy at save: 0.4908
+2025-12-13 11:52:29 | INFO     | evaluation | VALIDATION SET RESULTS
+2025-12-13 11:52:49 | INFO     | evaluation | 
+Classification Report (Validation):
+2025-12-13 11:52:49 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.5000    0.1786    0.2632        28
+     Class 2     0.3514    0.3939    0.3714        66
+     Class 3     0.3333    0.2519    0.2870       131
+     Class 4     0.4728    0.4628    0.4677       188
+     Class 5     0.6174    0.7717    0.6860       184
+
+    accuracy                         0.4908       597
+   macro avg     0.4550    0.4118    0.4151       597
+weighted avg     0.4746    0.4908    0.4751       597
+
+2025-12-13 11:52:49 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_validation.png
+2025-12-13 11:52:49 | INFO     | evaluation | TEST SET RESULTS
+2025-12-13 11:53:03 | INFO     | evaluation | 
+Classification Report (Test):
+2025-12-13 11:53:03 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.0000    0.0000    0.0000         6
+     Class 2     1.0000    0.1667    0.2857        18
+     Class 3     0.4286    0.3750    0.4000        24
+     Class 4     0.2895    0.5238    0.3729        21
+     Class 5     0.4667    0.6087    0.5283        23
+
+    accuracy                         0.4022        92
+   macro avg     0.4369    0.3348    0.3174        92
+weighted avg     0.4902    0.4022    0.3774        92
+
+2025-12-13 11:53:03 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_test.png
+2025-12-13 11:53:03 | INFO     | evaluation | ORDINAL EVALUATION METRICS
+2025-12-13 11:53:03 | INFO     | evaluation | 
+Validation Set:
+2025-12-13 11:53:03 | INFO     | evaluation |   Exact Accuracy:     0.4908
+2025-12-13 11:53:03 | INFO     | evaluation |   Within-1 Accuracy:  0.8861
+2025-12-13 11:53:03 | INFO     | evaluation |   Within-2 Accuracy:  0.9816
+2025-12-13 11:53:03 | INFO     | evaluation | 
+Test Set:
+2025-12-13 11:53:03 | INFO     | evaluation |   Exact Accuracy:     0.4022
+2025-12-13 11:53:03 | INFO     | evaluation |   Within-1 Accuracy:  0.7500
+2025-12-13 11:53:03 | INFO     | evaluation |   Within-2 Accuracy:  0.9565
+2025-12-13 11:53:03 | INFO     | evaluation | 
+Recall by class:
+2025-12-13 11:53:03 | INFO     | evaluation | ----------------------------------------
+2025-12-13 11:53:03 | INFO     | evaluation | Class      Validation      Test           
+2025-12-13 11:53:03 | INFO     | evaluation | ----------------------------------------
+2025-12-13 11:53:03 | INFO     | evaluation | Class 1    0.1786          0.0000         
+2025-12-13 11:53:03 | INFO     | evaluation | Class 2    0.3939          0.1667         
+2025-12-13 11:53:03 | INFO     | evaluation | Class 3    0.2519          0.3750         
+2025-12-13 11:53:03 | INFO     | evaluation | Class 4    0.4628          0.5238         
+2025-12-13 11:53:03 | INFO     | evaluation | Class 5    0.7717          0.6087         
+2025-12-13 11:53:03 | INFO     | evaluation | EVALUATION SUMMARY
+2025-12-13 11:53:03 | INFO     | evaluation | 
+Model: SZTAKI-HLT/hubert-base-cc
+Model path: output/best_model.pt
+
+Results:
+  Validation:
+    - Accuracy: 0.4908
+    - Within-1: 0.8861
+    - Within-2: 0.9816
+
+  Test:
+    - Accuracy: 0.4022
+    - Within-1: 0.7500
+    - Within-2: 0.9565
+
+Figures saved to: output
+
+2025-12-13 11:53:03 | INFO     | evaluation | EVALUATION COMPLETE!
+2025-12-13 11:53:17 | INFO     | inference | Inference Script
+2025-12-13 11:53:17 | INFO     | inference | Model path: output/best_model.pt
+2025-12-13 11:53:17 | INFO     | inference | Loading model from: output/best_model.pt
+2025-12-13 11:53:17 | INFO     | inference | Device: mps
+2025-12-13 11:53:17 | INFO     | inference | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 11:53:20 | INFO     | inference | Model loaded successfully (trained epoch: 5)
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | Sample texts to classify: 10
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | Sample data overview:
+2025-12-13 11:53:20 | INFO     | inference |   [1] Simple pricing statement (expected: easy)
+2025-12-13 11:53:20 | INFO     | inference |   [2] Basic contract term (expected: easy)
+2025-12-13 11:53:20 | INFO     | inference |   [3] Consumer withdrawal rights (expected: medium)
+2025-12-13 11:53:20 | INFO     | inference |   [4] Terms modification clause (expected: medium)
+2025-12-13 11:53:20 | INFO     | inference |   [5] Legal reference to Civil Code (expected: hard)
+2025-12-13 11:53:20 | INFO     | inference |   [6] IP violation consequences (expected: hard)
+2025-12-13 11:53:20 | INFO     | inference |   [7] Liability limitation clause (expected: hard)
+2025-12-13 11:53:20 | INFO     | inference |   [8] GDPR data controller info (expected: medium)
+2025-12-13 11:53:20 | INFO     | inference |   [9] Dispute resolution clause (expected: medium)
+2025-12-13 11:53:20 | INFO     | inference |   [10] Complex regulatory reference (expected: very_hard)
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | Running batched inference on 10 texts (batch_size=8)...
+2025-12-13 11:53:20 | INFO     | inference | Batched inference complete
+2025-12-13 11:53:20 | INFO     | inference | PREDICTION RESULTS
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | [Text 1] Simple pricing statement
+2025-12-13 11:53:20 | INFO     | inference |   Expected: easy → 4-5 (Érthető/Könnyen érthető)
+2025-12-13 11:53:20 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 11:53:20 | INFO     | inference |   Confidence: 94.81%
+2025-12-13 11:53:20 | INFO     | inference |   Length: 33 chars
+2025-12-13 11:53:20 | INFO     | inference |   Probabilities: L1: 0.6% | L2: 0.5% | L3: 0.7% | L4: 3.4% | L5: 94.8%
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | [Text 2] Basic contract term
+2025-12-13 11:53:20 | INFO     | inference |   Expected: easy → 4-5 (Érthető/Könnyen érthető)
+2025-12-13 11:53:20 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 11:53:20 | INFO     | inference |   Confidence: 94.20%
+2025-12-13 11:53:20 | INFO     | inference |   Length: 100 chars
+2025-12-13 11:53:20 | INFO     | inference |   Probabilities: L1: 0.6% | L2: 0.5% | L3: 0.5% | L4: 4.2% | L5: 94.2%
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | [Text 3] Consumer withdrawal rights
+2025-12-13 11:53:20 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 11:53:20 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 11:53:20 | INFO     | inference |   Confidence: 73.44%
+2025-12-13 11:53:20 | INFO     | inference |   Length: 219 chars
+2025-12-13 11:53:20 | INFO     | inference |   Probabilities: L1: 0.7% | L2: 1.2% | L3: 1.2% | L4: 23.5% | L5: 73.4%
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | [Text 4] Terms modification clause
+2025-12-13 11:53:20 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 11:53:20 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 11:53:20 | INFO     | inference |   Confidence: 92.78%
+2025-12-13 11:53:20 | INFO     | inference |   Length: 218 chars
+2025-12-13 11:53:20 | INFO     | inference |   Probabilities: L1: 0.4% | L2: 0.4% | L3: 0.5% | L4: 6.0% | L5: 92.8%
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | [Text 5] Legal reference to Civil Code
+2025-12-13 11:53:20 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-13 11:53:20 | INFO     | inference |   Predicted: 1 - Nagyon nehezen érthető (Very difficult)
+2025-12-13 11:53:20 | INFO     | inference |   Confidence: 57.09%
+2025-12-13 11:53:20 | INFO     | inference |   Length: 217 chars
+2025-12-13 11:53:20 | INFO     | inference |   Probabilities: L1: 57.1% | L2: 31.5% | L3: 6.9% | L4: 3.5% | L5: 0.9%
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | [Text 6] IP violation consequences
+2025-12-13 11:53:20 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-13 11:53:20 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-13 11:53:20 | INFO     | inference |   Confidence: 66.60%
+2025-12-13 11:53:20 | INFO     | inference |   Length: 339 chars
+2025-12-13 11:53:20 | INFO     | inference |   Probabilities: L1: 0.4% | L2: 2.8% | L3: 21.2% | L4: 66.6% | L5: 9.0%
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | [Text 7] Liability limitation clause
+2025-12-13 11:53:20 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-13 11:53:20 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-13 11:53:20 | INFO     | inference |   Confidence: 63.07%
+2025-12-13 11:53:20 | INFO     | inference |   Length: 269 chars
+2025-12-13 11:53:20 | INFO     | inference |   Probabilities: L1: 0.5% | L2: 1.8% | L3: 4.7% | L4: 63.1% | L5: 29.9%
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | [Text 8] GDPR data controller info
+2025-12-13 11:53:20 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 11:53:20 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-13 11:53:20 | INFO     | inference |   Confidence: 39.50%
+2025-12-13 11:53:20 | INFO     | inference |   Length: 166 chars
+2025-12-13 11:53:20 | INFO     | inference |   Probabilities: L1: 3.8% | L2: 5.3% | L3: 12.7% | L4: 39.5% | L5: 38.6%
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | [Text 9] Dispute resolution clause
+2025-12-13 11:53:20 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 11:53:20 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 11:53:20 | INFO     | inference |   Confidence: 77.85%
+2025-12-13 11:53:20 | INFO     | inference |   Length: 221 chars
+2025-12-13 11:53:20 | INFO     | inference |   Probabilities: L1: 0.5% | L2: 1.2% | L3: 1.4% | L4: 19.0% | L5: 77.8%
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | [Text 10] Complex regulatory reference
+2025-12-13 11:53:20 | INFO     | inference |   Expected: very_hard → 1 (Nagyon nehezen érthető)
+2025-12-13 11:53:20 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-13 11:53:20 | INFO     | inference |   Confidence: 39.15%
+2025-12-13 11:53:20 | INFO     | inference |   Length: 328 chars
+2025-12-13 11:53:20 | INFO     | inference |   Probabilities: L1: 0.8% | L2: 18.7% | L3: 35.0% | L4: 39.1% | L5: 6.3%
+2025-12-13 11:53:20 | INFO     | inference | SUMMARY
+2025-12-13 11:53:20 | INFO     | inference | Total texts: 10
+2025-12-13 11:53:20 | INFO     | inference | Average confidence: 69.85%
+2025-12-13 11:53:20 | INFO     | inference | 
+2025-12-13 11:53:20 | INFO     | inference | Label distribution:
+2025-12-13 11:53:20 | INFO     | inference |   Label 1: 1 (10.0%)
+2025-12-13 11:53:20 | INFO     | inference |   Label 2: 0 (0.0%)
+2025-12-13 11:53:20 | INFO     | inference |   Label 3: 0 (0.0%)
+2025-12-13 11:53:20 | INFO     | inference |   Label 4: 4 (40.0%)
+2025-12-13 11:53:20 | INFO     | inference |   Label 5: 5 (50.0%)
+2025-12-13 11:53:20 | INFO     | inference | INFERENCE COMPLETE
+2025-12-13 16:13:59 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-13 16:13:59 | INFO     | train | 
+Configuration:
+2025-12-13 16:13:59 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:13:59 | INFO     | train |   Batch size: 16
+2025-12-13 16:13:59 | INFO     | train |   Learning rate: 3e-05
+2025-12-13 16:13:59 | INFO     | train |   Epochs: 5
+2025-12-13 16:13:59 | INFO     | train |   Max length: 256
+2025-12-13 16:13:59 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-13 16:13:59 | INFO     | train |   Validation path: data/processed/validation.csv
+2025-12-13 16:13:59 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-13 16:13:59 | INFO     | train | LOADING DATA
+2025-12-13 16:16:04 | INFO     | aggregate_jsons | Starting data pipeline...
+2025-12-13 16:16:04 | INFO     | aggregate_jsons | Input directory: data/original
+2025-12-13 16:16:04 | INFO     | aggregate_jsons | Output directory: data/aggregated
+2025-12-13 16:16:04 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-13 16:16:04 | INFO     | aggregate_jsons | Downloading data from SharePoint...
+2025-12-13 16:16:04 | INFO     | aggregate_jsons | Download size: 11.6 MB
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Downloaded 11.6 MB
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Extracting zip contents...
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Flattening nested folder: legaltextdecoder
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Clearing existing data in data/original...
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Moving data to data/original...
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Extraction complete!
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Starting data aggregation...
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: A5VHUA
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     merged_annotations.json: 159 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     nemzeti_tehetseg_program_aszf_labeled.json: 68 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     belvarosi_epito_aszf_labeled.json: 91 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: BCLHKC
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     cimkezes.json: 107 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: BP17IB
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     meta.json: 0 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: E77YIW
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     mak_aszf_cimkezes.json: 105 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: EKGPBX
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     project-29-at-2025-10-16-16-34-dc747442.json: 269 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: F0B9YK
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     holyduck_aszf.json: 151 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: FA0B9B
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     FA0B9B_labeling.json: 104 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: G1QFG2
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     cimkezes.json: 103 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: GSFSJ1
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     fonallak_cimkezes.json: 101 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: HV75KB
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     labels.json: 124 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: HW921K
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     labeled_terms.json: 123 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: I1TLYH
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     epitesi_beruhazas.json: 168 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     dpd.json: 110 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: J0R9YS
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: K3I7DL
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     KH_aszf_cimkezes.json: 92 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: KRR9OD
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: LWVUH9
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     shiver_aszf_cimkezes.json: 89 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     sportkorhaz_aszf_cimkezes.json: 69 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: LXXAMS
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     budapestgo_aszf.json: 133 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: MDKFWC
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     hasznalt_auto_cimkek.json: 143 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: NHVU6N
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     hardverapro_labeled.json: 40 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     zalando_labeled.json: 50 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     netkazan_labeled.json: 15 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: Q88P3E
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     erste-diakhitel-kozpont_cimkezes.json: 224 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: QG1L1V
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     granit_bank_cimkezes.json: 119 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: R1Q6I8
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     telekom_aszf.json: 110 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: R92D9T
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: SS0N7G
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     alza_aszf.json: 189 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: T989VT
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     legal_text_dataset.json: 144 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: TFH22P
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     cimekezes.json: 126 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: UJVBTY
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: WFXBHI
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     kepregeny_depo_aszf.json: 67 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     libri_aszf.json: 120 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: XQEBMQ
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     xqebmq.json: 111 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Processing student: Z7ZF6D
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     vatera-aszf.json: 120 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Skipping excluded folder: consensus
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Skipping excluded folder: sample
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Aggregation complete!
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Total records: 3744
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Output file: data/aggregated/labeled_data.csv
+2025-12-13 16:16:05 | INFO     | aggregate_jsons | Statistics:
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Unique students: 25
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Unique texts: 3399
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |   Label distribution:
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     Label 1: 200 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     Label 2: 450 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     Label 3: 814 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     Label 4: 1121 records
+2025-12-13 16:16:05 | INFO     | aggregate_jsons |     Label 5: 1159 records
+2025-12-13 16:16:11 | INFO     | refinement | Source file: data/aggregated/labeled_data.csv
+2025-12-13 16:16:11 | INFO     | refinement | Destination directory: data/processed
+2025-12-13 16:16:11 | INFO     | refinement | Reading source data...
+2025-12-13 16:16:11 | INFO     | refinement |   Source file: data/aggregated/labeled_data.csv
+2025-12-13 16:16:11 | INFO     | refinement |   Loaded 3744 entries.
+2025-12-13 16:16:11 | INFO     | refinement | Creating stratified train, validation, and test splits...
+2025-12-13 16:16:11 | INFO     | refinement |   Training set size: 2695
+2025-12-13 16:16:11 | INFO     | refinement |   Validation set size: 300
+2025-12-13 16:16:11 | INFO     | refinement |   Test set size: 749
+2025-12-13 16:16:11 | INFO     | refinement | Filtering to relevant columns...
+2025-12-13 16:16:11 | INFO     | refinement |   Kept 7 columns.
+2025-12-13 16:16:11 | INFO     | refinement | Resolving duplicate content entries...
+2025-12-13 16:16:11 | INFO     | refinement | Found 179 duplicate content entries out of 2695.
+2025-12-13 16:16:11 | INFO     | refinement | Removed 179 duplicate entries. New count: 2516
+2025-12-13 16:16:11 | INFO     | refinement | Filtering out entries with content length < 50 chars.
+2025-12-13 16:16:11 | INFO     | refinement | Removed 103 short-content entries.
+2025-12-13 16:16:11 | INFO     | refinement | Excluding annotators with avg. lead time < 10.0s.
+2025-12-13 16:16:11 | INFO     | refinement | Found rushed annotators to exclude:
+2025-12-13 16:16:11 | INFO     | refinement |   - EKGPBX
+2025-12-13 16:16:11 | INFO     | refinement |   - XQEBMQ
+2025-12-13 16:16:11 | INFO     | refinement | Removed 158 entries from 2 rushed annotators.
+2025-12-13 16:16:11 | INFO     | refinement | FINAL DATASET SUMMARIES
+2025-12-13 16:16:11 | INFO     | refinement | Training Set Summary:
+2025-12-13 16:16:11 | INFO     | refinement |   Total Entries: 2255
+2025-12-13 16:16:11 | INFO     | refinement |   Unique Content Snippets: 2255
+2025-12-13 16:16:11 | INFO     | refinement |   Unique Annotators: 23
+2025-12-13 16:16:11 | INFO     | refinement |   Avg Content Length: 428 chars
+2025-12-13 16:16:11 | INFO     | refinement |   Median Content Length: 318 chars
+2025-12-13 16:16:11 | INFO     | refinement |   Avg Annotation Time: 45.39s
+2025-12-13 16:16:11 | INFO     | refinement |   Median Annotation Time: 13.90s
+2025-12-13 16:16:11 | INFO     | refinement |  Rating Distribution:
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 1:  110 ( 4.88%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 2:  258 (11.44%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 3:  505 (22.39%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 4:  704 (31.22%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 5:  678 (30.07%)
+2025-12-13 16:16:11 | INFO     | refinement | Validation Set Summary:
+2025-12-13 16:16:11 | INFO     | refinement |   Total Entries: 300
+2025-12-13 16:16:11 | INFO     | refinement |   Unique Content Snippets: 295
+2025-12-13 16:16:11 | INFO     | refinement |   Unique Annotators: 25
+2025-12-13 16:16:11 | INFO     | refinement |   Avg Content Length: 444 chars
+2025-12-13 16:16:11 | INFO     | refinement |   Median Content Length: 303 chars
+2025-12-13 16:16:11 | INFO     | refinement |   Avg Annotation Time: 67.82s
+2025-12-13 16:16:11 | INFO     | refinement |   Median Annotation Time: 11.27s
+2025-12-13 16:16:11 | INFO     | refinement |  Rating Distribution:
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 1:   16 ( 5.33%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 2:   36 (12.00%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 3:   65 (21.67%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 4:   90 (30.00%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 5:   93 (31.00%)
+2025-12-13 16:16:11 | INFO     | refinement | Test Set Summary:
+2025-12-13 16:16:11 | INFO     | refinement |   Total Entries: 749
+2025-12-13 16:16:11 | INFO     | refinement |   Unique Content Snippets: 736
+2025-12-13 16:16:11 | INFO     | refinement |   Unique Annotators: 25
+2025-12-13 16:16:11 | INFO     | refinement |   Avg Content Length: 407 chars
+2025-12-13 16:16:11 | INFO     | refinement |   Median Content Length: 326 chars
+2025-12-13 16:16:11 | INFO     | refinement |   Avg Annotation Time: 40.66s
+2025-12-13 16:16:11 | INFO     | refinement |   Median Annotation Time: 12.22s
+2025-12-13 16:16:11 | INFO     | refinement |  Rating Distribution:
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 1:   40 ( 5.34%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 2:   90 (12.02%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 3:  163 (21.76%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 4:  224 (29.91%)
+2025-12-13 16:16:11 | INFO     | refinement |     Rating 5:  232 (30.97%)
+2025-12-13 16:16:11 | INFO     | refinement | Writing final datasets to output files...
+2025-12-13 16:16:11 | INFO     | refinement | Saved training data to: data/processed/train.csv (2255 entries)
+2025-12-13 16:16:11 | INFO     | refinement | Saved validation data to: data/processed/validation.csv (300 entries)
+2025-12-13 16:16:11 | INFO     | refinement | Saved test data to: data/processed/test.csv (749 entries)
+2025-12-13 16:16:11 | INFO     | refinement | Generating visual report of the cleaned dataset...
+2025-12-13 16:16:11 | INFO     | refinement | Visual report saved to 'media' directory.
+2025-12-13 16:16:11 | INFO     | refinement | DATA PREPROCESSING REPORT
+2025-12-13 16:16:11 | INFO     | refinement | Initial entry count: 3744
+2025-12-13 16:16:11 | INFO     | refinement | Entries moved to test set: 0
+2025-12-13 16:16:11 | INFO     | refinement | Duplicate entries removed: 179
+2025-12-13 16:16:11 | INFO     | refinement | Short content entries removed: 103
+2025-12-13 16:16:11 | INFO     | refinement | Entries from low-quality annotators removed: 158
+2025-12-13 16:16:11 | INFO     | refinement | Excluded annotator IDs: EKGPBX, XQEBMQ
+2025-12-13 16:16:11 | INFO     | refinement | Final training entries: 2255
+2025-12-13 16:16:11 | INFO     | refinement | Final validation entries: 300
+2025-12-13 16:16:11 | INFO     | refinement | Final test entries: 749
+2025-12-13 16:16:11 | INFO     | refinement | Total final entries: 3304
+2025-12-13 16:16:11 | INFO     | refinement | DATA REFINEMENT WORKFLOW COMPLETE!
+2025-12-13 16:16:11 | INFO     | refinement | Output files are ready for model training.
+2025-12-13 16:16:18 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-13 16:16:18 | INFO     | train | 
+Configuration:
+2025-12-13 16:16:18 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:16:18 | INFO     | train |   Batch size: 16
+2025-12-13 16:16:18 | INFO     | train |   Learning rate: 3e-05
+2025-12-13 16:16:18 | INFO     | train |   Epochs: 5
+2025-12-13 16:16:18 | INFO     | train |   Max length: 256
+2025-12-13 16:16:18 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-13 16:16:18 | INFO     | train |   Validation path: data/processed/validation.csv
+2025-12-13 16:16:18 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-13 16:16:18 | INFO     | train | LOADING DATA
+2025-12-13 16:16:18 | INFO     | train | Resolved train CSV: /Users/herbolybalamber/Downloads/LegalTextDecoder-main/data/processed/train.csv
+2025-12-13 16:16:18 | INFO     | train | Resolved val CSV:   /Users/herbolybalamber/Downloads/LegalTextDecoder-main/data/processed/validation.csv
+2025-12-13 16:16:18 | INFO     | train | Resolved test CSV:  /Users/herbolybalamber/Downloads/LegalTextDecoder-main/data/processed/test.csv
+2025-12-13 16:16:18 | INFO     | train | 
+Training data: (2255, 8)
+2025-12-13 16:16:18 | INFO     | train | Validation data: (300, 15)
+2025-12-13 16:16:18 | INFO     | train | Test data: (749, 15)
+2025-12-13 16:16:18 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:16:18 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-13 16:16:18 | INFO     | train | 
+Class weights (computed from train + validation):
+2025-12-13 16:16:18 | INFO     | train |   Class 1: 4.0556
+2025-12-13 16:16:18 | INFO     | train |   Class 2: 1.7381
+2025-12-13 16:16:18 | INFO     | train |   Class 3: 0.8965
+2025-12-13 16:16:18 | INFO     | train |   Class 4: 0.6436
+2025-12-13 16:16:18 | INFO     | train |   Class 5: 0.6628
+2025-12-13 16:16:18 | INFO     | train | TOKENIZING DATASETS
+2025-12-13 16:16:18 | INFO     | train | 
+Tokenizing training data...
+2025-12-13 16:16:18 | INFO     | train | ✓ Training data tokenized: 2255 samples
+2025-12-13 16:16:18 | INFO     | train | Tokenizing validation data...
+2025-12-13 16:16:18 | INFO     | train | ✓ Validation data tokenized: 300 samples
+2025-12-13 16:16:18 | INFO     | train | Tokenizing test data...
+2025-12-13 16:16:19 | INFO     | train | ✓ Test data tokenized: 749 samples
+2025-12-13 16:16:19 | INFO     | train | 
+Dataset sizes:
+2025-12-13 16:16:19 | INFO     | train |   Training:   2255 samples
+2025-12-13 16:16:19 | INFO     | train |   Validation: 300 samples
+2025-12-13 16:16:19 | INFO     | train |   Test:       749 samples
+2025-12-13 16:16:19 | INFO     | train | 
+Label distributions:
+2025-12-13 16:16:19 | INFO     | train | 
+Training set:
+2025-12-13 16:16:19 | INFO     | train |   Class 1:  110 samples ( 4.88%)
+2025-12-13 16:16:19 | INFO     | train |   Class 2:  258 samples (11.44%)
+2025-12-13 16:16:19 | INFO     | train |   Class 3:  505 samples (22.39%)
+2025-12-13 16:16:19 | INFO     | train |   Class 4:  704 samples (31.22%)
+2025-12-13 16:16:19 | INFO     | train |   Class 5:  678 samples (30.07%)
+2025-12-13 16:16:19 | INFO     | train | 
+Validation set:
+2025-12-13 16:16:19 | INFO     | train |   Class 1:   16 samples ( 5.33%)
+2025-12-13 16:16:19 | INFO     | train |   Class 2:   36 samples (12.00%)
+2025-12-13 16:16:19 | INFO     | train |   Class 3:   65 samples (21.67%)
+2025-12-13 16:16:19 | INFO     | train |   Class 4:   90 samples (30.00%)
+2025-12-13 16:16:19 | INFO     | train |   Class 5:   93 samples (31.00%)
+2025-12-13 16:16:19 | INFO     | train | 
+Test set:
+2025-12-13 16:16:19 | INFO     | train |   Class 1:   40 samples ( 5.34%)
+2025-12-13 16:16:19 | INFO     | train |   Class 2:   90 samples (12.02%)
+2025-12-13 16:16:19 | INFO     | train |   Class 3:  163 samples (21.76%)
+2025-12-13 16:16:19 | INFO     | train |   Class 4:  224 samples (29.91%)
+2025-12-13 16:16:19 | INFO     | train |   Class 5:  232 samples (30.97%)
+2025-12-13 16:16:19 | INFO     | train | CREATING DATALOADERS
+2025-12-13 16:16:20 | INFO     | train | ✓ Created PyTorch datasets
+2025-12-13 16:16:20 | INFO     | train |   Train: 2255 samples
+2025-12-13 16:16:20 | INFO     | train |   Val:   300 samples
+2025-12-13 16:16:20 | INFO     | train |   Test:  749 samples
+2025-12-13 16:16:20 | INFO     | train | 
+DataLoader settings: num_workers=2, pin_memory=True
+2025-12-13 16:16:20 | INFO     | train | 
+✓ Created DataLoaders
+2025-12-13 16:16:20 | INFO     | train |   Train batches: 141
+2025-12-13 16:16:20 | INFO     | train |   Val batches:   19
+2025-12-13 16:16:20 | INFO     | train |   Test batches:  47
+2025-12-13 16:19:39 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-13 16:19:39 | INFO     | train | 
+Configuration:
+2025-12-13 16:19:39 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:19:39 | INFO     | train |   Batch size: 16
+2025-12-13 16:19:39 | INFO     | train |   Learning rate: 3e-05
+2025-12-13 16:19:39 | INFO     | train |   Epochs: 5
+2025-12-13 16:19:39 | INFO     | train |   Max length: 256
+2025-12-13 16:19:39 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-13 16:19:39 | INFO     | train |   Validation path: data/processed/validation.csv
+2025-12-13 16:19:39 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-13 16:19:39 | INFO     | train | LOADING DATA
+2025-12-13 16:19:39 | INFO     | train | Resolved train CSV: /Users/herbolybalamber/Downloads/LegalTextDecoder-main/data/processed/train.csv
+2025-12-13 16:19:39 | INFO     | train | Resolved val CSV:   /Users/herbolybalamber/Downloads/LegalTextDecoder-main/data/processed/validation.csv
+2025-12-13 16:19:39 | INFO     | train | Resolved test CSV:  /Users/herbolybalamber/Downloads/LegalTextDecoder-main/data/processed/test.csv
+2025-12-13 16:19:39 | INFO     | train | 
+Training data: (2255, 8)
+2025-12-13 16:19:39 | INFO     | train | Validation data: (300, 15)
+2025-12-13 16:19:39 | INFO     | train | Test data: (749, 15)
+2025-12-13 16:19:39 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:19:40 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-13 16:19:40 | INFO     | train | 
+Class weights (computed from train + validation):
+2025-12-13 16:19:40 | INFO     | train |   Class 1: 4.0556
+2025-12-13 16:19:40 | INFO     | train |   Class 2: 1.7381
+2025-12-13 16:19:40 | INFO     | train |   Class 3: 0.8965
+2025-12-13 16:19:40 | INFO     | train |   Class 4: 0.6436
+2025-12-13 16:19:40 | INFO     | train |   Class 5: 0.6628
+2025-12-13 16:19:40 | INFO     | train | TOKENIZING DATASETS
+2025-12-13 16:19:40 | INFO     | train | 
+Tokenizing training data...
+2025-12-13 16:19:40 | INFO     | train | ✓ Training data tokenized: 2255 samples
+2025-12-13 16:19:40 | INFO     | train | Tokenizing validation data...
+2025-12-13 16:19:40 | INFO     | train | ✓ Validation data tokenized: 300 samples
+2025-12-13 16:19:40 | INFO     | train | Tokenizing test data...
+2025-12-13 16:19:40 | INFO     | train | ✓ Test data tokenized: 749 samples
+2025-12-13 16:19:40 | INFO     | train | 
+Dataset sizes:
+2025-12-13 16:19:40 | INFO     | train |   Training:   2255 samples
+2025-12-13 16:19:40 | INFO     | train |   Validation: 300 samples
+2025-12-13 16:19:40 | INFO     | train |   Test:       749 samples
+2025-12-13 16:19:40 | INFO     | train | 
+Label distributions:
+2025-12-13 16:19:40 | INFO     | train | 
+Training set:
+2025-12-13 16:19:40 | INFO     | train |   Class 1:  110 samples ( 4.88%)
+2025-12-13 16:19:40 | INFO     | train |   Class 2:  258 samples (11.44%)
+2025-12-13 16:19:40 | INFO     | train |   Class 3:  505 samples (22.39%)
+2025-12-13 16:19:40 | INFO     | train |   Class 4:  704 samples (31.22%)
+2025-12-13 16:19:40 | INFO     | train |   Class 5:  678 samples (30.07%)
+2025-12-13 16:19:40 | INFO     | train | 
+Validation set:
+2025-12-13 16:19:40 | INFO     | train |   Class 1:   16 samples ( 5.33%)
+2025-12-13 16:19:40 | INFO     | train |   Class 2:   36 samples (12.00%)
+2025-12-13 16:19:40 | INFO     | train |   Class 3:   65 samples (21.67%)
+2025-12-13 16:19:40 | INFO     | train |   Class 4:   90 samples (30.00%)
+2025-12-13 16:19:40 | INFO     | train |   Class 5:   93 samples (31.00%)
+2025-12-13 16:19:40 | INFO     | train | 
+Test set:
+2025-12-13 16:19:40 | INFO     | train |   Class 1:   40 samples ( 5.34%)
+2025-12-13 16:19:40 | INFO     | train |   Class 2:   90 samples (12.02%)
+2025-12-13 16:19:40 | INFO     | train |   Class 3:  163 samples (21.76%)
+2025-12-13 16:19:40 | INFO     | train |   Class 4:  224 samples (29.91%)
+2025-12-13 16:19:40 | INFO     | train |   Class 5:  232 samples (30.97%)
+2025-12-13 16:19:40 | INFO     | train | CREATING DATALOADERS
+2025-12-13 16:19:41 | INFO     | train | ✓ Created PyTorch datasets
+2025-12-13 16:19:41 | INFO     | train |   Train: 2255 samples
+2025-12-13 16:19:41 | INFO     | train |   Val:   300 samples
+2025-12-13 16:19:41 | INFO     | train |   Test:  749 samples
+2025-12-13 16:19:41 | INFO     | train | 
+DataLoader settings: num_workers=0, pin_memory=True
+2025-12-13 16:19:41 | INFO     | train | 
+✓ Created DataLoaders
+2025-12-13 16:19:41 | INFO     | train |   Train batches: 141
+2025-12-13 16:19:41 | INFO     | train |   Val batches:   19
+2025-12-13 16:19:41 | INFO     | train |   Test batches:  47
+2025-12-13 16:25:06 | INFO     | train | LOADING DATA
+2025-12-13 16:25:06 | INFO     | train | Resolved train CSV: /Users/herbolybalamber/Downloads/LegalTextDecoder-main/data/processed/train.csv
+2025-12-13 16:25:06 | INFO     | train | Resolved val CSV:   /Users/herbolybalamber/Downloads/LegalTextDecoder-main/data/processed/validation.csv
+2025-12-13 16:25:06 | INFO     | train | Resolved test CSV:  /Users/herbolybalamber/Downloads/LegalTextDecoder-main/data/processed/test.csv
+2025-12-13 16:25:06 | INFO     | train | 
+Training data: (2255, 8)
+2025-12-13 16:25:06 | INFO     | train | Validation data: (300, 15)
+2025-12-13 16:25:06 | INFO     | train | Test data: (749, 15)
+2025-12-13 16:25:06 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:25:06 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-13 16:25:06 | INFO     | train | 
+Class weights (computed from train + validation):
+2025-12-13 16:25:06 | INFO     | train |   Class 1: 4.0556
+2025-12-13 16:25:06 | INFO     | train |   Class 2: 1.7381
+2025-12-13 16:25:06 | INFO     | train |   Class 3: 0.8965
+2025-12-13 16:25:06 | INFO     | train |   Class 4: 0.6436
+2025-12-13 16:25:06 | INFO     | train |   Class 5: 0.6628
+2025-12-13 16:25:06 | INFO     | train | TOKENIZING DATASETS
+2025-12-13 16:25:06 | INFO     | train | 
+Tokenizing training data...
+2025-12-13 16:25:06 | INFO     | train | ✓ Training data tokenized: 2255 samples
+2025-12-13 16:25:06 | INFO     | train | Tokenizing validation data...
+2025-12-13 16:25:06 | INFO     | train | ✓ Validation data tokenized: 300 samples
+2025-12-13 16:25:06 | INFO     | train | Tokenizing test data...
+2025-12-13 16:25:07 | INFO     | train | ✓ Test data tokenized: 749 samples
+2025-12-13 16:25:07 | INFO     | train | 
+Dataset sizes:
+2025-12-13 16:25:07 | INFO     | train |   Training:   2255 samples
+2025-12-13 16:25:07 | INFO     | train |   Validation: 300 samples
+2025-12-13 16:25:07 | INFO     | train |   Test:       749 samples
+2025-12-13 16:25:07 | INFO     | train | 
+Label distributions:
+2025-12-13 16:25:07 | INFO     | train | 
+Training set:
+2025-12-13 16:25:07 | INFO     | train |   Class 1:  110 samples ( 4.88%)
+2025-12-13 16:25:07 | INFO     | train |   Class 2:  258 samples (11.44%)
+2025-12-13 16:25:07 | INFO     | train |   Class 3:  505 samples (22.39%)
+2025-12-13 16:25:07 | INFO     | train |   Class 4:  704 samples (31.22%)
+2025-12-13 16:25:07 | INFO     | train |   Class 5:  678 samples (30.07%)
+2025-12-13 16:25:07 | INFO     | train | 
+Validation set:
+2025-12-13 16:25:07 | INFO     | train |   Class 1:   16 samples ( 5.33%)
+2025-12-13 16:25:07 | INFO     | train |   Class 2:   36 samples (12.00%)
+2025-12-13 16:25:07 | INFO     | train |   Class 3:   65 samples (21.67%)
+2025-12-13 16:25:07 | INFO     | train |   Class 4:   90 samples (30.00%)
+2025-12-13 16:25:07 | INFO     | train |   Class 5:   93 samples (31.00%)
+2025-12-13 16:25:07 | INFO     | train | 
+Test set:
+2025-12-13 16:25:07 | INFO     | train |   Class 1:   40 samples ( 5.34%)
+2025-12-13 16:25:07 | INFO     | train |   Class 2:   90 samples (12.02%)
+2025-12-13 16:25:07 | INFO     | train |   Class 3:  163 samples (21.76%)
+2025-12-13 16:25:07 | INFO     | train |   Class 4:  224 samples (29.91%)
+2025-12-13 16:25:07 | INFO     | train |   Class 5:  232 samples (30.97%)
+2025-12-13 16:25:07 | INFO     | train | CREATING DATALOADERS
+2025-12-13 16:26:31 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-13 16:26:31 | INFO     | train | 
+Configuration:
+2025-12-13 16:26:31 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:26:31 | INFO     | train |   Batch size: 16
+2025-12-13 16:26:31 | INFO     | train |   Learning rate: 3e-05
+2025-12-13 16:26:31 | INFO     | train |   Epochs: 5
+2025-12-13 16:26:31 | INFO     | train |   Max length: 256
+2025-12-13 16:26:31 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-13 16:26:31 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-13 16:26:31 | INFO     | train | LOADING DATA
+2025-12-13 16:26:31 | INFO     | train | 
+Training data: (2255, 8)
+2025-12-13 16:26:31 | INFO     | train | Test data: (749, 15)
+2025-12-13 16:26:31 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:26:32 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-13 16:26:32 | INFO     | train | 
+Class weights:
+2025-12-13 16:26:32 | INFO     | train |   Class 1: 4.1000
+2025-12-13 16:26:32 | INFO     | train |   Class 2: 1.7481
+2025-12-13 16:26:32 | INFO     | train |   Class 3: 0.8931
+2025-12-13 16:26:32 | INFO     | train |   Class 4: 0.6406
+2025-12-13 16:26:32 | INFO     | train |   Class 5: 0.6652
+2025-12-13 16:26:32 | INFO     | train | CREATING DATA SPLITS
+2025-12-13 16:26:32 | INFO     | train | 
+Tokenizing training data...
+2025-12-13 16:26:32 | INFO     | train | ✓ Training data tokenized: 2255 samples
+2025-12-13 16:26:32 | INFO     | train | Tokenizing test data...
+2025-12-13 16:26:32 | INFO     | train | ✓ Test data tokenized: 749 samples
+2025-12-13 16:26:32 | INFO     | train | 
+Split sizes:
+2025-12-13 16:26:32 | INFO     | train |   Training:   1691 samples
+2025-12-13 16:26:32 | INFO     | train |   Validation: 564 samples
+2025-12-13 16:26:32 | INFO     | train |   Test:       749 samples
+2025-12-13 16:26:32 | INFO     | train | 
+Label distribution in training:
+2025-12-13 16:26:32 | INFO     | train |   Class 1:   83 samples ( 4.91%)
+2025-12-13 16:26:32 | INFO     | train |   Class 2:  193 samples (11.41%)
+2025-12-13 16:26:32 | INFO     | train |   Class 3:  379 samples (22.41%)
+2025-12-13 16:26:32 | INFO     | train |   Class 4:  528 samples (31.22%)
+2025-12-13 16:26:32 | INFO     | train |   Class 5:  508 samples (30.04%)
+2025-12-13 16:26:32 | INFO     | train | CREATING DATALOADERS
+2025-12-13 16:26:32 | INFO     | train | ✓ Created PyTorch datasets
+2025-12-13 16:26:32 | INFO     | train |   Train: 1691 samples
+2025-12-13 16:26:32 | INFO     | train |   Val:   564 samples
+2025-12-13 16:26:32 | INFO     | train |   Test:  749 samples
+2025-12-13 16:26:32 | INFO     | train | 
+✓ Created DataLoaders
+2025-12-13 16:26:32 | INFO     | train |   Train batches: 106
+2025-12-13 16:26:32 | INFO     | train |   Val batches:   36
+2025-12-13 16:26:32 | INFO     | train |   Test batches:  47
+2025-12-13 16:26:32 | INFO     | train | 
+Sample batch verification:
+2025-12-13 16:26:32 | INFO     | train |   input_ids shape: torch.Size([16, 256])
+2025-12-13 16:26:32 | INFO     | train |   attention_mask shape: torch.Size([16, 256])
+2025-12-13 16:26:32 | INFO     | train |   labels shape: torch.Size([16])
+2025-12-13 16:26:32 | INFO     | train |   labels range: 0 to 4
+2025-12-13 16:26:32 | INFO     | train | INITIALIZING TRAINING COMPONENTS
+2025-12-13 16:26:32 | INFO     | train | 
+Device: cpu
+2025-12-13 16:26:32 | INFO     | train | PyTorch version: 2.9.1
+2025-12-13 16:26:32 | INFO     | train | 
+Loading model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:26:32 | INFO     | train | ✓ Model loaded and moved to cpu
+2025-12-13 16:26:32 | INFO     | train |   Total parameters: 110,621,957
+2025-12-13 16:26:32 | INFO     | train |   Trainable parameters: 110,621,957
+2025-12-13 16:26:32 | INFO     | train |   Model architecture:
+BertForSequenceClassification(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(32001, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSdpaSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+    (pooler): BertPooler(
+      (dense): Linear(in_features=768, out_features=768, bias=True)
+      (activation): Tanh()
+    )
+  )
+  (dropout): Dropout(p=0.1, inplace=False)
+  (classifier): Linear(in_features=768, out_features=5, bias=True)
+)
+2025-12-13 16:26:32 | INFO     | train | 
+✓ Class weights prepared: ['4.100', '1.748', '0.893', '0.641', '0.665']
+2025-12-13 16:26:32 | INFO     | train | ✓ Loss function: CrossEntropyLoss with class weights
+2025-12-13 16:26:32 | INFO     | train | ✓ Optimizer: AdamW (lr=3e-05)
+2025-12-13 16:26:32 | INFO     | train | ✓ Scheduler: Linear with warmup
+2025-12-13 16:26:32 | INFO     | train |   Total training steps: 530
+2025-12-13 16:26:32 | INFO     | train |   Warmup steps: 53
+2025-12-13 16:26:32 | INFO     | train | 
+✓ All training components initialized!
+2025-12-13 16:26:32 | INFO     | train | STARTING TRAINING
+2025-12-13 16:26:32 | INFO     | train | 
+Training for 5 epochs...
+2025-12-13 16:26:32 | INFO     | train | 
+============================================================
+2025-12-13 16:26:32 | INFO     | train | EPOCH 1/5
+2025-12-13 16:26:32 | INFO     | train | ============================================================
+2025-12-13 16:42:07 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-13 16:42:07 | INFO     | train | 
+Configuration:
+2025-12-13 16:42:07 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:42:07 | INFO     | train |   Batch size: 16
+2025-12-13 16:42:07 | INFO     | train |   Learning rate: 3e-05
+2025-12-13 16:42:07 | INFO     | train |   Epochs: 5
+2025-12-13 16:42:07 | INFO     | train |   Max length: 256
+2025-12-13 16:42:07 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-13 16:42:07 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-13 16:42:07 | INFO     | train | LOADING DATA
+2025-12-13 16:42:07 | INFO     | train | 
+Training data: (2255, 8)
+2025-12-13 16:42:07 | INFO     | train | Test data: (749, 15)
+2025-12-13 16:42:07 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:42:08 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-13 16:42:08 | INFO     | train | 
+Class weights:
+2025-12-13 16:42:08 | INFO     | train |   Class 1: 4.1000
+2025-12-13 16:42:08 | INFO     | train |   Class 2: 1.7481
+2025-12-13 16:42:08 | INFO     | train |   Class 3: 0.8931
+2025-12-13 16:42:08 | INFO     | train |   Class 4: 0.6406
+2025-12-13 16:42:08 | INFO     | train |   Class 5: 0.6652
+2025-12-13 16:42:08 | INFO     | train | CREATING DATA SPLITS
+2025-12-13 16:42:08 | INFO     | train | 
+Tokenizing training data...
+2025-12-13 16:42:08 | INFO     | train | ✓ Training data tokenized: 2255 samples
+2025-12-13 16:42:08 | INFO     | train | Tokenizing test data...
+2025-12-13 16:42:08 | INFO     | train | ✓ Test data tokenized: 749 samples
+2025-12-13 16:42:08 | INFO     | train | 
+Split sizes:
+2025-12-13 16:42:08 | INFO     | train |   Training:   1691 samples
+2025-12-13 16:42:08 | INFO     | train |   Validation: 564 samples
+2025-12-13 16:42:08 | INFO     | train |   Test:       749 samples
+2025-12-13 16:42:08 | INFO     | train | 
+Label distribution in training:
+2025-12-13 16:42:08 | INFO     | train |   Class 1:   83 samples ( 4.91%)
+2025-12-13 16:42:08 | INFO     | train |   Class 2:  193 samples (11.41%)
+2025-12-13 16:42:08 | INFO     | train |   Class 3:  379 samples (22.41%)
+2025-12-13 16:42:08 | INFO     | train |   Class 4:  528 samples (31.22%)
+2025-12-13 16:42:08 | INFO     | train |   Class 5:  508 samples (30.04%)
+2025-12-13 16:42:08 | INFO     | train | CREATING DATALOADERS
+2025-12-13 16:42:08 | INFO     | train | ✓ Created PyTorch datasets
+2025-12-13 16:42:08 | INFO     | train |   Train: 1691 samples
+2025-12-13 16:42:08 | INFO     | train |   Val:   564 samples
+2025-12-13 16:42:08 | INFO     | train |   Test:  749 samples
+2025-12-13 16:48:13 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-13 16:48:13 | INFO     | train | 
+Configuration:
+2025-12-13 16:48:13 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:48:13 | INFO     | train |   Batch size: 16
+2025-12-13 16:48:13 | INFO     | train |   Learning rate: 3e-05
+2025-12-13 16:48:13 | INFO     | train |   Epochs: 5
+2025-12-13 16:48:13 | INFO     | train |   Max length: 256
+2025-12-13 16:48:13 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-13 16:48:13 | INFO     | train |   Validation path: data/processed/validation.csv
+2025-12-13 16:48:13 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-13 16:48:13 | INFO     | train | LOADING DATA
+2025-12-13 16:48:13 | INFO     | train | 
+Training data: (2255, 8)
+2025-12-13 16:48:13 | INFO     | train | Validation data: (300, 15)
+2025-12-13 16:48:13 | INFO     | train | Test data: (749, 15)
+2025-12-13 16:48:13 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:48:13 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-13 16:48:13 | INFO     | train | 
+Class weights (computed from train + validation):
+2025-12-13 16:48:13 | INFO     | train |   Class 1: 4.0556
+2025-12-13 16:48:13 | INFO     | train |   Class 2: 1.7381
+2025-12-13 16:48:13 | INFO     | train |   Class 3: 0.8965
+2025-12-13 16:48:13 | INFO     | train |   Class 4: 0.6436
+2025-12-13 16:48:13 | INFO     | train |   Class 5: 0.6628
+2025-12-13 16:48:13 | INFO     | train | TOKENIZING DATASETS
+2025-12-13 16:48:13 | INFO     | train | 
+Tokenizing training data...
+2025-12-13 16:48:13 | INFO     | train | ✓ Training data tokenized: 2255 samples
+2025-12-13 16:48:13 | INFO     | train | Tokenizing validation data...
+2025-12-13 16:48:13 | INFO     | train | ✓ Validation data tokenized: 300 samples
+2025-12-13 16:48:13 | INFO     | train | Tokenizing test data...
+2025-12-13 16:48:13 | INFO     | train | ✓ Test data tokenized: 749 samples
+2025-12-13 16:48:13 | INFO     | train | 
+Dataset sizes:
+2025-12-13 16:48:13 | INFO     | train |   Training:   2255 samples
+2025-12-13 16:48:13 | INFO     | train |   Validation: 300 samples
+2025-12-13 16:48:13 | INFO     | train |   Test:       749 samples
+2025-12-13 16:48:13 | INFO     | train | 
+Label distributions:
+2025-12-13 16:48:13 | INFO     | train | 
+Training set:
+2025-12-13 16:48:13 | INFO     | train |   Class 1:  110 samples ( 4.88%)
+2025-12-13 16:48:13 | INFO     | train |   Class 2:  258 samples (11.44%)
+2025-12-13 16:48:13 | INFO     | train |   Class 3:  505 samples (22.39%)
+2025-12-13 16:48:13 | INFO     | train |   Class 4:  704 samples (31.22%)
+2025-12-13 16:48:13 | INFO     | train |   Class 5:  678 samples (30.07%)
+2025-12-13 16:48:13 | INFO     | train | 
+Validation set:
+2025-12-13 16:48:13 | INFO     | train |   Class 1:   16 samples ( 5.33%)
+2025-12-13 16:48:13 | INFO     | train |   Class 2:   36 samples (12.00%)
+2025-12-13 16:48:13 | INFO     | train |   Class 3:   65 samples (21.67%)
+2025-12-13 16:48:13 | INFO     | train |   Class 4:   90 samples (30.00%)
+2025-12-13 16:48:13 | INFO     | train |   Class 5:   93 samples (31.00%)
+2025-12-13 16:48:13 | INFO     | train | 
+Test set:
+2025-12-13 16:48:13 | INFO     | train |   Class 1:   40 samples ( 5.34%)
+2025-12-13 16:48:13 | INFO     | train |   Class 2:   90 samples (12.02%)
+2025-12-13 16:48:13 | INFO     | train |   Class 3:  163 samples (21.76%)
+2025-12-13 16:48:13 | INFO     | train |   Class 4:  224 samples (29.91%)
+2025-12-13 16:48:13 | INFO     | train |   Class 5:  232 samples (30.97%)
+2025-12-13 16:48:13 | INFO     | train | CREATING DATALOADERS
+2025-12-13 16:48:13 | INFO     | train | ✓ Created PyTorch datasets
+2025-12-13 16:48:13 | INFO     | train |   Train: 2255 samples
+2025-12-13 16:48:13 | INFO     | train |   Val:   300 samples
+2025-12-13 16:48:13 | INFO     | train |   Test:  749 samples
+2025-12-13 16:48:13 | INFO     | train | 
+DataLoader settings: num_workers=2, pin_memory=True
+2025-12-13 16:48:13 | INFO     | train | 
+✓ Created DataLoaders
+2025-12-13 16:48:13 | INFO     | train |   Train batches: 141
+2025-12-13 16:48:13 | INFO     | train |   Val batches:   19
+2025-12-13 16:48:13 | INFO     | train |   Test batches:  47
+2025-12-13 16:48:28 | INFO     | train | 
+Sample batch verification:
+2025-12-13 16:48:28 | INFO     | train |   input_ids shape: torch.Size([16, 256])
+2025-12-13 16:48:28 | INFO     | train |   attention_mask shape: torch.Size([16, 256])
+2025-12-13 16:48:28 | INFO     | train |   labels shape: torch.Size([16])
+2025-12-13 16:48:28 | INFO     | train |   labels range: 1 to 4
+2025-12-13 16:48:28 | INFO     | train | INITIALIZING TRAINING COMPONENTS
+2025-12-13 16:48:28 | INFO     | train | 
+Device: mps
+2025-12-13 16:48:28 | INFO     | train | PyTorch version: 2.9.1
+2025-12-13 16:48:28 | INFO     | train | 
+Loading model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 16:48:29 | INFO     | train | ✓ Model loaded and moved to mps
+2025-12-13 16:48:29 | INFO     | train |   Total parameters: 110,621,957
+2025-12-13 16:48:29 | INFO     | train |   Trainable parameters: 110,621,957
+2025-12-13 16:48:29 | INFO     | train |   Model architecture:
+BertForSequenceClassification(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(32001, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSdpaSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+    (pooler): BertPooler(
+      (dense): Linear(in_features=768, out_features=768, bias=True)
+      (activation): Tanh()
+    )
+  )
+  (dropout): Dropout(p=0.1, inplace=False)
+  (classifier): Linear(in_features=768, out_features=5, bias=True)
+)
+2025-12-13 16:48:29 | INFO     | train | 
+✓ Class weights prepared: ['4.056', '1.738', '0.896', '0.644', '0.663']
+2025-12-13 16:48:29 | INFO     | train | ✓ Loss function: CrossEntropyLoss with class weights
+2025-12-13 16:48:29 | INFO     | train | ✓ Optimizer: AdamW (lr=3e-05)
+2025-12-13 16:48:29 | INFO     | train | ✓ Scheduler: Linear with warmup
+2025-12-13 16:48:29 | INFO     | train |   Total training steps: 705
+2025-12-13 16:48:29 | INFO     | train |   Warmup steps: 70
+2025-12-13 16:48:29 | INFO     | train | 
+✓ All training components initialized!
+2025-12-13 16:48:29 | INFO     | train | STARTING TRAINING
+2025-12-13 16:48:29 | INFO     | train | 
+Training for 5 epochs...
+2025-12-13 16:48:29 | INFO     | train | 
+============================================================
+2025-12-13 16:48:29 | INFO     | train | EPOCH 1/5
+2025-12-13 16:48:29 | INFO     | train | ============================================================
+2025-12-13 17:21:59 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-13 17:21:59 | INFO     | train | 
+Configuration:
+2025-12-13 17:21:59 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 17:21:59 | INFO     | train |   Batch size: 16
+2025-12-13 17:21:59 | INFO     | train |   Learning rate: 3e-05
+2025-12-13 17:21:59 | INFO     | train |   Epochs: 5
+2025-12-13 17:21:59 | INFO     | train |   Max length: 256
+2025-12-13 17:21:59 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-13 17:21:59 | INFO     | train |   Validation path: data/processed/validation.csv
+2025-12-13 17:21:59 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-13 17:21:59 | INFO     | train | LOADING DATA
+2025-12-13 17:21:59 | INFO     | train | 
+Training data: (2255, 8)
+2025-12-13 17:21:59 | INFO     | train | Validation data: (300, 15)
+2025-12-13 17:21:59 | INFO     | train | Test data: (749, 15)
+2025-12-13 17:21:59 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 17:22:00 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-13 17:22:00 | INFO     | train | 
+Class weights (computed from train + validation):
+2025-12-13 17:22:00 | INFO     | train |   Class 1: 4.0556
+2025-12-13 17:22:00 | INFO     | train |   Class 2: 1.7381
+2025-12-13 17:22:00 | INFO     | train |   Class 3: 0.8965
+2025-12-13 17:22:00 | INFO     | train |   Class 4: 0.6436
+2025-12-13 17:22:00 | INFO     | train |   Class 5: 0.6628
+2025-12-13 17:22:00 | INFO     | train | TOKENIZING DATASETS
+2025-12-13 17:22:00 | INFO     | train | 
+Tokenizing training data...
+2025-12-13 17:22:00 | INFO     | train | ✓ Training data tokenized: 2255 samples
+2025-12-13 17:22:00 | INFO     | train | Tokenizing validation data...
+2025-12-13 17:22:00 | INFO     | train | ✓ Validation data tokenized: 300 samples
+2025-12-13 17:22:00 | INFO     | train | Tokenizing test data...
+2025-12-13 17:22:00 | INFO     | train | ✓ Test data tokenized: 749 samples
+2025-12-13 17:22:00 | INFO     | train | 
+Dataset sizes:
+2025-12-13 17:22:00 | INFO     | train |   Training:   2255 samples
+2025-12-13 17:22:00 | INFO     | train |   Validation: 300 samples
+2025-12-13 17:22:00 | INFO     | train |   Test:       749 samples
+2025-12-13 17:22:00 | INFO     | train | 
+Label distributions:
+2025-12-13 17:22:00 | INFO     | train | 
+Training set:
+2025-12-13 17:22:00 | INFO     | train |   Class 1:  110 samples ( 4.88%)
+2025-12-13 17:22:00 | INFO     | train |   Class 2:  258 samples (11.44%)
+2025-12-13 17:22:00 | INFO     | train |   Class 3:  505 samples (22.39%)
+2025-12-13 17:22:00 | INFO     | train |   Class 4:  704 samples (31.22%)
+2025-12-13 17:22:00 | INFO     | train |   Class 5:  678 samples (30.07%)
+2025-12-13 17:22:00 | INFO     | train | 
+Validation set:
+2025-12-13 17:22:00 | INFO     | train |   Class 1:   16 samples ( 5.33%)
+2025-12-13 17:22:00 | INFO     | train |   Class 2:   36 samples (12.00%)
+2025-12-13 17:22:00 | INFO     | train |   Class 3:   65 samples (21.67%)
+2025-12-13 17:22:00 | INFO     | train |   Class 4:   90 samples (30.00%)
+2025-12-13 17:22:00 | INFO     | train |   Class 5:   93 samples (31.00%)
+2025-12-13 17:22:00 | INFO     | train | 
+Test set:
+2025-12-13 17:22:00 | INFO     | train |   Class 1:   40 samples ( 5.34%)
+2025-12-13 17:22:00 | INFO     | train |   Class 2:   90 samples (12.02%)
+2025-12-13 17:22:00 | INFO     | train |   Class 3:  163 samples (21.76%)
+2025-12-13 17:22:00 | INFO     | train |   Class 4:  224 samples (29.91%)
+2025-12-13 17:22:00 | INFO     | train |   Class 5:  232 samples (30.97%)
+2025-12-13 17:22:00 | INFO     | train | CREATING DATALOADERS
+2025-12-13 17:22:00 | INFO     | train | ✓ Created PyTorch datasets
+2025-12-13 17:22:00 | INFO     | train |   Train: 2255 samples
+2025-12-13 17:22:00 | INFO     | train |   Val:   300 samples
+2025-12-13 17:22:00 | INFO     | train |   Test:  749 samples
+2025-12-13 17:22:00 | INFO     | train | 
+DataLoader settings: num_workers=2, pin_memory=True
+2025-12-13 17:22:00 | INFO     | train | 
+✓ Created DataLoaders
+2025-12-13 17:22:00 | INFO     | train |   Train batches: 141
+2025-12-13 17:22:00 | INFO     | train |   Val batches:   19
+2025-12-13 17:22:00 | INFO     | train |   Test batches:  47
+2025-12-13 17:22:10 | INFO     | train | 
+Sample batch verification:
+2025-12-13 17:22:10 | INFO     | train |   input_ids shape: torch.Size([16, 256])
+2025-12-13 17:22:10 | INFO     | train |   attention_mask shape: torch.Size([16, 256])
+2025-12-13 17:22:10 | INFO     | train |   labels shape: torch.Size([16])
+2025-12-13 17:22:10 | INFO     | train |   labels range: 1 to 4
+2025-12-13 17:22:10 | INFO     | train | INITIALIZING TRAINING COMPONENTS
+2025-12-13 17:22:10 | INFO     | train | 
+Device: mps
+2025-12-13 17:22:10 | INFO     | train | PyTorch version: 2.9.1
+2025-12-13 17:22:10 | INFO     | train | 
+Loading model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 17:22:10 | INFO     | train | ✓ Model loaded and moved to mps
+2025-12-13 17:22:10 | INFO     | train |   Total parameters: 110,621,957
+2025-12-13 17:22:10 | INFO     | train |   Trainable parameters: 110,621,957
+2025-12-13 17:22:10 | INFO     | train |   Model architecture:
+BertForSequenceClassification(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(32001, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSdpaSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+    (pooler): BertPooler(
+      (dense): Linear(in_features=768, out_features=768, bias=True)
+      (activation): Tanh()
+    )
+  )
+  (dropout): Dropout(p=0.1, inplace=False)
+  (classifier): Linear(in_features=768, out_features=5, bias=True)
+)
+2025-12-13 17:22:10 | INFO     | train | 
+✓ Class weights prepared: ['4.056', '1.738', '0.896', '0.644', '0.663']
+2025-12-13 17:22:10 | INFO     | train | ✓ Loss function: CrossEntropyLoss with class weights
+2025-12-13 17:22:10 | INFO     | train | ✓ Optimizer: AdamW (lr=3e-05)
+2025-12-13 17:22:10 | INFO     | train | ✓ Scheduler: Linear with warmup
+2025-12-13 17:22:10 | INFO     | train |   Total training steps: 705
+2025-12-13 17:22:10 | INFO     | train |   Warmup steps: 70
+2025-12-13 17:22:10 | INFO     | train | 
+✓ All training components initialized!
+2025-12-13 17:22:10 | INFO     | train | STARTING TRAINING
+2025-12-13 17:22:10 | INFO     | train | 
+Training for 5 epochs...
+2025-12-13 17:22:10 | INFO     | train | 
+============================================================
+2025-12-13 17:22:10 | INFO     | train | EPOCH 1/5
+2025-12-13 17:22:10 | INFO     | train | ============================================================
+2025-12-13 17:23:36 | INFO     | train | 
+Train Loss: 1.5411, Train Acc: 0.3268
+2025-12-13 17:23:53 | INFO     | train | Val Loss:   1.5133, Val Acc:   0.3367
+2025-12-13 17:23:53 | INFO     | train |   Per-class recall: 
+2025-12-13 17:23:53 | INFO     | train | C1:0.62 
+2025-12-13 17:23:53 | INFO     | train | C2:0.00 
+2025-12-13 17:23:53 | INFO     | train | C3:0.08 
+2025-12-13 17:23:53 | INFO     | train | C4:0.02 
+2025-12-13 17:23:53 | INFO     | train | C5:0.90 
+2025-12-13 17:23:55 | INFO     | train | ✓ New best model saved! (Val Acc: 0.3367)
+2025-12-13 17:23:55 | INFO     | train | 
+============================================================
+2025-12-13 17:23:55 | INFO     | train | EPOCH 2/5
+2025-12-13 17:23:55 | INFO     | train | ============================================================
+2025-12-13 17:25:20 | INFO     | train | 
+Train Loss: 1.3674, Train Acc: 0.4080
+2025-12-13 17:25:38 | INFO     | train | Val Loss:   1.3859, Val Acc:   0.4533
+2025-12-13 17:25:38 | INFO     | train |   Per-class recall: 
+2025-12-13 17:25:38 | INFO     | train | C1:0.31 
+2025-12-13 17:25:38 | INFO     | train | C2:0.22 
+2025-12-13 17:25:38 | INFO     | train | C3:0.26 
+2025-12-13 17:25:38 | INFO     | train | C4:0.33 
+2025-12-13 17:25:38 | INFO     | train | C5:0.82 
+2025-12-13 17:25:40 | INFO     | train | ✓ New best model saved! (Val Acc: 0.4533)
+2025-12-13 17:25:40 | INFO     | train | 
+============================================================
+2025-12-13 17:25:40 | INFO     | train | EPOCH 3/5
+2025-12-13 17:25:40 | INFO     | train | ============================================================
+2025-12-13 17:27:04 | INFO     | train | 
+Train Loss: 1.2110, Train Acc: 0.4639
+2025-12-13 17:27:22 | INFO     | train | Val Loss:   1.3245, Val Acc:   0.4333
+2025-12-13 17:27:23 | INFO     | train |   Per-class recall: 
+2025-12-13 17:27:23 | INFO     | train | C1:0.44 
+2025-12-13 17:27:23 | INFO     | train | C2:0.42 
+2025-12-13 17:27:23 | INFO     | train | C3:0.34 
+2025-12-13 17:27:23 | INFO     | train | C4:0.22 
+2025-12-13 17:27:23 | INFO     | train | C5:0.71 
+2025-12-13 17:27:23 | INFO     | train | 
+============================================================
+2025-12-13 17:27:23 | INFO     | train | EPOCH 4/5
+2025-12-13 17:27:23 | INFO     | train | ============================================================
+2025-12-13 17:28:50 | INFO     | train | 
+Train Loss: 1.0036, Train Acc: 0.5663
+2025-12-13 17:29:08 | INFO     | train | Val Loss:   1.4746, Val Acc:   0.4533
+2025-12-13 17:29:08 | INFO     | train |   Per-class recall: 
+2025-12-13 17:29:08 | INFO     | train | C1:0.44 
+2025-12-13 17:29:08 | INFO     | train | C2:0.31 
+2025-12-13 17:29:08 | INFO     | train | C3:0.42 
+2025-12-13 17:29:08 | INFO     | train | C4:0.24 
+2025-12-13 17:29:08 | INFO     | train | C5:0.74 
+2025-12-13 17:29:08 | INFO     | train | 
+============================================================
+2025-12-13 17:29:08 | INFO     | train | EPOCH 5/5
+2025-12-13 17:29:08 | INFO     | train | ============================================================
+2025-12-13 17:30:45 | INFO     | train | 
+Train Loss: 0.7743, Train Acc: 0.6745
+2025-12-13 17:31:03 | INFO     | train | Val Loss:   1.4807, Val Acc:   0.4833
+2025-12-13 17:31:03 | INFO     | train |   Per-class recall: 
+2025-12-13 17:31:03 | INFO     | train | C1:0.38 
+2025-12-13 17:31:03 | INFO     | train | C2:0.44 
+2025-12-13 17:31:03 | INFO     | train | C3:0.32 
+2025-12-13 17:31:03 | INFO     | train | C4:0.47 
+2025-12-13 17:31:03 | INFO     | train | C5:0.65 
+2025-12-13 17:31:04 | INFO     | train | ✓ New best model saved! (Val Acc: 0.4833)
+2025-12-13 17:31:04 | INFO     | train | TRAINING COMPLETE!
+2025-12-13 17:31:04 | INFO     | train | 
+Best validation accuracy: 0.4833 (Epoch 5)
+2025-12-13 17:31:04 | INFO     | train | 
+Loading best model from output/best_model.pt...
+2025-12-13 17:31:05 | INFO     | train | ✓ Loaded best model from epoch 5
+2025-12-13 17:31:05 | INFO     | train | TRAINING HISTORY
+2025-12-13 17:31:06 | INFO     | train | ✓ Training history saved to output/training_history.png
+2025-12-13 17:31:06 | INFO     | train | TRAINING COMPLETE!
+2025-12-13 17:31:06 | INFO     | train | 
+Best model saved to: output/best_model.pt
+2025-12-13 17:31:06 | INFO     | train | To run full evaluation, use: python 03_evaluation.py
+2025-12-13 17:36:43 | INFO     | evaluation | Model Evaluation
+2025-12-13 17:36:43 | INFO     | evaluation | 
+Configuration:
+2025-12-13 17:36:43 | INFO     | evaluation |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-13 17:36:43 | INFO     | evaluation |   Train path: data/processed/train.csv
+2025-12-13 17:36:43 | INFO     | evaluation |   Test path: data/processed/test.csv
+2025-12-13 17:36:43 | INFO     | evaluation |   Model path: output/best_model.pt
+2025-12-13 17:36:43 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-13 17:36:43 | INFO     | evaluation | 
+Training data: (2255, 8)
+2025-12-13 17:36:43 | INFO     | evaluation | Test data: (749, 15)
+2025-12-13 17:36:43 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 17:36:43 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-13 17:36:43 | INFO     | evaluation | 
+Tokenizing data...
+2025-12-13 17:36:43 | INFO     | evaluation | 
+Dataset sizes:
+2025-12-13 17:36:43 | INFO     | evaluation |   Validation: 564 samples
+2025-12-13 17:36:43 | INFO     | evaluation |   Test:       749 samples
+2025-12-13 17:36:43 | INFO     | evaluation | 
+DataLoader settings: num_workers=2, pin_memory=True
+2025-12-13 17:36:43 | INFO     | evaluation | 
+✓ DataLoaders created
+2025-12-13 17:36:43 | INFO     | evaluation |   Val batches:  36
+2025-12-13 17:36:43 | INFO     | evaluation |   Test batches: 47
+2025-12-13 17:36:43 | INFO     | evaluation | 
+Device: mps
+2025-12-13 17:36:43 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-13 17:36:45 | INFO     | evaluation | ✓ Model loaded from epoch 5
+2025-12-13 17:36:45 | INFO     | evaluation |   Validation accuracy at save: 0.4833
+2025-12-13 17:36:45 | INFO     | evaluation | VALIDATION SET RESULTS
+2025-12-13 17:37:04 | INFO     | evaluation | 
+Classification Report (Validation):
+2025-12-13 17:37:04 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.8333    0.9259    0.8772        27
+     Class 2     0.7917    0.8769    0.8321        65
+     Class 3     0.7589    0.6746    0.7143       126
+     Class 4     0.7284    0.6705    0.6982       176
+     Class 5     0.8138    0.9000    0.8547       170
+
+    accuracy                         0.7766       564
+   macro avg     0.7852    0.8096    0.7953       564
+weighted avg     0.7733    0.7766    0.7730       564
+
+2025-12-13 17:37:05 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_validation.png
+2025-12-13 17:37:05 | INFO     | evaluation | TEST SET RESULTS
+2025-12-13 17:37:26 | INFO     | evaluation | 
+Classification Report (Test):
+2025-12-13 17:37:26 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.3182    0.1750    0.2258        40
+     Class 2     0.2520    0.3444    0.2911        90
+     Class 3     0.3588    0.2883    0.3197       163
+     Class 4     0.4516    0.4375    0.4444       224
+     Class 5     0.6289    0.6940    0.6598       232
+
+    accuracy                         0.4593       749
+   macro avg     0.4019    0.3879    0.3882       749
+weighted avg     0.4552    0.4593    0.4539       749
+
+2025-12-13 17:37:26 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_test.png
+2025-12-13 17:37:26 | INFO     | evaluation | ORDINAL EVALUATION METRICS
+2025-12-13 17:37:26 | INFO     | evaluation | 
+Validation Set:
+2025-12-13 17:37:26 | INFO     | evaluation |   Exact Accuracy:     0.7766
+2025-12-13 17:37:26 | INFO     | evaluation |   Within-1 Accuracy:  0.9770
+2025-12-13 17:37:26 | INFO     | evaluation |   Within-2 Accuracy:  0.9982
+2025-12-13 17:37:26 | INFO     | evaluation | 
+Test Set:
+2025-12-13 17:37:26 | INFO     | evaluation |   Exact Accuracy:     0.4593
+2025-12-13 17:37:26 | INFO     | evaluation |   Within-1 Accuracy:  0.8571
+2025-12-13 17:37:26 | INFO     | evaluation |   Within-2 Accuracy:  0.9746
+2025-12-13 17:37:26 | INFO     | evaluation | 
+Recall by class:
+2025-12-13 17:37:26 | INFO     | evaluation | ----------------------------------------
+2025-12-13 17:37:26 | INFO     | evaluation | Class      Validation      Test           
+2025-12-13 17:37:26 | INFO     | evaluation | ----------------------------------------
+2025-12-13 17:37:26 | INFO     | evaluation | Class 1    0.9259          0.1750         
+2025-12-13 17:37:26 | INFO     | evaluation | Class 2    0.8769          0.3444         
+2025-12-13 17:37:26 | INFO     | evaluation | Class 3    0.6746          0.2883         
+2025-12-13 17:37:26 | INFO     | evaluation | Class 4    0.6705          0.4375         
+2025-12-13 17:37:26 | INFO     | evaluation | Class 5    0.9000          0.6940         
+2025-12-13 17:37:26 | INFO     | evaluation | EVALUATION SUMMARY
+2025-12-13 17:37:26 | INFO     | evaluation | 
+Model: SZTAKI-HLT/hubert-base-cc
+Model path: output/best_model.pt
+
+Results:
+  Validation:
+    - Accuracy: 0.7766
+    - Within-1: 0.9770
+    - Within-2: 0.9982
+
+  Test:
+    - Accuracy: 0.4593
+    - Within-1: 0.8571
+    - Within-2: 0.9746
+
+Figures saved to: output
+
+2025-12-13 17:37:26 | INFO     | evaluation | EVALUATION COMPLETE!
+2025-12-13 17:39:18 | INFO     | inference | Inference Script
+2025-12-13 17:39:18 | INFO     | inference | Model path: output/best_model.pt
+2025-12-13 17:39:18 | INFO     | inference | Loading model from: output/best_model.pt
+2025-12-13 17:39:18 | INFO     | inference | Device: mps
+2025-12-13 17:39:18 | INFO     | inference | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 17:39:19 | INFO     | inference | Model loaded successfully (trained epoch: 5)
+2025-12-13 17:39:19 | INFO     | inference | 
+2025-12-13 17:39:19 | INFO     | inference | Sample texts to classify: 10
+2025-12-13 17:39:19 | INFO     | inference | 
+2025-12-13 17:39:19 | INFO     | inference | Sample data overview:
+2025-12-13 17:39:19 | INFO     | inference |   [1] Simple pricing statement (expected: easy)
+2025-12-13 17:39:19 | INFO     | inference |   [2] Basic contract term (expected: easy)
+2025-12-13 17:39:19 | INFO     | inference |   [3] Consumer withdrawal rights (expected: medium)
+2025-12-13 17:39:19 | INFO     | inference |   [4] Terms modification clause (expected: medium)
+2025-12-13 17:39:19 | INFO     | inference |   [5] Legal reference to Civil Code (expected: hard)
+2025-12-13 17:39:19 | INFO     | inference |   [6] IP violation consequences (expected: hard)
+2025-12-13 17:39:19 | INFO     | inference |   [7] Liability limitation clause (expected: hard)
+2025-12-13 17:39:19 | INFO     | inference |   [8] GDPR data controller info (expected: medium)
+2025-12-13 17:39:19 | INFO     | inference |   [9] Dispute resolution clause (expected: medium)
+2025-12-13 17:39:19 | INFO     | inference |   [10] Complex regulatory reference (expected: very_hard)
+2025-12-13 17:39:19 | INFO     | inference | 
+2025-12-13 17:39:19 | INFO     | inference | Running batched inference on 10 texts (batch_size=8)...
+2025-12-13 17:39:20 | INFO     | inference | Batched inference complete
+2025-12-13 17:39:20 | INFO     | inference | PREDICTION RESULTS
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | [Text 1] Simple pricing statement
+2025-12-13 17:39:20 | INFO     | inference |   Expected: easy → 4-5 (Érthető/Könnyen érthető)
+2025-12-13 17:39:20 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 17:39:20 | INFO     | inference |   Confidence: 87.46%
+2025-12-13 17:39:20 | INFO     | inference |   Length: 33 chars
+2025-12-13 17:39:20 | INFO     | inference |   Probabilities: L1: 2.6% | L2: 2.9% | L3: 1.6% | L4: 5.5% | L5: 87.5%
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | [Text 2] Basic contract term
+2025-12-13 17:39:20 | INFO     | inference |   Expected: easy → 4-5 (Érthető/Könnyen érthető)
+2025-12-13 17:39:20 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 17:39:20 | INFO     | inference |   Confidence: 92.75%
+2025-12-13 17:39:20 | INFO     | inference |   Length: 100 chars
+2025-12-13 17:39:20 | INFO     | inference |   Probabilities: L1: 1.5% | L2: 1.1% | L3: 0.8% | L4: 3.9% | L5: 92.8%
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | [Text 3] Consumer withdrawal rights
+2025-12-13 17:39:20 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 17:39:20 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 17:39:20 | INFO     | inference |   Confidence: 60.25%
+2025-12-13 17:39:20 | INFO     | inference |   Length: 219 chars
+2025-12-13 17:39:20 | INFO     | inference |   Probabilities: L1: 0.8% | L2: 0.9% | L3: 3.0% | L4: 35.0% | L5: 60.2%
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | [Text 4] Terms modification clause
+2025-12-13 17:39:20 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 17:39:20 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 17:39:20 | INFO     | inference |   Confidence: 87.05%
+2025-12-13 17:39:20 | INFO     | inference |   Length: 218 chars
+2025-12-13 17:39:20 | INFO     | inference |   Probabilities: L1: 0.5% | L2: 0.5% | L3: 0.8% | L4: 11.1% | L5: 87.0%
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | [Text 5] Legal reference to Civil Code
+2025-12-13 17:39:20 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-13 17:39:20 | INFO     | inference |   Predicted: 3 - Többé-kevésbé érthető (Somewhat understandable)
+2025-12-13 17:39:20 | INFO     | inference |   Confidence: 28.69%
+2025-12-13 17:39:20 | INFO     | inference |   Length: 217 chars
+2025-12-13 17:39:20 | INFO     | inference |   Probabilities: L1: 11.4% | L2: 27.2% | L3: 28.7% | L4: 28.2% | L5: 4.5%
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | [Text 6] IP violation consequences
+2025-12-13 17:39:20 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-13 17:39:20 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-13 17:39:20 | INFO     | inference |   Confidence: 40.07%
+2025-12-13 17:39:20 | INFO     | inference |   Length: 339 chars
+2025-12-13 17:39:20 | INFO     | inference |   Probabilities: L1: 2.1% | L2: 18.0% | L3: 33.0% | L4: 40.1% | L5: 6.8%
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | [Text 7] Liability limitation clause
+2025-12-13 17:39:20 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-13 17:39:20 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-13 17:39:20 | INFO     | inference |   Confidence: 62.88%
+2025-12-13 17:39:20 | INFO     | inference |   Length: 269 chars
+2025-12-13 17:39:20 | INFO     | inference |   Probabilities: L1: 2.0% | L2: 6.5% | L3: 16.1% | L4: 62.9% | L5: 12.6%
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | [Text 8] GDPR data controller info
+2025-12-13 17:39:20 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 17:39:20 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 17:39:20 | INFO     | inference |   Confidence: 62.41%
+2025-12-13 17:39:20 | INFO     | inference |   Length: 166 chars
+2025-12-13 17:39:20 | INFO     | inference |   Probabilities: L1: 5.2% | L2: 5.4% | L3: 8.8% | L4: 18.3% | L5: 62.4%
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | [Text 9] Dispute resolution clause
+2025-12-13 17:39:20 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 17:39:20 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-13 17:39:20 | INFO     | inference |   Confidence: 43.61%
+2025-12-13 17:39:20 | INFO     | inference |   Length: 221 chars
+2025-12-13 17:39:20 | INFO     | inference |   Probabilities: L1: 3.8% | L2: 10.9% | L3: 10.5% | L4: 43.6% | L5: 31.1%
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | [Text 10] Complex regulatory reference
+2025-12-13 17:39:20 | INFO     | inference |   Expected: very_hard → 1 (Nagyon nehezen érthető)
+2025-12-13 17:39:20 | INFO     | inference |   Predicted: 2 - Nehezen érthető (Difficult)
+2025-12-13 17:39:20 | INFO     | inference |   Confidence: 68.91%
+2025-12-13 17:39:20 | INFO     | inference |   Length: 328 chars
+2025-12-13 17:39:20 | INFO     | inference |   Probabilities: L1: 2.9% | L2: 68.9% | L3: 17.0% | L4: 10.1% | L5: 1.1%
+2025-12-13 17:39:20 | INFO     | inference | SUMMARY
+2025-12-13 17:39:20 | INFO     | inference | Total texts: 10
+2025-12-13 17:39:20 | INFO     | inference | Average confidence: 63.41%
+2025-12-13 17:39:20 | INFO     | inference | 
+2025-12-13 17:39:20 | INFO     | inference | Label distribution:
+2025-12-13 17:39:20 | INFO     | inference |   Label 1: 0 (0.0%)
+2025-12-13 17:39:20 | INFO     | inference |   Label 2: 1 (10.0%)
+2025-12-13 17:39:20 | INFO     | inference |   Label 3: 1 (10.0%)
+2025-12-13 17:39:20 | INFO     | inference |   Label 4: 3 (30.0%)
+2025-12-13 17:39:20 | INFO     | inference |   Label 5: 5 (50.0%)
+2025-12-13 17:39:20 | INFO     | inference | INFERENCE COMPLETE
+2025-12-13 18:38:16 | INFO     | hubert_training | HuBERT text classification training
+2025-12-13 18:38:16 | INFO     | hubert_training | Reading CSV inputs
+2025-12-13 18:38:16 | INFO     | hubert_training | Train: (2255, 8), Val: (300, 15), Test: (749, 15)
+2025-12-13 18:38:16 | INFO     | hubert_training | Initializing HuBERT tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 18:38:16 | INFO     | hubert_training | Bootstrapping HuBERT model
+2025-12-13 18:38:17 | INFO     | hubert_training | Starting HuBERT fine-tuning
+2025-12-13 18:40:16 | INFO     | refinement | Reading source data from data/aggregated/labeled_data.csv
+2025-12-13 18:40:16 | INFO     | refinement | Excluding annotators with avg lead time < 10.0s (protected: hubert)
+2025-12-13 18:40:16 | INFO     | refinement | Excluded annotators:
+2025-12-13 18:40:16 | INFO     | refinement |   - EKGPBX
+2025-12-13 18:40:16 | INFO     | refinement |   - XQEBMQ
+2025-12-13 18:40:16 | INFO     | refinement | FINAL DATASET SUMMARIES
+2025-12-13 18:40:16 | INFO     | refinement | Training Set:
+2025-12-13 18:40:16 | INFO     | refinement |   Total Entries: 2255
+2025-12-13 18:40:16 | INFO     | refinement |   Unique Content Snippets: 2255
+2025-12-13 18:40:16 | INFO     | refinement |   Unique Annotators: 23
+2025-12-13 18:40:16 | INFO     | refinement |   Avg Content Length: 428 chars
+2025-12-13 18:40:16 | INFO     | refinement |   Median Content Length: 318 chars
+2025-12-13 18:40:16 | INFO     | refinement |   Avg Annotation Time: 45.39s
+2025-12-13 18:40:16 | INFO     | refinement |   Median Annotation Time: 13.90s
+2025-12-13 18:40:16 | INFO     | refinement |   Rating Distribution:
+2025-12-13 18:40:16 | INFO     | refinement |     Rating 1: 110 (4.88%)
+2025-12-13 18:40:16 | INFO     | refinement |     Rating 2: 258 (11.44%)
+2025-12-13 18:40:16 | INFO     | refinement |     Rating 3: 505 (22.39%)
+2025-12-13 18:40:16 | INFO     | refinement |     Rating 4: 704 (31.22%)
+2025-12-13 18:40:16 | INFO     | refinement |     Rating 5: 678 (30.07%)
+2025-12-13 18:41:09 | INFO     | refinement | Reading source data from data/aggregated/labeled_data.csv
+2025-12-13 18:41:09 | INFO     | refinement | Excluding annotators with avg lead time < 10.0s (protected: hubert)
+2025-12-13 18:41:09 | INFO     | refinement | Excluded annotators:
+2025-12-13 18:41:09 | INFO     | refinement |   - EKGPBX
+2025-12-13 18:41:09 | INFO     | refinement |   - XQEBMQ
+2025-12-13 18:41:09 | INFO     | refinement | FINAL DATASET SUMMARIES
+2025-12-13 18:41:09 | INFO     | refinement | Training Set:
+2025-12-13 18:41:09 | INFO     | refinement |   Total Entries: 2255
+2025-12-13 18:41:09 | INFO     | refinement |   Unique Content Snippets: 2255
+2025-12-13 18:41:09 | INFO     | refinement |   Unique Annotators: 23
+2025-12-13 18:41:09 | INFO     | refinement |   Avg Content Length: 428 chars
+2025-12-13 18:41:09 | INFO     | refinement |   Median Content Length: 318 chars
+2025-12-13 18:41:09 | INFO     | refinement |   Avg Annotation Time: 45.39s
+2025-12-13 18:41:09 | INFO     | refinement |   Median Annotation Time: 13.90s
+2025-12-13 18:41:09 | INFO     | refinement |   Rating Distribution:
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 1: 110 (4.88%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 2: 258 (11.44%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 3: 505 (22.39%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 4: 704 (31.22%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 5: 678 (30.07%)
+2025-12-13 18:41:09 | INFO     | refinement | Validation Set:
+2025-12-13 18:41:09 | INFO     | refinement |   Total Entries: 300
+2025-12-13 18:41:09 | INFO     | refinement |   Unique Content Snippets: 295
+2025-12-13 18:41:09 | INFO     | refinement |   Unique Annotators: 25
+2025-12-13 18:41:09 | INFO     | refinement |   Avg Content Length: 444 chars
+2025-12-13 18:41:09 | INFO     | refinement |   Median Content Length: 303 chars
+2025-12-13 18:41:09 | INFO     | refinement |   Avg Annotation Time: 67.82s
+2025-12-13 18:41:09 | INFO     | refinement |   Median Annotation Time: 11.27s
+2025-12-13 18:41:09 | INFO     | refinement |   Rating Distribution:
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 1: 16 (5.33%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 2: 36 (12.00%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 3: 65 (21.67%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 4: 90 (30.00%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 5: 93 (31.00%)
+2025-12-13 18:41:09 | INFO     | refinement | Test Set:
+2025-12-13 18:41:09 | INFO     | refinement |   Total Entries: 749
+2025-12-13 18:41:09 | INFO     | refinement |   Unique Content Snippets: 736
+2025-12-13 18:41:09 | INFO     | refinement |   Unique Annotators: 25
+2025-12-13 18:41:09 | INFO     | refinement |   Avg Content Length: 407 chars
+2025-12-13 18:41:09 | INFO     | refinement |   Median Content Length: 326 chars
+2025-12-13 18:41:09 | INFO     | refinement |   Avg Annotation Time: 40.66s
+2025-12-13 18:41:09 | INFO     | refinement |   Median Annotation Time: 12.22s
+2025-12-13 18:41:09 | INFO     | refinement |   Rating Distribution:
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 1: 40 (5.34%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 2: 90 (12.02%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 3: 163 (21.76%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 4: 224 (29.91%)
+2025-12-13 18:41:09 | INFO     | refinement |     Rating 5: 232 (30.97%)
+2025-12-13 18:41:09 | INFO     | refinement | DATA PREPROCESSING REPORT
+2025-12-13 18:41:09 | INFO     | refinement | Initial entry count: 3744
+2025-12-13 18:41:09 | INFO     | refinement | Duplicate entries removed: 179
+2025-12-13 18:41:09 | INFO     | refinement | Short content entries removed: 103
+2025-12-13 18:41:09 | INFO     | refinement | Entries removed due to rushed annotators: 158
+2025-12-13 18:41:09 | INFO     | refinement | Excluded annotators: EKGPBX, XQEBMQ
+2025-12-13 18:41:09 | INFO     | refinement | Final training entries: 2695
+2025-12-13 18:41:09 | INFO     | refinement | Final validation entries: 300
+2025-12-13 18:41:09 | INFO     | refinement | Final test entries: 749
+2025-12-13 18:41:09 | INFO     | refinement | DATA REFINEMENT COMPLETE
+2025-12-13 18:57:11 | INFO     | aggregate_jsons | Starting aggregation pipeline
+2025-12-13 18:57:11 | INFO     | aggregate_jsons | Input dir: data/original
+2025-12-13 18:57:11 | INFO     | aggregate_jsons | Output dir: data/aggregated
+2025-12-13 18:57:11 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-13 18:57:11 | INFO     | aggregate_jsons | Downloading dataset...
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Download and extraction successful.
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: A5VHUA
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   merged_annotations.json: 159 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   nemzeti_tehetseg_program_aszf_labeled.json: 68 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   belvarosi_epito_aszf_labeled.json: 91 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: BCLHKC
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   cimkezes.json: 107 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: BP17IB
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   meta.json: 0 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: E77YIW
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   mak_aszf_cimkezes.json: 105 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: EKGPBX
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   project-29-at-2025-10-16-16-34-dc747442.json: 269 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: F0B9YK
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   holyduck_aszf.json: 151 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: FA0B9B
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   FA0B9B_labeling.json: 104 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: G1QFG2
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   cimkezes.json: 103 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: GSFSJ1
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   fonallak_cimkezes.json: 101 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: HV75KB
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   labels.json: 124 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: HW921K
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   labeled_terms.json: 123 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: I1TLYH
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   epitesi_beruhazas.json: 168 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   dpd.json: 110 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: J0R9YS
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: K3I7DL
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   KH_aszf_cimkezes.json: 92 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: KRR9OD
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: LWVUH9
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   shiver_aszf_cimkezes.json: 89 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   sportkorhaz_aszf_cimkezes.json: 69 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: LXXAMS
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   budapestgo_aszf.json: 133 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: MDKFWC
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   hasznalt_auto_cimkek.json: 143 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: NHVU6N
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   hardverapro_labeled.json: 40 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   zalando_labeled.json: 50 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   netkazan_labeled.json: 15 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: Q88P3E
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   erste-diakhitel-kozpont_cimkezes.json: 224 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: QG1L1V
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   granit_bank_cimkezes.json: 119 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: R1Q6I8
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   telekom_aszf.json: 110 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: R92D9T
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: SS0N7G
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   alza_aszf.json: 189 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: T989VT
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   legal_text_dataset.json: 144 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: TFH22P
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   cimekezes.json: 126 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: UJVBTY
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: WFXBHI
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   kepregeny_depo_aszf.json: 67 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   libri_aszf.json: 120 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: XQEBMQ
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   xqebmq.json: 111 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Processing student: Z7ZF6D
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   vatera-aszf.json: 120 records
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Skipping excluded folder: consensus
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Skipping excluded folder: sample
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Aggregation complete.
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Total records: 3744
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Unique students: 25
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Unique texts: 3399
+2025-12-13 18:57:12 | INFO     | aggregate_jsons | Label distribution:
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   Label 1: 200
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   Label 2: 450
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   Label 3: 814
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   Label 4: 1121
+2025-12-13 18:57:12 | INFO     | aggregate_jsons |   Label 5: 1159
+2025-12-13 18:58:54 | INFO     | evaluation | MODEL EVALUATION
+2025-12-13 18:58:54 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-13 18:58:54 | INFO     | evaluation | Training data: (2255, 8)
+2025-12-13 18:58:54 | INFO     | evaluation | Test data:     (749, 15)
+2025-12-13 18:58:54 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 18:58:55 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-13 18:58:55 | INFO     | evaluation | Validation samples: 564
+2025-12-13 18:58:55 | INFO     | evaluation | Test samples:       749
+2025-12-13 18:58:55 | INFO     | evaluation | Device: mps
+2025-12-13 18:58:55 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-13 18:58:56 | INFO     | evaluation | ✓ Model loaded (epoch 5)
+2025-12-13 18:58:56 | INFO     | evaluation | VALIDATION
+2025-12-13 18:59:17 | INFO     | evaluation | 
+Classification report – Validation
+2025-12-13 18:59:17 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.8333    0.9259    0.8772        27
+     Class 2     0.7917    0.8769    0.8321        65
+     Class 3     0.7589    0.6746    0.7143       126
+     Class 4     0.7284    0.6705    0.6982       176
+     Class 5     0.8138    0.9000    0.8547       170
+
+    accuracy                         0.7766       564
+   macro avg     0.7852    0.8096    0.7953       564
+weighted avg     0.7733    0.7766    0.7730       564
+
+2025-12-13 18:59:17 | INFO     | evaluation | ✓ Confusion matrix saved: output/confusion_validation.png
+2025-12-13 18:59:17 | INFO     | evaluation | TEST
+2025-12-13 19:00:54 | INFO     | inference | Inference Script
+2025-12-13 19:00:54 | INFO     | inference | Model path: output/best_model.pt
+2025-12-13 19:00:54 | INFO     | inference | Loading model from: output/best_model.pt
+2025-12-13 19:00:54 | INFO     | inference | Device: mps
+2025-12-13 19:00:54 | INFO     | inference | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 19:00:55 | INFO     | inference | Model loaded successfully (trained epoch: 5)
+2025-12-13 19:00:55 | INFO     | inference | 
+2025-12-13 19:00:55 | INFO     | inference | Sample texts to classify: 10
+2025-12-13 19:00:55 | INFO     | inference | 
+2025-12-13 19:00:55 | INFO     | inference | Sample data overview:
+2025-12-13 19:00:55 | INFO     | inference |   [1] Simple pricing statement (expected: easy)
+2025-12-13 19:00:55 | INFO     | inference |   [2] Basic contract term (expected: easy)
+2025-12-13 19:00:55 | INFO     | inference |   [3] Consumer withdrawal rights (expected: medium)
+2025-12-13 19:00:55 | INFO     | inference |   [4] Terms modification clause (expected: medium)
+2025-12-13 19:00:55 | INFO     | inference |   [5] Legal reference to Civil Code (expected: hard)
+2025-12-13 19:00:55 | INFO     | inference |   [6] IP violation consequences (expected: hard)
+2025-12-13 19:00:55 | INFO     | inference |   [7] Liability limitation clause (expected: hard)
+2025-12-13 19:00:55 | INFO     | inference |   [8] GDPR data controller info (expected: medium)
+2025-12-13 19:00:55 | INFO     | inference |   [9] Dispute resolution clause (expected: medium)
+2025-12-13 19:00:55 | INFO     | inference |   [10] Complex regulatory reference (expected: very_hard)
+2025-12-13 19:00:55 | INFO     | inference | 
+2025-12-13 19:00:55 | INFO     | inference | Running batched inference on 10 texts (batch_size=8)...
+2025-12-13 19:00:56 | INFO     | inference | Batched inference complete
+2025-12-13 19:00:56 | INFO     | inference | PREDICTION RESULTS
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | [Text 1] Simple pricing statement
+2025-12-13 19:00:56 | INFO     | inference |   Expected: easy → 4-5 (Érthető/Könnyen érthető)
+2025-12-13 19:00:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 19:00:56 | INFO     | inference |   Confidence: 87.46%
+2025-12-13 19:00:56 | INFO     | inference |   Length: 33 chars
+2025-12-13 19:00:56 | INFO     | inference |   Probabilities: L1: 2.6% | L2: 2.9% | L3: 1.6% | L4: 5.5% | L5: 87.5%
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | [Text 2] Basic contract term
+2025-12-13 19:00:56 | INFO     | inference |   Expected: easy → 4-5 (Érthető/Könnyen érthető)
+2025-12-13 19:00:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 19:00:56 | INFO     | inference |   Confidence: 92.75%
+2025-12-13 19:00:56 | INFO     | inference |   Length: 100 chars
+2025-12-13 19:00:56 | INFO     | inference |   Probabilities: L1: 1.5% | L2: 1.1% | L3: 0.8% | L4: 3.9% | L5: 92.8%
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | [Text 3] Consumer withdrawal rights
+2025-12-13 19:00:56 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 19:00:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 19:00:56 | INFO     | inference |   Confidence: 60.25%
+2025-12-13 19:00:56 | INFO     | inference |   Length: 219 chars
+2025-12-13 19:00:56 | INFO     | inference |   Probabilities: L1: 0.8% | L2: 0.9% | L3: 3.0% | L4: 35.0% | L5: 60.2%
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | [Text 4] Terms modification clause
+2025-12-13 19:00:56 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 19:00:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 19:00:56 | INFO     | inference |   Confidence: 87.05%
+2025-12-13 19:00:56 | INFO     | inference |   Length: 218 chars
+2025-12-13 19:00:56 | INFO     | inference |   Probabilities: L1: 0.5% | L2: 0.5% | L3: 0.8% | L4: 11.1% | L5: 87.0%
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | [Text 5] Legal reference to Civil Code
+2025-12-13 19:00:56 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-13 19:00:56 | INFO     | inference |   Predicted: 3 - Többé-kevésbé érthető (Somewhat understandable)
+2025-12-13 19:00:56 | INFO     | inference |   Confidence: 28.69%
+2025-12-13 19:00:56 | INFO     | inference |   Length: 217 chars
+2025-12-13 19:00:56 | INFO     | inference |   Probabilities: L1: 11.4% | L2: 27.2% | L3: 28.7% | L4: 28.2% | L5: 4.5%
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | [Text 6] IP violation consequences
+2025-12-13 19:00:56 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-13 19:00:56 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-13 19:00:56 | INFO     | inference |   Confidence: 40.07%
+2025-12-13 19:00:56 | INFO     | inference |   Length: 339 chars
+2025-12-13 19:00:56 | INFO     | inference |   Probabilities: L1: 2.1% | L2: 18.0% | L3: 33.0% | L4: 40.1% | L5: 6.8%
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | [Text 7] Liability limitation clause
+2025-12-13 19:00:56 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-13 19:00:56 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-13 19:00:56 | INFO     | inference |   Confidence: 62.88%
+2025-12-13 19:00:56 | INFO     | inference |   Length: 269 chars
+2025-12-13 19:00:56 | INFO     | inference |   Probabilities: L1: 2.0% | L2: 6.5% | L3: 16.1% | L4: 62.9% | L5: 12.6%
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | [Text 8] GDPR data controller info
+2025-12-13 19:00:56 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 19:00:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-13 19:00:56 | INFO     | inference |   Confidence: 62.41%
+2025-12-13 19:00:56 | INFO     | inference |   Length: 166 chars
+2025-12-13 19:00:56 | INFO     | inference |   Probabilities: L1: 5.2% | L2: 5.4% | L3: 8.8% | L4: 18.3% | L5: 62.4%
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | [Text 9] Dispute resolution clause
+2025-12-13 19:00:56 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-13 19:00:56 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-13 19:00:56 | INFO     | inference |   Confidence: 43.61%
+2025-12-13 19:00:56 | INFO     | inference |   Length: 221 chars
+2025-12-13 19:00:56 | INFO     | inference |   Probabilities: L1: 3.8% | L2: 10.9% | L3: 10.5% | L4: 43.6% | L5: 31.1%
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | [Text 10] Complex regulatory reference
+2025-12-13 19:00:56 | INFO     | inference |   Expected: very_hard → 1 (Nagyon nehezen érthető)
+2025-12-13 19:00:56 | INFO     | inference |   Predicted: 2 - Nehezen érthető (Difficult)
+2025-12-13 19:00:56 | INFO     | inference |   Confidence: 68.91%
+2025-12-13 19:00:56 | INFO     | inference |   Length: 328 chars
+2025-12-13 19:00:56 | INFO     | inference |   Probabilities: L1: 2.9% | L2: 68.9% | L3: 17.0% | L4: 10.1% | L5: 1.1%
+2025-12-13 19:00:56 | INFO     | inference | SUMMARY
+2025-12-13 19:00:56 | INFO     | inference | Total texts: 10
+2025-12-13 19:00:56 | INFO     | inference | Average confidence: 63.41%
+2025-12-13 19:00:56 | INFO     | inference | 
+2025-12-13 19:00:56 | INFO     | inference | Label distribution:
+2025-12-13 19:00:56 | INFO     | inference |   Label 1: 0 (0.0%)
+2025-12-13 19:00:56 | INFO     | inference |   Label 2: 1 (10.0%)
+2025-12-13 19:00:56 | INFO     | inference |   Label 3: 1 (10.0%)
+2025-12-13 19:00:56 | INFO     | inference |   Label 4: 3 (30.0%)
+2025-12-13 19:00:56 | INFO     | inference |   Label 5: 5 (50.0%)
+2025-12-13 19:00:56 | INFO     | inference | INFERENCE COMPLETE
+2025-12-13 19:02:29 | INFO     | inference | Starting inference demo
+2025-12-13 19:02:29 | INFO     | inference | Using device: mps
+2025-12-13 19:02:30 | INFO     | inference | Model weights loaded successfully
+2025-12-13 19:02:31 | INFO     | inference | -
+2025-12-13 19:02:31 | INFO     | inference | Text 1 | expected: easy
+2025-12-13 19:02:31 | INFO     | inference | Predicted: 5 – Könnyen érthető
+2025-12-13 19:02:31 | INFO     | inference | Confidence: 87.46%
+2025-12-13 19:02:31 | INFO     | inference | L1:2.6%, L2:2.9%, L3:1.6%, L4:5.5%, L5:87.5%
+2025-12-13 19:02:31 | INFO     | inference | -
+2025-12-13 19:02:31 | INFO     | inference | Text 2 | expected: easy
+2025-12-13 19:02:31 | INFO     | inference | Predicted: 5 – Könnyen érthető
+2025-12-13 19:02:31 | INFO     | inference | Confidence: 90.83%
+2025-12-13 19:02:31 | INFO     | inference | L1:1.5%, L2:1.4%, L3:1.2%, L4:5.1%, L5:90.8%
+2025-12-13 19:02:31 | INFO     | inference | -
+2025-12-13 19:02:31 | INFO     | inference | Text 3 | expected: medium
+2025-12-13 19:02:31 | INFO     | inference | Predicted: 5 – Könnyen érthető
+2025-12-13 19:02:31 | INFO     | inference | Confidence: 87.92%
+2025-12-13 19:02:31 | INFO     | inference | L1:1.4%, L2:0.8%, L3:0.9%, L4:9.0%, L5:87.9%
+2025-12-13 19:02:31 | INFO     | inference | -
+2025-12-13 19:02:31 | INFO     | inference | Text 4 | expected: medium
+2025-12-13 19:02:31 | INFO     | inference | Predicted: 5 – Könnyen érthető
+2025-12-13 19:02:31 | INFO     | inference | Confidence: 87.11%
+2025-12-13 19:02:31 | INFO     | inference | L1:1.1%, L2:0.8%, L3:0.9%, L4:10.1%, L5:87.1%
+2025-12-13 19:02:31 | INFO     | inference | -
+2025-12-13 19:02:31 | INFO     | inference | Text 5 | expected: hard
+2025-12-13 19:02:31 | INFO     | inference | Predicted: 4 – Érthető
+2025-12-13 19:02:31 | INFO     | inference | Confidence: 48.58%
+2025-12-13 19:02:31 | INFO     | inference | L1:8.4%, L2:12.3%, L3:13.7%, L4:48.6%, L5:16.9%
+2025-12-13 19:03:40 | INFO     | inference | Starting inference demo
+2025-12-13 19:03:40 | INFO     | inference | Using device: mps
+2025-12-13 19:03:41 | INFO     | inference | Model weights loaded successfully
+2025-12-13 19:05:51 | INFO     | aggregate_jsons | Starting aggregation pipeline
+2025-12-13 19:05:51 | INFO     | aggregate_jsons | Input dir: data/original
+2025-12-13 19:05:51 | INFO     | aggregate_jsons | Output dir: data/aggregated
+2025-12-13 19:05:51 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-13 19:05:51 | INFO     | aggregate_jsons | Downloading dataset...
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Download and extraction successful.
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: A5VHUA
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   merged_annotations.json: 159 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   nemzeti_tehetseg_program_aszf_labeled.json: 68 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   belvarosi_epito_aszf_labeled.json: 91 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: BCLHKC
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   cimkezes.json: 107 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: BP17IB
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   meta.json: 0 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: E77YIW
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   mak_aszf_cimkezes.json: 105 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: EKGPBX
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   project-29-at-2025-10-16-16-34-dc747442.json: 269 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: F0B9YK
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   holyduck_aszf.json: 151 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: FA0B9B
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   FA0B9B_labeling.json: 104 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: G1QFG2
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   cimkezes.json: 103 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: GSFSJ1
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   fonallak_cimkezes.json: 101 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: HV75KB
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   labels.json: 124 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: HW921K
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   labeled_terms.json: 123 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: I1TLYH
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   epitesi_beruhazas.json: 168 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   dpd.json: 110 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: J0R9YS
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: K3I7DL
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   KH_aszf_cimkezes.json: 92 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: KRR9OD
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: LWVUH9
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   shiver_aszf_cimkezes.json: 89 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   sportkorhaz_aszf_cimkezes.json: 69 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: LXXAMS
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   budapestgo_aszf.json: 133 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: MDKFWC
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   hasznalt_auto_cimkek.json: 143 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: NHVU6N
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   hardverapro_labeled.json: 40 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   zalando_labeled.json: 50 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   netkazan_labeled.json: 15 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: Q88P3E
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   erste-diakhitel-kozpont_cimkezes.json: 224 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: QG1L1V
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   granit_bank_cimkezes.json: 119 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: R1Q6I8
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   telekom_aszf.json: 110 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: R92D9T
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: SS0N7G
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   alza_aszf.json: 189 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: T989VT
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   legal_text_dataset.json: 144 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: TFH22P
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   cimekezes.json: 126 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: UJVBTY
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: WFXBHI
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   kepregeny_depo_aszf.json: 67 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   libri_aszf.json: 120 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: XQEBMQ
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   xqebmq.json: 111 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Processing student: Z7ZF6D
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   vatera-aszf.json: 120 records
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Skipping excluded folder: consensus
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Skipping excluded folder: sample
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Aggregation complete.
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Total records: 3744
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Unique students: 25
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Unique texts: 3399
+2025-12-13 19:05:52 | INFO     | aggregate_jsons | Label distribution:
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   Label 1: 200
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   Label 2: 450
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   Label 3: 814
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   Label 4: 1121
+2025-12-13 19:05:52 | INFO     | aggregate_jsons |   Label 5: 1159
+2025-12-13 19:05:57 | INFO     | refinement | Reading source data from data/aggregated/labeled_data.csv
+2025-12-13 19:05:57 | INFO     | refinement | Excluding annotators with avg lead time < 10.0s (protected: hubert)
+2025-12-13 19:05:57 | INFO     | refinement | Excluded annotators:
+2025-12-13 19:05:57 | INFO     | refinement |   - EKGPBX
+2025-12-13 19:05:57 | INFO     | refinement |   - XQEBMQ
+2025-12-13 19:05:57 | INFO     | refinement | FINAL DATASET SUMMARIES
+2025-12-13 19:05:57 | INFO     | refinement | Training Set:
+2025-12-13 19:05:57 | INFO     | refinement |   Total Entries: 2255
+2025-12-13 19:05:57 | INFO     | refinement |   Unique Content Snippets: 2255
+2025-12-13 19:05:57 | INFO     | refinement |   Unique Annotators: 23
+2025-12-13 19:05:57 | INFO     | refinement |   Avg Content Length: 428 chars
+2025-12-13 19:05:57 | INFO     | refinement |   Median Content Length: 318 chars
+2025-12-13 19:05:57 | INFO     | refinement |   Avg Annotation Time: 45.39s
+2025-12-13 19:05:57 | INFO     | refinement |   Median Annotation Time: 13.90s
+2025-12-13 19:05:57 | INFO     | refinement |   Rating Distribution:
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 1: 110 (4.88%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 2: 258 (11.44%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 3: 505 (22.39%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 4: 704 (31.22%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 5: 678 (30.07%)
+2025-12-13 19:05:57 | INFO     | refinement | Validation Set:
+2025-12-13 19:05:57 | INFO     | refinement |   Total Entries: 300
+2025-12-13 19:05:57 | INFO     | refinement |   Unique Content Snippets: 295
+2025-12-13 19:05:57 | INFO     | refinement |   Unique Annotators: 25
+2025-12-13 19:05:57 | INFO     | refinement |   Avg Content Length: 444 chars
+2025-12-13 19:05:57 | INFO     | refinement |   Median Content Length: 303 chars
+2025-12-13 19:05:57 | INFO     | refinement |   Avg Annotation Time: 67.82s
+2025-12-13 19:05:57 | INFO     | refinement |   Median Annotation Time: 11.27s
+2025-12-13 19:05:57 | INFO     | refinement |   Rating Distribution:
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 1: 16 (5.33%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 2: 36 (12.00%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 3: 65 (21.67%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 4: 90 (30.00%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 5: 93 (31.00%)
+2025-12-13 19:05:57 | INFO     | refinement | Test Set:
+2025-12-13 19:05:57 | INFO     | refinement |   Total Entries: 749
+2025-12-13 19:05:57 | INFO     | refinement |   Unique Content Snippets: 736
+2025-12-13 19:05:57 | INFO     | refinement |   Unique Annotators: 25
+2025-12-13 19:05:57 | INFO     | refinement |   Avg Content Length: 407 chars
+2025-12-13 19:05:57 | INFO     | refinement |   Median Content Length: 326 chars
+2025-12-13 19:05:57 | INFO     | refinement |   Avg Annotation Time: 40.66s
+2025-12-13 19:05:57 | INFO     | refinement |   Median Annotation Time: 12.22s
+2025-12-13 19:05:57 | INFO     | refinement |   Rating Distribution:
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 1: 40 (5.34%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 2: 90 (12.02%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 3: 163 (21.76%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 4: 224 (29.91%)
+2025-12-13 19:05:57 | INFO     | refinement |     Rating 5: 232 (30.97%)
+2025-12-13 19:05:57 | INFO     | refinement | DATA PREPROCESSING REPORT
+2025-12-13 19:05:57 | INFO     | refinement | Initial entry count: 3744
+2025-12-13 19:05:57 | INFO     | refinement | Duplicate entries removed: 179
+2025-12-13 19:05:57 | INFO     | refinement | Short content entries removed: 103
+2025-12-13 19:05:57 | INFO     | refinement | Entries removed due to rushed annotators: 158
+2025-12-13 19:05:57 | INFO     | refinement | Excluded annotators: EKGPBX, XQEBMQ
+2025-12-13 19:05:57 | INFO     | refinement | Final training entries: 2695
+2025-12-13 19:05:57 | INFO     | refinement | Final validation entries: 300
+2025-12-13 19:05:57 | INFO     | refinement | Final test entries: 749
+2025-12-13 19:05:57 | INFO     | refinement | DATA REFINEMENT COMPLETE
+2025-12-13 19:06:02 | INFO     | hubert_training | HuBERT text classification training
+2025-12-13 19:06:02 | INFO     | hubert_training | Reading CSV inputs
+2025-12-13 19:06:02 | INFO     | hubert_training | Train: (2255, 8), Val: (300, 15), Test: (749, 15)
+2025-12-13 19:06:02 | INFO     | hubert_training | Initializing HuBERT tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 19:06:03 | INFO     | hubert_training | Bootstrapping HuBERT model
+2025-12-13 19:06:03 | INFO     | hubert_training | Starting HuBERT fine-tuning
+2025-12-13 19:07:48 | INFO     | hubert_training | Epoch 1 | train=0.327 | val=0.337
+2025-12-13 19:07:49 | INFO     | hubert_training | ✓ Best HuBERT model saved → output/hubert_best.pt
+2025-12-13 19:09:35 | INFO     | hubert_training | Epoch 2 | train=0.405 | val=0.430
+2025-12-13 19:09:36 | INFO     | hubert_training | ✓ Best HuBERT model saved → output/hubert_best.pt
+2025-12-13 19:11:21 | INFO     | hubert_training | Epoch 3 | train=0.469 | val=0.417
+2025-12-13 19:13:05 | INFO     | hubert_training | Epoch 4 | train=0.564 | val=0.473
+2025-12-13 19:13:06 | INFO     | hubert_training | ✓ Best HuBERT model saved → output/hubert_best.pt
+2025-12-13 19:14:52 | INFO     | hubert_training | Epoch 5 | train=0.691 | val=0.523
+2025-12-13 19:14:52 | INFO     | hubert_training | ✓ Best HuBERT model saved → output/hubert_best.pt
+2025-12-13 19:14:52 | INFO     | hubert_training | Training finished
+2025-12-13 19:18:06 | INFO     | evaluation | MODEL EVALUATION
+2025-12-13 19:18:06 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-13 19:18:06 | INFO     | evaluation | Training data: (2255, 8)
+2025-12-13 19:18:06 | INFO     | evaluation | Test data:     (749, 15)
+2025-12-13 19:18:06 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-13 19:18:07 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-13 19:18:07 | INFO     | evaluation | Validation samples: 564
+2025-12-13 19:18:07 | INFO     | evaluation | Test samples:       749
+2025-12-13 19:18:07 | INFO     | evaluation | Device: mps
+2025-12-13 19:18:07 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-13 19:18:09 | INFO     | evaluation | ✓ Model loaded (epoch 5)
+2025-12-13 19:18:09 | INFO     | evaluation | VALIDATION
+2025-12-13 19:18:28 | INFO     | evaluation | 
+Classification report – Validation
+2025-12-13 19:18:28 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.8333    0.9259    0.8772        27
+     Class 2     0.7917    0.8769    0.8321        65
+     Class 3     0.7589    0.6746    0.7143       126
+     Class 4     0.7284    0.6705    0.6982       176
+     Class 5     0.8138    0.9000    0.8547       170
+
+    accuracy                         0.7766       564
+   macro avg     0.7852    0.8096    0.7953       564
+weighted avg     0.7733    0.7766    0.7730       564
+
+2025-12-13 19:18:29 | INFO     | evaluation | ✓ Confusion matrix saved: output/confusion_validation.png
+2025-12-13 19:18:29 | INFO     | evaluation | TEST
+2025-12-13 19:18:50 | INFO     | evaluation | 
+Classification report – Test
+2025-12-13 19:18:50 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.3182    0.1750    0.2258        40
+     Class 2     0.2520    0.3444    0.2911        90
+     Class 3     0.3588    0.2883    0.3197       163
+     Class 4     0.4516    0.4375    0.4444       224
+     Class 5     0.6289    0.6940    0.6598       232
+
+    accuracy                         0.4593       749
+   macro avg     0.4019    0.3879    0.3882       749
+weighted avg     0.4552    0.4593    0.4539       749
+
+2025-12-13 19:18:50 | INFO     | evaluation | ✓ Confusion matrix saved: output/confusion_test.png
+2025-12-13 19:18:50 | INFO     | evaluation | 
+SUMMARY
+2025-12-13 19:18:50 | INFO     | evaluation | Val acc:  0.7766
+2025-12-13 19:18:50 | INFO     | evaluation | Test acc: 0.4593
+2025-12-13 19:18:50 | INFO     | evaluation | Val within-1:  0.9770
+2025-12-13 19:18:50 | INFO     | evaluation | Test within-1: 0.8571
+2025-12-13 19:18:58 | INFO     | inference | Starting inference demo
+2025-12-13 19:18:58 | INFO     | inference | Using device: mps
+2025-12-13 19:18:59 | INFO     | inference | Model weights loaded successfully
+2025-12-13 19:19:15 | INFO     | inference | Starting inference demo
+2025-12-13 19:19:15 | INFO     | inference | Using device: mps
+2025-12-13 19:19:16 | INFO     | inference | Model weights loaded successfully
+2025-12-13 19:19:17 | INFO     | inference | -
+2025-12-13 19:19:17 | INFO     | inference | Text 1 | expected: easy
+2025-12-13 19:19:17 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-13 19:19:17 | INFO     | inference | Confidence: 87.46%
+2025-12-13 19:19:17 | INFO     | inference | L1:2.6%, L2:2.9%, L3:1.6%, L4:5.5%, L5:87.5%
+2025-12-13 19:19:17 | INFO     | inference | -
+2025-12-13 19:19:17 | INFO     | inference | Text 2 | expected: easy
+2025-12-13 19:19:17 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-13 19:19:17 | INFO     | inference | Confidence: 90.83%
+2025-12-13 19:19:17 | INFO     | inference | L1:1.5%, L2:1.4%, L3:1.2%, L4:5.1%, L5:90.8%
+2025-12-13 19:19:17 | INFO     | inference | -
+2025-12-13 19:19:17 | INFO     | inference | Text 3 | expected: medium
+2025-12-13 19:19:17 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-13 19:19:17 | INFO     | inference | Confidence: 87.92%
+2025-12-13 19:19:17 | INFO     | inference | L1:1.4%, L2:0.8%, L3:0.9%, L4:9.0%, L5:87.9%
+2025-12-13 19:19:17 | INFO     | inference | -
+2025-12-13 19:19:17 | INFO     | inference | Text 4 | expected: medium
+2025-12-13 19:19:17 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-13 19:19:17 | INFO     | inference | Confidence: 87.11%
+2025-12-13 19:19:17 | INFO     | inference | L1:1.1%, L2:0.8%, L3:0.9%, L4:10.1%, L5:87.1%
+2025-12-13 19:19:17 | INFO     | inference | -
+2025-12-13 19:19:17 | INFO     | inference | Text 5 | expected: hard
+2025-12-13 19:19:17 | INFO     | inference | Predicted: 4 – Könnyen érthető
+2025-12-13 19:19:17 | INFO     | inference | Confidence: 48.58%
+2025-12-13 19:19:17 | INFO     | inference | L1:8.4%, L2:12.3%, L3:13.7%, L4:48.6%, L5:16.9%

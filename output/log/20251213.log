@@ -1,0 +1,83 @@
+2025-12-13 16:05:30 | INFO     | refinement | Source file: data/aggregated/labeled_data.csv
+2025-12-13 16:05:30 | INFO     | refinement | Destination directory: data/processed
+2025-12-13 16:05:30 | INFO     | refinement | Reading source data...
+2025-12-13 16:05:30 | INFO     | refinement |   Source file: data/aggregated/labeled_data.csv
+2025-12-13 16:05:30 | INFO     | refinement |   Loaded 3744 entries.
+2025-12-13 16:05:30 | INFO     | refinement | Creating stratified train, validation, and test splits...
+2025-12-13 16:05:30 | INFO     | refinement |   Training set size: 2695
+2025-12-13 16:05:30 | INFO     | refinement |   Validation set size: 300
+2025-12-13 16:05:30 | INFO     | refinement |   Test set size: 749
+2025-12-13 16:05:30 | INFO     | refinement | Filtering to relevant columns...
+2025-12-13 16:05:30 | INFO     | refinement |   Kept 7 columns.
+2025-12-13 16:05:30 | INFO     | refinement | Resolving duplicate content entries...
+2025-12-13 16:05:30 | INFO     | refinement | Found 179 duplicate content entries out of 2695.
+2025-12-13 16:05:30 | INFO     | refinement | Removed 179 duplicate entries. New count: 2516
+2025-12-13 16:05:30 | INFO     | refinement | Filtering out entries with content length < 50 chars.
+2025-12-13 16:05:30 | INFO     | refinement | Removed 103 short-content entries.
+2025-12-13 16:05:30 | INFO     | refinement | Excluding annotators with avg. lead time < 10.0s.
+2025-12-13 16:05:30 | INFO     | refinement | Found rushed annotators to exclude:
+2025-12-13 16:05:30 | INFO     | refinement |   - EKGPBX
+2025-12-13 16:05:30 | INFO     | refinement |   - XQEBMQ
+2025-12-13 16:05:30 | INFO     | refinement | Removed 158 entries from 2 rushed annotators.
+2025-12-13 16:05:30 | INFO     | refinement | FINAL DATASET SUMMARIES
+2025-12-13 16:05:30 | INFO     | refinement | Training Set Summary:
+2025-12-13 16:05:30 | INFO     | refinement |   Total Entries: 2255
+2025-12-13 16:05:30 | INFO     | refinement |   Unique Content Snippets: 2255
+2025-12-13 16:05:30 | INFO     | refinement |   Unique Annotators: 23
+2025-12-13 16:05:30 | INFO     | refinement |   Avg Content Length: 428 chars
+2025-12-13 16:05:30 | INFO     | refinement |   Median Content Length: 318 chars
+2025-12-13 16:05:30 | INFO     | refinement |   Avg Annotation Time: 45.39s
+2025-12-13 16:05:30 | INFO     | refinement |   Median Annotation Time: 13.90s
+2025-12-13 16:05:30 | INFO     | refinement |  Rating Distribution:
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 1:  110 ( 4.88%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 2:  258 (11.44%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 3:  505 (22.39%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 4:  704 (31.22%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 5:  678 (30.07%)
+2025-12-13 16:05:30 | INFO     | refinement | Validation Set Summary:
+2025-12-13 16:05:30 | INFO     | refinement |   Total Entries: 300
+2025-12-13 16:05:30 | INFO     | refinement |   Unique Content Snippets: 295
+2025-12-13 16:05:30 | INFO     | refinement |   Unique Annotators: 25
+2025-12-13 16:05:30 | INFO     | refinement |   Avg Content Length: 444 chars
+2025-12-13 16:05:30 | INFO     | refinement |   Median Content Length: 303 chars
+2025-12-13 16:05:30 | INFO     | refinement |   Avg Annotation Time: 67.82s
+2025-12-13 16:05:30 | INFO     | refinement |   Median Annotation Time: 11.27s
+2025-12-13 16:05:30 | INFO     | refinement |  Rating Distribution:
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 1:   16 ( 5.33%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 2:   36 (12.00%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 3:   65 (21.67%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 4:   90 (30.00%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 5:   93 (31.00%)
+2025-12-13 16:05:30 | INFO     | refinement | Test Set Summary:
+2025-12-13 16:05:30 | INFO     | refinement |   Total Entries: 749
+2025-12-13 16:05:30 | INFO     | refinement |   Unique Content Snippets: 736
+2025-12-13 16:05:30 | INFO     | refinement |   Unique Annotators: 25
+2025-12-13 16:05:30 | INFO     | refinement |   Avg Content Length: 407 chars
+2025-12-13 16:05:30 | INFO     | refinement |   Median Content Length: 326 chars
+2025-12-13 16:05:30 | INFO     | refinement |   Avg Annotation Time: 40.66s
+2025-12-13 16:05:30 | INFO     | refinement |   Median Annotation Time: 12.22s
+2025-12-13 16:05:30 | INFO     | refinement |  Rating Distribution:
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 1:   40 ( 5.34%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 2:   90 (12.02%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 3:  163 (21.76%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 4:  224 (29.91%)
+2025-12-13 16:05:30 | INFO     | refinement |     Rating 5:  232 (30.97%)
+2025-12-13 16:05:30 | INFO     | refinement | Writing final datasets to output files...
+2025-12-13 16:05:30 | INFO     | refinement | Saved training data to: data/processed/train.csv (2255 entries)
+2025-12-13 16:05:30 | INFO     | refinement | Saved validation data to: data/processed/validation.csv (300 entries)
+2025-12-13 16:05:30 | INFO     | refinement | Saved test data to: data/processed/test.csv (749 entries)
+2025-12-13 16:05:30 | INFO     | refinement | Generating visual report of the cleaned dataset...
+2025-12-13 16:05:31 | INFO     | refinement | Visual report saved to 'media' directory.
+2025-12-13 16:05:31 | INFO     | refinement | DATA PREPROCESSING REPORT
+2025-12-13 16:05:31 | INFO     | refinement | Initial entry count: 3744
+2025-12-13 16:05:31 | INFO     | refinement | Entries moved to test set: 0
+2025-12-13 16:05:31 | INFO     | refinement | Duplicate entries removed: 179
+2025-12-13 16:05:31 | INFO     | refinement | Short content entries removed: 103
+2025-12-13 16:05:31 | INFO     | refinement | Entries from low-quality annotators removed: 158
+2025-12-13 16:05:31 | INFO     | refinement | Excluded annotator IDs: EKGPBX, XQEBMQ
+2025-12-13 16:05:31 | INFO     | refinement | Final training entries: 2255
+2025-12-13 16:05:31 | INFO     | refinement | Final validation entries: 300
+2025-12-13 16:05:31 | INFO     | refinement | Final test entries: 749
+2025-12-13 16:05:31 | INFO     | refinement | Total final entries: 3304
+2025-12-13 16:05:31 | INFO     | refinement | DATA REFINEMENT WORKFLOW COMPLETE!
+2025-12-13 16:05:31 | INFO     | refinement | Output files are ready for model training.

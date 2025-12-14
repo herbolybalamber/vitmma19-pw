@@ -1,0 +1,1499 @@
+2025-12-12 10:33:39 | INFO     | aggregate_jsons | Starting data pipeline...
+2025-12-12 10:33:39 | INFO     | aggregate_jsons | Input directory: data/original
+2025-12-12 10:33:39 | INFO     | aggregate_jsons | Output directory: data/aggregated
+2025-12-12 10:33:39 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-12 10:33:39 | INFO     | aggregate_jsons | Downloading data from SharePoint...
+2025-12-12 10:33:41 | INFO     | aggregate_jsons | Download size: 11.6 MB
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Downloaded 11.6 MB
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Extracting zip contents...
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Flattening nested folder: legaltextdecoder
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Moving data to data/original...
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Extraction complete!
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Starting data aggregation...
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: A5VHUA
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     merged_annotations.json: 159 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     nemzeti_tehetseg_program_aszf_labeled.json: 68 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     belvarosi_epito_aszf_labeled.json: 91 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: BCLHKC
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     cimkezes.json: 107 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: BP17IB
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     meta.json: 0 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: E77YIW
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     mak_aszf_cimkezes.json: 105 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: EKGPBX
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     project-29-at-2025-10-16-16-34-dc747442.json: 269 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: F0B9YK
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     holyduck_aszf.json: 151 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: FA0B9B
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     FA0B9B_labeling.json: 104 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: G1QFG2
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     cimkezes.json: 103 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: GSFSJ1
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     fonallak_cimkezes.json: 101 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: HV75KB
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     labels.json: 124 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: HW921K
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     labeled_terms.json: 123 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: I1TLYH
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     epitesi_beruhazas.json: 168 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     dpd.json: 110 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: J0R9YS
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: K3I7DL
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     KH_aszf_cimkezes.json: 92 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: KRR9OD
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: LWVUH9
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     shiver_aszf_cimkezes.json: 89 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     sportkorhaz_aszf_cimkezes.json: 69 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: LXXAMS
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     budapestgo_aszf.json: 133 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: MDKFWC
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     hasznalt_auto_cimkek.json: 143 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: NHVU6N
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     hardverapro_labeled.json: 40 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     zalando_labeled.json: 50 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     netkazan_labeled.json: 15 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: Q88P3E
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     erste-diakhitel-kozpont_cimkezes.json: 224 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: QG1L1V
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     granit_bank_cimkezes.json: 119 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: R1Q6I8
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     telekom_aszf.json: 110 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: R92D9T
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: SS0N7G
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     alza_aszf.json: 189 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: T989VT
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     legal_text_dataset.json: 144 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: TFH22P
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     cimekezes.json: 126 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: UJVBTY
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: WFXBHI
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     kepregeny_depo_aszf.json: 67 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     libri_aszf.json: 120 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: XQEBMQ
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     xqebmq.json: 111 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Processing student: Z7ZF6D
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     vatera-aszf.json: 120 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Skipping excluded folder: consensus
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Skipping excluded folder: sample
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Aggregation complete!
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Total records: 3744
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Output file: data/aggregated/labeled_data.csv
+2025-12-12 10:33:42 | INFO     | aggregate_jsons | Statistics:
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Unique students: 25
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Unique texts: 3399
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |   Label distribution:
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     Label 1: 200 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     Label 2: 450 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     Label 3: 814 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     Label 4: 1121 records
+2025-12-12 10:33:42 | INFO     | aggregate_jsons |     Label 5: 1159 records
+2025-12-12 10:33:44 | INFO     | preprocess | Input: data/aggregated/labeled_data.csv
+2025-12-12 10:33:44 | INFO     | preprocess | Output directory: data/processed
+2025-12-12 10:33:44 | INFO     | preprocess | Loading data...
+2025-12-12 10:33:44 | INFO     | preprocess |   Input file: data/aggregated/labeled_data.csv
+2025-12-12 10:33:44 | INFO     | preprocess |   Loaded 3744 records
+2025-12-12 10:33:44 | INFO     | preprocess |   Columns: ['student_code', 'source_file', 'json_filename', 'task_id', 'task_inner_id', 'annotation_id', 'text', 'label_text', 'label_numeric', 'completed_by', 'annotation_created_at', 'annotation_updated_at', 'task_created_at', 'task_updated_at', 'lead_time_seconds']
+2025-12-12 10:33:44 | INFO     | preprocess | Test holdout: 132 records
+2025-12-12 10:33:44 | INFO     | preprocess |   K3I7DL: 92 records
+2025-12-12 10:33:44 | INFO     | preprocess |   BCLHKC (otp): 40 records
+2025-12-12 10:33:44 | INFO     | preprocess | Working dataset: 3612 records
+2025-12-12 10:33:44 | INFO     | preprocess | Selecting relevant columns...
+2025-12-12 10:33:44 | INFO     | preprocess |   Selected 7 columns
+2025-12-12 10:33:44 | INFO     | preprocess | HANDLING DUPLICATE TEXTS...
+2025-12-12 10:33:44 | INFO     | preprocess | Total records: 3612
+2025-12-12 10:33:44 | INFO     | preprocess | Unique texts: 3306
+2025-12-12 10:33:44 | INFO     | preprocess | Duplicate texts: 306
+2025-12-12 10:33:44 | INFO     | preprocess | Processing 612 duplicate records...
+2025-12-12 10:33:44 | INFO     | preprocess | Duplicates resolved: 306 records removed
+2025-12-12 10:33:44 | INFO     | preprocess | Final count: 3306 records
+2025-12-12 10:33:44 | INFO     | preprocess | FILTERING SHORT TEXTS (< 50 chars)
+2025-12-12 10:33:44 | INFO     | preprocess | Before: 3306 records
+2025-12-12 10:33:44 | INFO     | preprocess | After: 3169 records
+2025-12-12 10:33:44 | INFO     | preprocess | Removed: 137 records (4.14%)
+2025-12-12 10:33:44 | INFO     | preprocess | REMOVING LOW-QUALITY STUDENTS (mean lead_time < 10.0s)
+2025-12-12 10:33:44 | INFO     | preprocess | Students to remove:
+2025-12-12 10:33:44 | INFO     | preprocess |   EKGPBX: mean=2.34s, records=153
+2025-12-12 10:33:44 | INFO     | preprocess |   XQEBMQ: mean=8.09s, records=110
+2025-12-12 10:33:44 | INFO     | preprocess | Before: 3169 records
+2025-12-12 10:33:44 | INFO     | preprocess | After: 2906 records
+2025-12-12 10:33:44 | INFO     | preprocess | Removed: 263 records (8.30%)
+2025-12-12 10:33:44 | INFO     | preprocess | FINAL STATISTICS
+2025-12-12 10:33:44 | INFO     | preprocess | Training Set:
+2025-12-12 10:33:44 | INFO     | preprocess |   Total records: 2906
+2025-12-12 10:33:44 | INFO     | preprocess |   Unique texts: 2906
+2025-12-12 10:33:44 | INFO     | preprocess |   Unique students: 22
+2025-12-12 10:33:44 | INFO     | preprocess |   Mean text length: 428 chars
+2025-12-12 10:33:44 | INFO     | preprocess |   Median text length: 321 chars
+2025-12-12 10:33:44 | INFO     | preprocess |   Mean lead time: 48.12s
+2025-12-12 10:33:44 | INFO     | preprocess |   Median lead time: 13.50s
+2025-12-12 10:33:44 | INFO     | preprocess |  Label distribution:
+2025-12-12 10:33:44 | INFO     | preprocess |     Label 1:  132 ( 4.54%)
+2025-12-12 10:33:44 | INFO     | preprocess |     Label 2:  318 (10.94%)
+2025-12-12 10:33:44 | INFO     | preprocess |     Label 3:  634 (21.82%)
+2025-12-12 10:33:44 | INFO     | preprocess |     Label 4:  925 (31.83%)
+2025-12-12 10:33:44 | INFO     | preprocess |     Label 5:  897 (30.87%)
+2025-12-12 10:33:44 | INFO     | preprocess | Test Set:
+2025-12-12 10:33:44 | INFO     | preprocess |   Total records: 132
+2025-12-12 10:33:44 | INFO     | preprocess |   Unique texts: 132
+2025-12-12 10:33:44 | INFO     | preprocess |   Unique students: 2
+2025-12-12 10:33:44 | INFO     | preprocess |   Mean text length: 336 chars
+2025-12-12 10:33:44 | INFO     | preprocess |   Median text length: 306 chars
+2025-12-12 10:33:44 | INFO     | preprocess |   Mean lead time: 56.74s
+2025-12-12 10:33:44 | INFO     | preprocess |   Median lead time: 22.12s
+2025-12-12 10:33:44 | INFO     | preprocess |  Label distribution:
+2025-12-12 10:33:44 | INFO     | preprocess |     Label 1:    9 ( 6.82%)
+2025-12-12 10:33:44 | INFO     | preprocess |     Label 2:   28 (21.21%)
+2025-12-12 10:33:44 | INFO     | preprocess |     Label 3:   34 (25.76%)
+2025-12-12 10:33:44 | INFO     | preprocess |     Label 4:   27 (20.45%)
+2025-12-12 10:33:44 | INFO     | preprocess |     Label 5:   34 (25.76%)
+2025-12-12 10:33:44 | INFO     | preprocess | SAVING FINAL DATASETS
+2025-12-12 10:33:44 | INFO     | preprocess | Training dataset: data/processed/train.csv
+2025-12-12 10:33:44 | INFO     | preprocess |   Records: 2906
+2025-12-12 10:33:44 | INFO     | preprocess |   Unique students: 22
+2025-12-12 10:33:44 | INFO     | preprocess |   Unique texts: 2906
+2025-12-12 10:33:44 | INFO     | preprocess | Test dataset: data/processed/test.csv
+2025-12-12 10:33:44 | INFO     | preprocess |   Records: 132
+2025-12-12 10:33:44 | INFO     | preprocess |   Unique students: 2
+2025-12-12 10:33:44 | INFO     | preprocess | DATA CLEANING SUMMARY
+2025-12-12 10:33:44 | INFO     | preprocess | Initial records: 3744
+2025-12-12 10:33:44 | INFO     | preprocess | Test holdout separated: 132
+2025-12-12 10:33:44 | INFO     | preprocess | Duplicates removed: 306
+2025-12-12 10:33:44 | INFO     | preprocess | Short texts removed: 137
+2025-12-12 10:33:44 | INFO     | preprocess | Low-quality student records removed: 263
+2025-12-12 10:33:44 | INFO     | preprocess | Students removed: EKGPBX, XQEBMQ
+2025-12-12 10:33:44 | INFO     | preprocess | Final training records: 2906
+2025-12-12 10:33:44 | INFO     | preprocess | Final test records: 132
+2025-12-12 10:33:44 | INFO     | preprocess | Total final records: 3038
+2025-12-12 10:33:44 | INFO     | preprocess | PIPELINE COMPLETE!
+2025-12-12 10:33:44 | INFO     | preprocess | Files ready for model training:
+2025-12-12 10:33:44 | INFO     | preprocess |   - data/processed/train.csv
+2025-12-12 10:33:44 | INFO     | preprocess |   - data/processed/test.csv
+2025-12-12 10:33:52 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-12 10:33:52 | INFO     | train | 
+Configuration:
+2025-12-12 10:33:52 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-12 10:33:52 | INFO     | train |   Batch size: 16
+2025-12-12 10:33:52 | INFO     | train |   Learning rate: 2e-05
+2025-12-12 10:33:52 | INFO     | train |   Epochs: 5
+2025-12-12 10:33:52 | INFO     | train |   Max length: 256
+2025-12-12 10:33:52 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-12 10:33:52 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-12 10:33:52 | INFO     | train | LOADING DATA
+2025-12-12 10:33:52 | INFO     | train | 
+Training data: (2906, 8)
+2025-12-12 10:33:52 | INFO     | train | Test data: (132, 15)
+2025-12-12 10:33:52 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-12 10:33:54 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-12 10:33:54 | INFO     | train | 
+Class weights:
+2025-12-12 10:33:54 | INFO     | train |   Class 1: 4.4030
+2025-12-12 10:33:54 | INFO     | train |   Class 2: 1.8277
+2025-12-12 10:33:54 | INFO     | train |   Class 3: 0.9167
+2025-12-12 10:33:54 | INFO     | train |   Class 4: 0.6283
+2025-12-12 10:33:54 | INFO     | train |   Class 5: 0.6479
+2025-12-12 10:33:54 | INFO     | train | CREATING DATA SPLITS
+2025-12-12 10:33:54 | INFO     | train | 
+Tokenizing training data...
+2025-12-12 10:33:55 | INFO     | train | ✓ Training data tokenized: 2906 samples
+2025-12-12 10:33:55 | INFO     | train | Tokenizing test data...
+2025-12-12 10:33:55 | INFO     | train | ✓ Test data tokenized: 132 samples
+2025-12-12 10:33:55 | INFO     | train | 
+Split sizes:
+2025-12-12 10:33:55 | INFO     | train |   Training:   2324 samples
+2025-12-12 10:33:55 | INFO     | train |   Validation: 582 samples
+2025-12-12 10:33:55 | INFO     | train |   Test:       132 samples
+2025-12-12 10:33:55 | INFO     | train | 
+Label distribution in training:
+2025-12-12 10:33:55 | INFO     | train |   Class 1:  106 samples ( 4.56%)
+2025-12-12 10:33:55 | INFO     | train |   Class 2:  254 samples (10.93%)
+2025-12-12 10:33:55 | INFO     | train |   Class 3:  507 samples (21.82%)
+2025-12-12 10:33:55 | INFO     | train |   Class 4:  740 samples (31.84%)
+2025-12-12 10:33:55 | INFO     | train |   Class 5:  717 samples (30.85%)
+2025-12-12 10:33:55 | INFO     | train | CREATING DATALOADERS
+2025-12-12 10:33:55 | INFO     | train | ✓ Created PyTorch datasets
+2025-12-12 10:33:55 | INFO     | train |   Train: 2324 samples
+2025-12-12 10:33:55 | INFO     | train |   Val:   582 samples
+2025-12-12 10:33:55 | INFO     | train |   Test:  132 samples
+2025-12-12 10:33:55 | INFO     | train | 
+✓ Created DataLoaders
+2025-12-12 10:33:55 | INFO     | train |   Train batches: 146
+2025-12-12 10:33:55 | INFO     | train |   Val batches:   37
+2025-12-12 10:33:55 | INFO     | train |   Test batches:  9
+2025-12-12 10:33:55 | INFO     | train | 
+Sample batch verification:
+2025-12-12 10:33:55 | INFO     | train |   input_ids shape: torch.Size([16, 256])
+2025-12-12 10:33:55 | INFO     | train |   attention_mask shape: torch.Size([16, 256])
+2025-12-12 10:33:55 | INFO     | train |   labels shape: torch.Size([16])
+2025-12-12 10:33:55 | INFO     | train |   labels range: 0 to 4
+2025-12-12 10:33:55 | INFO     | train | INITIALIZING TRAINING COMPONENTS
+2025-12-12 10:33:55 | INFO     | train | 
+Device: cpu
+2025-12-12 10:33:55 | INFO     | train | PyTorch version: 2.9.1+cu128
+2025-12-12 10:33:55 | INFO     | train | 
+Loading model: SZTAKI-HLT/hubert-base-cc
+2025-12-12 10:34:04 | INFO     | train | ✓ Model loaded and moved to cpu
+2025-12-12 10:34:04 | INFO     | train |   Total parameters: 110,621,957
+2025-12-12 10:34:04 | INFO     | train |   Trainable parameters: 110,621,957
+2025-12-12 10:34:04 | INFO     | train |   Model architecture:
+BertForSequenceClassification(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(32001, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSdpaSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+    (pooler): BertPooler(
+      (dense): Linear(in_features=768, out_features=768, bias=True)
+      (activation): Tanh()
+    )
+  )
+  (dropout): Dropout(p=0.1, inplace=False)
+  (classifier): Linear(in_features=768, out_features=5, bias=True)
+)
+2025-12-12 10:34:04 | INFO     | train | 
+✓ Class weights prepared: ['4.403', '1.828', '0.917', '0.628', '0.648']
+2025-12-12 10:34:04 | INFO     | train | ✓ Loss function: CrossEntropyLoss with class weights
+2025-12-12 10:34:04 | INFO     | train | ✓ Optimizer: AdamW (lr=2e-05)
+2025-12-12 10:34:04 | INFO     | train | ✓ Scheduler: Linear with warmup
+2025-12-12 10:34:04 | INFO     | train |   Total training steps: 730
+2025-12-12 10:34:04 | INFO     | train |   Warmup steps: 73
+2025-12-12 10:34:04 | INFO     | train | 
+✓ All training components initialized!
+2025-12-12 10:34:04 | INFO     | train | STARTING TRAINING
+2025-12-12 10:34:04 | INFO     | train | 
+Training for 5 epochs...
+2025-12-12 10:34:04 | INFO     | train | 
+============================================================
+2025-12-12 10:34:04 | INFO     | train | EPOCH 1/5
+2025-12-12 10:34:04 | INFO     | train | ============================================================
+2025-12-12 11:40:53 | INFO     | aggregate_jsons | Starting data pipeline...
+2025-12-12 11:40:53 | INFO     | aggregate_jsons | Input directory: data/original
+2025-12-12 11:40:53 | INFO     | aggregate_jsons | Output directory: data/aggregated
+2025-12-12 11:40:53 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-12 11:40:53 | INFO     | aggregate_jsons | Downloading data from SharePoint...
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Download size: 11.6 MB
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Downloaded 11.6 MB
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Extracting zip contents...
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Flattening nested folder: legaltextdecoder
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Clearing existing data in data/original...
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Moving data to data/original...
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Extraction complete!
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Starting data aggregation...
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: A5VHUA
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     merged_annotations.json: 159 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     nemzeti_tehetseg_program_aszf_labeled.json: 68 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     belvarosi_epito_aszf_labeled.json: 91 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: BCLHKC
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     cimkezes.json: 107 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: BP17IB
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     meta.json: 0 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: E77YIW
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     mak_aszf_cimkezes.json: 105 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: EKGPBX
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     project-29-at-2025-10-16-16-34-dc747442.json: 269 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: F0B9YK
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     holyduck_aszf.json: 151 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: FA0B9B
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     FA0B9B_labeling.json: 104 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: G1QFG2
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     cimkezes.json: 103 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: GSFSJ1
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     fonallak_cimkezes.json: 101 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: HV75KB
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     labels.json: 124 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: HW921K
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     labeled_terms.json: 123 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: I1TLYH
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     epitesi_beruhazas.json: 168 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     dpd.json: 110 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: J0R9YS
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: K3I7DL
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     KH_aszf_cimkezes.json: 92 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: KRR9OD
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: LWVUH9
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     shiver_aszf_cimkezes.json: 89 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     sportkorhaz_aszf_cimkezes.json: 69 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: LXXAMS
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     budapestgo_aszf.json: 133 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: MDKFWC
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     hasznalt_auto_cimkek.json: 143 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: NHVU6N
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     hardverapro_labeled.json: 40 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     zalando_labeled.json: 50 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     netkazan_labeled.json: 15 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: Q88P3E
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     erste-diakhitel-kozpont_cimkezes.json: 224 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: QG1L1V
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     granit_bank_cimkezes.json: 119 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: R1Q6I8
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     telekom_aszf.json: 110 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: R92D9T
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: SS0N7G
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     alza_aszf.json: 189 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: T989VT
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     legal_text_dataset.json: 144 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: TFH22P
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     cimekezes.json: 126 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: UJVBTY
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: WFXBHI
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     kepregeny_depo_aszf.json: 67 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     libri_aszf.json: 120 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: XQEBMQ
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     xqebmq.json: 111 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Processing student: Z7ZF6D
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     vatera-aszf.json: 120 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Skipping excluded folder: consensus
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Skipping excluded folder: sample
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Aggregation complete!
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Total records: 3744
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Output file: data/aggregated/labeled_data.csv
+2025-12-12 11:40:54 | INFO     | aggregate_jsons | Statistics:
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Unique students: 25
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Unique texts: 3399
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |   Label distribution:
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     Label 1: 200 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     Label 2: 450 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     Label 3: 814 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     Label 4: 1121 records
+2025-12-12 11:40:54 | INFO     | aggregate_jsons |     Label 5: 1159 records
+2025-12-12 11:41:11 | INFO     | preprocess | Input: data/aggregated/labeled_data.csv
+2025-12-12 11:41:11 | INFO     | preprocess | Output directory: data/processed
+2025-12-12 11:41:11 | INFO     | preprocess | Loading data...
+2025-12-12 11:41:11 | INFO     | preprocess |   Input file: data/aggregated/labeled_data.csv
+2025-12-12 11:41:11 | INFO     | preprocess |   Loaded 3744 records
+2025-12-12 11:41:11 | INFO     | preprocess |   Columns: ['student_code', 'source_file', 'json_filename', 'task_id', 'task_inner_id', 'annotation_id', 'text', 'label_text', 'label_numeric', 'completed_by', 'annotation_created_at', 'annotation_updated_at', 'task_created_at', 'task_updated_at', 'lead_time_seconds']
+2025-12-12 11:41:11 | INFO     | preprocess | Test holdout: 132 records
+2025-12-12 11:41:11 | INFO     | preprocess |   K3I7DL: 92 records
+2025-12-12 11:41:11 | INFO     | preprocess |   BCLHKC (otp): 40 records
+2025-12-12 11:41:11 | INFO     | preprocess | Working dataset: 3612 records
+2025-12-12 11:41:11 | INFO     | preprocess | Selecting relevant columns...
+2025-12-12 11:41:11 | INFO     | preprocess |   Selected 7 columns
+2025-12-12 11:41:11 | INFO     | preprocess | HANDLING DUPLICATE TEXTS...
+2025-12-12 11:41:11 | INFO     | preprocess | Total records: 3612
+2025-12-12 11:41:11 | INFO     | preprocess | Unique texts: 3306
+2025-12-12 11:41:11 | INFO     | preprocess | Duplicate texts: 306
+2025-12-12 11:41:11 | INFO     | preprocess | Processing 612 duplicate records...
+2025-12-12 11:41:11 | INFO     | preprocess | Duplicates resolved: 306 records removed
+2025-12-12 11:41:11 | INFO     | preprocess | Final count: 3306 records
+2025-12-12 11:41:11 | INFO     | preprocess | FILTERING SHORT TEXTS (< 50 chars)
+2025-12-12 11:41:11 | INFO     | preprocess | Before: 3306 records
+2025-12-12 11:41:11 | INFO     | preprocess | After: 3169 records
+2025-12-12 11:41:11 | INFO     | preprocess | Removed: 137 records (4.14%)
+2025-12-12 11:41:11 | INFO     | preprocess | REMOVING LOW-QUALITY STUDENTS (mean lead_time < 10.0s)
+2025-12-12 11:41:11 | INFO     | preprocess | Students to remove:
+2025-12-12 11:41:11 | INFO     | preprocess |   EKGPBX: mean=2.34s, records=153
+2025-12-12 11:41:11 | INFO     | preprocess |   XQEBMQ: mean=8.09s, records=110
+2025-12-12 11:41:11 | INFO     | preprocess | Before: 3169 records
+2025-12-12 11:41:11 | INFO     | preprocess | After: 2906 records
+2025-12-12 11:41:11 | INFO     | preprocess | Removed: 263 records (8.30%)
+2025-12-12 11:41:11 | INFO     | preprocess | FINAL STATISTICS
+2025-12-12 11:41:11 | INFO     | preprocess | Training Set:
+2025-12-12 11:41:11 | INFO     | preprocess |   Total records: 2906
+2025-12-12 11:41:11 | INFO     | preprocess |   Unique texts: 2906
+2025-12-12 11:41:11 | INFO     | preprocess |   Unique students: 22
+2025-12-12 11:41:11 | INFO     | preprocess |   Mean text length: 428 chars
+2025-12-12 11:41:11 | INFO     | preprocess |   Median text length: 321 chars
+2025-12-12 11:41:11 | INFO     | preprocess |   Mean lead time: 48.12s
+2025-12-12 11:41:11 | INFO     | preprocess |   Median lead time: 13.50s
+2025-12-12 11:41:11 | INFO     | preprocess |  Label distribution:
+2025-12-12 11:41:11 | INFO     | preprocess |     Label 1:  132 ( 4.54%)
+2025-12-12 11:41:11 | INFO     | preprocess |     Label 2:  318 (10.94%)
+2025-12-12 11:41:11 | INFO     | preprocess |     Label 3:  634 (21.82%)
+2025-12-12 11:41:11 | INFO     | preprocess |     Label 4:  925 (31.83%)
+2025-12-12 11:41:11 | INFO     | preprocess |     Label 5:  897 (30.87%)
+2025-12-12 11:41:11 | INFO     | preprocess | Test Set:
+2025-12-12 11:41:11 | INFO     | preprocess |   Total records: 132
+2025-12-12 11:41:11 | INFO     | preprocess |   Unique texts: 132
+2025-12-12 11:41:11 | INFO     | preprocess |   Unique students: 2
+2025-12-12 11:41:11 | INFO     | preprocess |   Mean text length: 336 chars
+2025-12-12 11:41:11 | INFO     | preprocess |   Median text length: 306 chars
+2025-12-12 11:41:11 | INFO     | preprocess |   Mean lead time: 56.74s
+2025-12-12 11:41:11 | INFO     | preprocess |   Median lead time: 22.12s
+2025-12-12 11:41:11 | INFO     | preprocess |  Label distribution:
+2025-12-12 11:41:11 | INFO     | preprocess |     Label 1:    9 ( 6.82%)
+2025-12-12 11:41:11 | INFO     | preprocess |     Label 2:   28 (21.21%)
+2025-12-12 11:41:11 | INFO     | preprocess |     Label 3:   34 (25.76%)
+2025-12-12 11:41:11 | INFO     | preprocess |     Label 4:   27 (20.45%)
+2025-12-12 11:41:11 | INFO     | preprocess |     Label 5:   34 (25.76%)
+2025-12-12 11:41:11 | INFO     | preprocess | SAVING FINAL DATASETS
+2025-12-12 11:41:11 | INFO     | preprocess | Training dataset: data/processed/train.csv
+2025-12-12 11:41:11 | INFO     | preprocess |   Records: 2906
+2025-12-12 11:41:11 | INFO     | preprocess |   Unique students: 22
+2025-12-12 11:41:11 | INFO     | preprocess |   Unique texts: 2906
+2025-12-12 11:41:11 | INFO     | preprocess | Test dataset: data/processed/test.csv
+2025-12-12 11:41:11 | INFO     | preprocess |   Records: 132
+2025-12-12 11:41:11 | INFO     | preprocess |   Unique students: 2
+2025-12-12 11:41:11 | INFO     | preprocess | DATA CLEANING SUMMARY
+2025-12-12 11:41:11 | INFO     | preprocess | Initial records: 3744
+2025-12-12 11:41:11 | INFO     | preprocess | Test holdout separated: 132
+2025-12-12 11:41:11 | INFO     | preprocess | Duplicates removed: 306
+2025-12-12 11:41:11 | INFO     | preprocess | Short texts removed: 137
+2025-12-12 11:41:11 | INFO     | preprocess | Low-quality student records removed: 263
+2025-12-12 11:41:11 | INFO     | preprocess | Students removed: EKGPBX, XQEBMQ
+2025-12-12 11:41:11 | INFO     | preprocess | Final training records: 2906
+2025-12-12 11:41:11 | INFO     | preprocess | Final test records: 132
+2025-12-12 11:41:11 | INFO     | preprocess | Total final records: 3038
+2025-12-12 11:41:11 | INFO     | preprocess | PIPELINE COMPLETE!
+2025-12-12 11:41:11 | INFO     | preprocess | Files ready for model training:
+2025-12-12 11:41:11 | INFO     | preprocess |   - data/processed/train.csv
+2025-12-12 11:41:11 | INFO     | preprocess |   - data/processed/test.csv
+2025-12-12 11:41:27 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-12 11:41:27 | INFO     | train | 
+Configuration:
+2025-12-12 11:41:27 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-12 11:41:27 | INFO     | train |   Batch size: 16
+2025-12-12 11:41:27 | INFO     | train |   Learning rate: 2e-05
+2025-12-12 11:41:27 | INFO     | train |   Epochs: 5
+2025-12-12 11:41:27 | INFO     | train |   Max length: 256
+2025-12-12 11:41:27 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-12 11:41:27 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-12 11:41:27 | INFO     | train | LOADING DATA
+2025-12-12 11:41:27 | INFO     | train | 
+Training data: (2906, 8)
+2025-12-12 11:41:27 | INFO     | train | Test data: (132, 15)
+2025-12-12 11:41:27 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-12 11:41:29 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-12 11:41:29 | INFO     | train | 
+Class weights:
+2025-12-12 11:41:29 | INFO     | train |   Class 1: 4.4030
+2025-12-12 11:41:29 | INFO     | train |   Class 2: 1.8277
+2025-12-12 11:41:29 | INFO     | train |   Class 3: 0.9167
+2025-12-12 11:41:29 | INFO     | train |   Class 4: 0.6283
+2025-12-12 11:41:29 | INFO     | train |   Class 5: 0.6479
+2025-12-12 11:41:29 | INFO     | train | CREATING DATA SPLITS
+2025-12-12 11:41:29 | INFO     | train | 
+Tokenizing training data...
+2025-12-12 11:41:29 | INFO     | train | ✓ Training data tokenized: 2906 samples
+2025-12-12 11:41:29 | INFO     | train | Tokenizing test data...
+2025-12-12 11:41:29 | INFO     | train | ✓ Test data tokenized: 132 samples
+2025-12-12 11:41:29 | INFO     | train | 
+Split sizes:
+2025-12-12 11:41:29 | INFO     | train |   Training:   2324 samples
+2025-12-12 11:41:29 | INFO     | train |   Validation: 582 samples
+2025-12-12 11:41:29 | INFO     | train |   Test:       132 samples
+2025-12-12 11:41:29 | INFO     | train | 
+Label distribution in training:
+2025-12-12 11:41:29 | INFO     | train |   Class 1:  106 samples ( 4.56%)
+2025-12-12 11:41:29 | INFO     | train |   Class 2:  254 samples (10.93%)
+2025-12-12 11:41:29 | INFO     | train |   Class 3:  507 samples (21.82%)
+2025-12-12 11:41:29 | INFO     | train |   Class 4:  740 samples (31.84%)
+2025-12-12 11:41:29 | INFO     | train |   Class 5:  717 samples (30.85%)
+2025-12-12 11:41:29 | INFO     | train | CREATING DATALOADERS
+2025-12-12 11:41:29 | INFO     | train | ✓ Created PyTorch datasets
+2025-12-12 11:41:29 | INFO     | train |   Train: 2324 samples
+2025-12-12 11:41:29 | INFO     | train |   Val:   582 samples
+2025-12-12 11:41:29 | INFO     | train |   Test:  132 samples
+2025-12-12 11:41:29 | INFO     | train | 
+✓ Created DataLoaders
+2025-12-12 11:41:29 | INFO     | train |   Train batches: 146
+2025-12-12 11:41:29 | INFO     | train |   Val batches:   37
+2025-12-12 11:41:29 | INFO     | train |   Test batches:  9
+2025-12-12 11:41:29 | INFO     | train | 
+Sample batch verification:
+2025-12-12 11:41:29 | INFO     | train |   input_ids shape: torch.Size([16, 256])
+2025-12-12 11:41:29 | INFO     | train |   attention_mask shape: torch.Size([16, 256])
+2025-12-12 11:41:29 | INFO     | train |   labels shape: torch.Size([16])
+2025-12-12 11:41:29 | INFO     | train |   labels range: 1 to 4
+2025-12-12 11:41:29 | INFO     | train | INITIALIZING TRAINING COMPONENTS
+2025-12-12 11:41:29 | INFO     | train | 
+Device: cpu
+2025-12-12 11:41:29 | INFO     | train | PyTorch version: 2.9.1
+2025-12-12 11:41:29 | INFO     | train | 
+Loading model: SZTAKI-HLT/hubert-base-cc
+2025-12-12 11:41:38 | INFO     | train | ✓ Model loaded and moved to cpu
+2025-12-12 11:41:38 | INFO     | train |   Total parameters: 110,621,957
+2025-12-12 11:41:38 | INFO     | train |   Trainable parameters: 110,621,957
+2025-12-12 11:41:38 | INFO     | train |   Model architecture:
+BertForSequenceClassification(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(32001, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSdpaSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+    (pooler): BertPooler(
+      (dense): Linear(in_features=768, out_features=768, bias=True)
+      (activation): Tanh()
+    )
+  )
+  (dropout): Dropout(p=0.1, inplace=False)
+  (classifier): Linear(in_features=768, out_features=5, bias=True)
+)
+2025-12-12 11:41:38 | INFO     | train | 
+✓ Class weights prepared: ['4.403', '1.828', '0.917', '0.628', '0.648']
+2025-12-12 11:41:38 | INFO     | train | ✓ Loss function: CrossEntropyLoss with class weights
+2025-12-12 11:41:38 | INFO     | train | ✓ Optimizer: AdamW (lr=2e-05)
+2025-12-12 11:41:38 | INFO     | train | ✓ Scheduler: Linear with warmup
+2025-12-12 11:41:38 | INFO     | train |   Total training steps: 730
+2025-12-12 11:41:38 | INFO     | train |   Warmup steps: 73
+2025-12-12 11:41:38 | INFO     | train | 
+✓ All training components initialized!
+2025-12-12 11:41:38 | INFO     | train | STARTING TRAINING
+2025-12-12 11:41:38 | INFO     | train | 
+Training for 5 epochs...
+2025-12-12 11:41:38 | INFO     | train | 
+============================================================
+2025-12-12 11:41:38 | INFO     | train | EPOCH 1/5
+2025-12-12 11:41:38 | INFO     | train | ============================================================
+2025-12-12 11:53:37 | INFO     | aggregate_jsons | Starting data pipeline...
+2025-12-12 11:53:37 | INFO     | aggregate_jsons | Input directory: data/original
+2025-12-12 11:53:37 | INFO     | aggregate_jsons | Output directory: data/aggregated
+2025-12-12 11:53:37 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-12 11:53:37 | INFO     | aggregate_jsons | Downloading data from SharePoint...
+2025-12-12 11:53:38 | INFO     | aggregate_jsons | Download size: 11.6 MB
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Downloaded 11.6 MB
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Extracting zip contents...
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Flattening nested folder: legaltextdecoder
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Clearing existing data in data/original...
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Moving data to data/original...
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Extraction complete!
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Starting data aggregation...
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: A5VHUA
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     merged_annotations.json: 159 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     nemzeti_tehetseg_program_aszf_labeled.json: 68 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     belvarosi_epito_aszf_labeled.json: 91 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: BCLHKC
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     cimkezes.json: 107 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: BP17IB
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     meta.json: 0 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: E77YIW
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     mak_aszf_cimkezes.json: 105 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: EKGPBX
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     project-29-at-2025-10-16-16-34-dc747442.json: 269 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: F0B9YK
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     holyduck_aszf.json: 151 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: FA0B9B
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     FA0B9B_labeling.json: 104 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: G1QFG2
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     cimkezes.json: 103 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: GSFSJ1
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     fonallak_cimkezes.json: 101 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: HV75KB
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     labels.json: 124 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: HW921K
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     labeled_terms.json: 123 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: I1TLYH
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     epitesi_beruhazas.json: 168 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     dpd.json: 110 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: J0R9YS
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: K3I7DL
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     KH_aszf_cimkezes.json: 92 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: KRR9OD
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: LWVUH9
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     shiver_aszf_cimkezes.json: 89 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     sportkorhaz_aszf_cimkezes.json: 69 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: LXXAMS
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     budapestgo_aszf.json: 133 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: MDKFWC
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     hasznalt_auto_cimkek.json: 143 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: NHVU6N
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     hardverapro_labeled.json: 40 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     zalando_labeled.json: 50 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     netkazan_labeled.json: 15 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: Q88P3E
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     erste-diakhitel-kozpont_cimkezes.json: 224 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: QG1L1V
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     granit_bank_cimkezes.json: 119 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: R1Q6I8
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     telekom_aszf.json: 110 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: R92D9T
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: SS0N7G
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     alza_aszf.json: 189 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: T989VT
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     legal_text_dataset.json: 144 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: TFH22P
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     cimekezes.json: 126 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: UJVBTY
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: WFXBHI
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     kepregeny_depo_aszf.json: 67 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     libri_aszf.json: 120 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: XQEBMQ
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     xqebmq.json: 111 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Processing student: Z7ZF6D
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     vatera-aszf.json: 120 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Skipping excluded folder: consensus
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Skipping excluded folder: sample
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Aggregation complete!
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Total records: 3744
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Output file: data/aggregated/labeled_data.csv
+2025-12-12 11:53:39 | INFO     | aggregate_jsons | Statistics:
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Unique students: 25
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Unique texts: 3399
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |   Label distribution:
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     Label 1: 200 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     Label 2: 450 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     Label 3: 814 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     Label 4: 1121 records
+2025-12-12 11:53:39 | INFO     | aggregate_jsons |     Label 5: 1159 records
+2025-12-12 11:53:42 | INFO     | preprocess | Input: data/aggregated/labeled_data.csv
+2025-12-12 11:53:42 | INFO     | preprocess | Output directory: data/processed
+2025-12-12 11:53:42 | INFO     | preprocess | Loading data...
+2025-12-12 11:53:42 | INFO     | preprocess |   Input file: data/aggregated/labeled_data.csv
+2025-12-12 11:53:42 | INFO     | preprocess |   Loaded 3744 records
+2025-12-12 11:53:42 | INFO     | preprocess |   Columns: ['student_code', 'source_file', 'json_filename', 'task_id', 'task_inner_id', 'annotation_id', 'text', 'label_text', 'label_numeric', 'completed_by', 'annotation_created_at', 'annotation_updated_at', 'task_created_at', 'task_updated_at', 'lead_time_seconds']
+2025-12-12 11:53:42 | INFO     | preprocess | Test holdout: 132 records
+2025-12-12 11:53:42 | INFO     | preprocess |   K3I7DL: 92 records
+2025-12-12 11:53:42 | INFO     | preprocess |   BCLHKC (otp): 40 records
+2025-12-12 11:53:42 | INFO     | preprocess | Working dataset: 3612 records
+2025-12-12 11:53:42 | INFO     | preprocess | Selecting relevant columns...
+2025-12-12 11:53:42 | INFO     | preprocess |   Selected 7 columns
+2025-12-12 11:53:42 | INFO     | preprocess | HANDLING DUPLICATE TEXTS...
+2025-12-12 11:53:42 | INFO     | preprocess | Total records: 3612
+2025-12-12 11:53:42 | INFO     | preprocess | Unique texts: 3306
+2025-12-12 11:53:42 | INFO     | preprocess | Duplicate texts: 306
+2025-12-12 11:53:42 | INFO     | preprocess | Duplicates resolved: 306 records removed
+2025-12-12 11:53:42 | INFO     | preprocess | Final count: 3306 records
+2025-12-12 11:53:42 | INFO     | preprocess | FILTERING SHORT TEXTS (< 50 chars)
+2025-12-12 11:53:42 | INFO     | preprocess | Before: 3306 records
+2025-12-12 11:53:42 | INFO     | preprocess | After: 3169 records
+2025-12-12 11:53:42 | INFO     | preprocess | Removed: 137 records (4.14%)
+2025-12-12 11:53:42 | INFO     | preprocess | REMOVING LOW-QUALITY STUDENTS (mean lead_time < 10.0s)
+2025-12-12 11:53:42 | INFO     | preprocess | Students to remove:
+2025-12-12 11:53:42 | INFO     | preprocess |   EKGPBX: mean=2.76s, records=114
+2025-12-12 11:53:42 | INFO     | preprocess |   XQEBMQ: mean=8.09s, records=110
+2025-12-12 11:53:42 | INFO     | preprocess | Before: 3169 records
+2025-12-12 11:53:42 | INFO     | preprocess | After: 2945 records
+2025-12-12 11:53:42 | INFO     | preprocess | Removed: 224 records (7.07%)
+2025-12-12 11:53:42 | INFO     | preprocess | FINAL STATISTICS
+2025-12-12 11:53:42 | INFO     | preprocess | Training Set:
+2025-12-12 11:53:42 | INFO     | preprocess |   Total records: 2945
+2025-12-12 11:53:42 | INFO     | preprocess |   Unique texts: 2945
+2025-12-12 11:53:42 | INFO     | preprocess |   Unique students: 22
+2025-12-12 11:53:42 | INFO     | preprocess |   Mean text length: 427 chars
+2025-12-12 11:53:42 | INFO     | preprocess |   Median text length: 319 chars
+2025-12-12 11:53:42 | INFO     | preprocess |   Mean lead time: 48.08s
+2025-12-12 11:53:42 | INFO     | preprocess |   Median lead time: 13.53s
+2025-12-12 11:53:42 | INFO     | preprocess |  Label distribution:
+2025-12-12 11:53:42 | INFO     | preprocess |     Label 1:  139 ( 4.72%)
+2025-12-12 11:53:42 | INFO     | preprocess |     Label 2:  321 (10.90%)
+2025-12-12 11:53:42 | INFO     | preprocess |     Label 3:  644 (21.87%)
+2025-12-12 11:53:42 | INFO     | preprocess |     Label 4:  934 (31.71%)
+2025-12-12 11:53:42 | INFO     | preprocess |     Label 5:  907 (30.80%)
+2025-12-12 11:53:42 | INFO     | preprocess | Test Set:
+2025-12-12 11:53:42 | INFO     | preprocess |   Total records: 132
+2025-12-12 11:53:42 | INFO     | preprocess |   Unique texts: 132
+2025-12-12 11:53:42 | INFO     | preprocess |   Unique students: 2
+2025-12-12 11:53:42 | INFO     | preprocess |   Mean text length: 336 chars
+2025-12-12 11:53:42 | INFO     | preprocess |   Median text length: 306 chars
+2025-12-12 11:53:42 | INFO     | preprocess |   Mean lead time: 56.74s
+2025-12-12 11:53:42 | INFO     | preprocess |   Median lead time: 22.12s
+2025-12-12 11:53:42 | INFO     | preprocess |  Label distribution:
+2025-12-12 11:53:42 | INFO     | preprocess |     Label 1:    9 ( 6.82%)
+2025-12-12 11:53:42 | INFO     | preprocess |     Label 2:   28 (21.21%)
+2025-12-12 11:53:42 | INFO     | preprocess |     Label 3:   34 (25.76%)
+2025-12-12 11:53:42 | INFO     | preprocess |     Label 4:   27 (20.45%)
+2025-12-12 11:53:42 | INFO     | preprocess |     Label 5:   34 (25.76%)
+2025-12-12 11:53:42 | INFO     | preprocess | SAVING FINAL DATASETS
+2025-12-12 11:53:42 | INFO     | preprocess | Training dataset: data/processed/train.csv
+2025-12-12 11:53:42 | INFO     | preprocess |   Records: 2945
+2025-12-12 11:53:42 | INFO     | preprocess |   Unique students: 22
+2025-12-12 11:53:42 | INFO     | preprocess |   Unique texts: 2945
+2025-12-12 11:53:42 | INFO     | preprocess | Test dataset: data/processed/test.csv
+2025-12-12 11:53:42 | INFO     | preprocess |   Records: 132
+2025-12-12 11:53:42 | INFO     | preprocess |   Unique students: 2
+2025-12-12 11:53:42 | INFO     | preprocess | DATA CLEANING SUMMARY
+2025-12-12 11:53:42 | INFO     | preprocess | Initial records: 3744
+2025-12-12 11:53:42 | INFO     | preprocess | Test holdout separated: 132
+2025-12-12 11:53:42 | INFO     | preprocess | Duplicates removed: 306
+2025-12-12 11:53:42 | INFO     | preprocess | Short texts removed: 137
+2025-12-12 11:53:42 | INFO     | preprocess | Low-quality student records removed: 224
+2025-12-12 11:53:42 | INFO     | preprocess | Students removed: EKGPBX, XQEBMQ
+2025-12-12 11:53:42 | INFO     | preprocess | Final training records: 2945
+2025-12-12 11:53:42 | INFO     | preprocess | Final test records: 132
+2025-12-12 11:53:42 | INFO     | preprocess | Total final records: 3077
+2025-12-12 11:53:42 | INFO     | preprocess | PIPELINE COMPLETE!
+2025-12-12 11:53:42 | INFO     | preprocess | Files ready for model training:
+2025-12-12 11:53:42 | INFO     | preprocess |   - data/processed/train.csv
+2025-12-12 11:53:42 | INFO     | preprocess |   - data/processed/test.csv
+2025-12-12 11:53:49 | INFO     | train | HuBERT Fine-tuning Pipeline
+2025-12-12 11:53:49 | INFO     | train | 
+Configuration:
+2025-12-12 11:53:49 | INFO     | train |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-12 11:53:49 | INFO     | train |   Batch size: 16
+2025-12-12 11:53:49 | INFO     | train |   Learning rate: 2e-05
+2025-12-12 11:53:49 | INFO     | train |   Epochs: 5
+2025-12-12 11:53:49 | INFO     | train |   Max length: 256
+2025-12-12 11:53:49 | INFO     | train |   Train path: data/processed/train.csv
+2025-12-12 11:53:49 | INFO     | train |   Test path: data/processed/test.csv
+2025-12-12 11:53:49 | INFO     | train | LOADING DATA
+2025-12-12 11:53:49 | INFO     | train | 
+Training data: (2945, 8)
+2025-12-12 11:53:49 | INFO     | train | Test data: (132, 15)
+2025-12-12 11:53:49 | INFO     | train | 
+Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-12 11:53:49 | INFO     | train | ✓ Tokenizer loaded (vocab size: 32001)
+2025-12-12 11:53:49 | INFO     | train | 
+Class weights:
+2025-12-12 11:53:49 | INFO     | train |   Class 1: 4.2374
+2025-12-12 11:53:49 | INFO     | train |   Class 2: 1.8349
+2025-12-12 11:53:49 | INFO     | train |   Class 3: 0.9146
+2025-12-12 11:53:49 | INFO     | train |   Class 4: 0.6306
+2025-12-12 11:53:49 | INFO     | train |   Class 5: 0.6494
+2025-12-12 11:53:49 | INFO     | train | CREATING DATA SPLITS
+2025-12-12 11:53:49 | INFO     | train | 
+Tokenizing training data...
+2025-12-12 11:53:49 | INFO     | train | ✓ Training data tokenized: 2945 samples
+2025-12-12 11:53:49 | INFO     | train | Tokenizing test data...
+2025-12-12 11:53:49 | INFO     | train | ✓ Test data tokenized: 132 samples
+2025-12-12 11:53:49 | INFO     | train | 
+Split sizes:
+2025-12-12 11:53:49 | INFO     | train |   Training:   2356 samples
+2025-12-12 11:53:49 | INFO     | train |   Validation: 589 samples
+2025-12-12 11:53:49 | INFO     | train |   Test:       132 samples
+2025-12-12 11:53:49 | INFO     | train | 
+Label distribution in training:
+2025-12-12 11:53:49 | INFO     | train |   Class 1:  111 samples ( 4.71%)
+2025-12-12 11:53:49 | INFO     | train |   Class 2:  257 samples (10.91%)
+2025-12-12 11:53:49 | INFO     | train |   Class 3:  515 samples (21.86%)
+2025-12-12 11:53:49 | INFO     | train |   Class 4:  747 samples (31.71%)
+2025-12-12 11:53:49 | INFO     | train |   Class 5:  726 samples (30.81%)
+2025-12-12 11:53:49 | INFO     | train | CREATING DATALOADERS
+2025-12-12 11:53:49 | INFO     | train | ✓ Created PyTorch datasets
+2025-12-12 11:53:49 | INFO     | train |   Train: 2356 samples
+2025-12-12 11:53:49 | INFO     | train |   Val:   589 samples
+2025-12-12 11:53:49 | INFO     | train |   Test:  132 samples
+2025-12-12 11:53:49 | INFO     | train | 
+DataLoader settings: num_workers=2, pin_memory=True
+2025-12-12 11:53:49 | INFO     | train | 
+✓ Created DataLoaders
+2025-12-12 11:53:49 | INFO     | train |   Train batches: 148
+2025-12-12 11:53:49 | INFO     | train |   Val batches:   37
+2025-12-12 11:53:49 | INFO     | train |   Test batches:  9
+2025-12-12 11:54:05 | INFO     | train | 
+Sample batch verification:
+2025-12-12 11:54:05 | INFO     | train |   input_ids shape: torch.Size([16, 256])
+2025-12-12 11:54:05 | INFO     | train |   attention_mask shape: torch.Size([16, 256])
+2025-12-12 11:54:05 | INFO     | train |   labels shape: torch.Size([16])
+2025-12-12 11:54:05 | INFO     | train |   labels range: 0 to 4
+2025-12-12 11:54:05 | INFO     | train | INITIALIZING TRAINING COMPONENTS
+2025-12-12 11:54:05 | INFO     | train | 
+Device: mps
+2025-12-12 11:54:05 | INFO     | train | PyTorch version: 2.9.1
+2025-12-12 11:54:05 | INFO     | train | 
+Loading model: SZTAKI-HLT/hubert-base-cc
+2025-12-12 11:54:05 | INFO     | train | ✓ Model loaded and moved to mps
+2025-12-12 11:54:05 | INFO     | train |   Total parameters: 110,621,957
+2025-12-12 11:54:05 | INFO     | train |   Trainable parameters: 110,621,957
+2025-12-12 11:54:05 | INFO     | train |   Model architecture:
+BertForSequenceClassification(
+  (bert): BertModel(
+    (embeddings): BertEmbeddings(
+      (word_embeddings): Embedding(32001, 768, padding_idx=0)
+      (position_embeddings): Embedding(512, 768)
+      (token_type_embeddings): Embedding(2, 768)
+      (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+      (dropout): Dropout(p=0.1, inplace=False)
+    )
+    (encoder): BertEncoder(
+      (layer): ModuleList(
+        (0-11): 12 x BertLayer(
+          (attention): BertAttention(
+            (self): BertSdpaSelfAttention(
+              (query): Linear(in_features=768, out_features=768, bias=True)
+              (key): Linear(in_features=768, out_features=768, bias=True)
+              (value): Linear(in_features=768, out_features=768, bias=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+            (output): BertSelfOutput(
+              (dense): Linear(in_features=768, out_features=768, bias=True)
+              (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+          (intermediate): BertIntermediate(
+            (dense): Linear(in_features=768, out_features=3072, bias=True)
+            (intermediate_act_fn): GELUActivation()
+          )
+          (output): BertOutput(
+            (dense): Linear(in_features=3072, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+    )
+    (pooler): BertPooler(
+      (dense): Linear(in_features=768, out_features=768, bias=True)
+      (activation): Tanh()
+    )
+  )
+  (dropout): Dropout(p=0.1, inplace=False)
+  (classifier): Linear(in_features=768, out_features=5, bias=True)
+)
+2025-12-12 11:54:05 | INFO     | train | 
+✓ Class weights prepared: ['4.237', '1.835', '0.915', '0.631', '0.649']
+2025-12-12 11:54:05 | INFO     | train | ✓ Loss function: CrossEntropyLoss with class weights
+2025-12-12 11:54:05 | INFO     | train | ✓ Optimizer: AdamW (lr=2e-05)
+2025-12-12 11:54:05 | INFO     | train | ✓ Scheduler: Linear with warmup
+2025-12-12 11:54:05 | INFO     | train |   Total training steps: 740
+2025-12-12 11:54:05 | INFO     | train |   Warmup steps: 74
+2025-12-12 11:54:05 | INFO     | train | 
+✓ All training components initialized!
+2025-12-12 11:54:05 | INFO     | train | STARTING TRAINING
+2025-12-12 11:54:05 | INFO     | train | 
+Training for 5 epochs...
+2025-12-12 11:54:05 | INFO     | train | 
+============================================================
+2025-12-12 11:54:05 | INFO     | train | EPOCH 1/5
+2025-12-12 11:54:05 | INFO     | train | ============================================================
+2025-12-12 11:55:39 | INFO     | train | 
+Train Loss: 1.5062, Train Acc: 0.3243
+2025-12-12 11:56:00 | INFO     | train | Val Loss:   1.4534, Val Acc:   0.4143
+2025-12-12 11:56:00 | INFO     | train |   Per-class recall: 
+2025-12-12 11:56:00 | INFO     | train | C1:0.36 
+2025-12-12 11:56:00 | INFO     | train | C2:0.03 
+2025-12-12 11:56:00 | INFO     | train | C3:0.06 
+2025-12-12 11:56:00 | INFO     | train | C4:0.73 
+2025-12-12 11:56:00 | INFO     | train | C5:0.48 
+2025-12-12 11:56:02 | INFO     | train | ✓ New best model saved! (Val Acc: 0.4143)
+2025-12-12 11:56:02 | INFO     | train | 
+============================================================
+2025-12-12 11:56:02 | INFO     | train | EPOCH 2/5
+2025-12-12 11:56:02 | INFO     | train | ============================================================
+2025-12-12 11:57:32 | INFO     | train | 
+Train Loss: 1.3072, Train Acc: 0.4397
+2025-12-12 11:57:53 | INFO     | train | Val Loss:   1.3829, Val Acc:   0.3786
+2025-12-12 11:57:53 | INFO     | train |   Per-class recall: 
+2025-12-12 11:57:53 | INFO     | train | C1:0.54 
+2025-12-12 11:57:53 | INFO     | train | C2:0.31 
+2025-12-12 11:57:53 | INFO     | train | C3:0.12 
+2025-12-12 11:57:53 | INFO     | train | C4:0.55 
+2025-12-12 11:57:53 | INFO     | train | C5:0.39 
+2025-12-12 11:57:53 | INFO     | train | 
+============================================================
+2025-12-12 11:57:53 | INFO     | train | EPOCH 3/5
+2025-12-12 11:57:53 | INFO     | train | ============================================================
+2025-12-12 11:59:22 | INFO     | train | 
+Train Loss: 1.1283, Train Acc: 0.5255
+2025-12-12 11:59:42 | INFO     | train | Val Loss:   1.3976, Val Acc:   0.4160
+2025-12-12 11:59:42 | INFO     | train |   Per-class recall: 
+2025-12-12 11:59:42 | INFO     | train | C1:0.36 
+2025-12-12 11:59:42 | INFO     | train | C2:0.27 
+2025-12-12 11:59:42 | INFO     | train | C3:0.52 
+2025-12-12 11:59:42 | INFO     | train | C4:0.29 
+2025-12-12 11:59:42 | INFO     | train | C5:0.53 
+2025-12-12 11:59:44 | INFO     | train | ✓ New best model saved! (Val Acc: 0.4160)
+2025-12-12 11:59:44 | INFO     | train | 
+============================================================
+2025-12-12 11:59:44 | INFO     | train | EPOCH 4/5
+2025-12-12 11:59:44 | INFO     | train | ============================================================
+2025-12-12 12:01:12 | INFO     | train | 
+Train Loss: 0.9055, Train Acc: 0.6112
+2025-12-12 12:01:33 | INFO     | train | Val Loss:   1.5408, Val Acc:   0.4431
+2025-12-12 12:01:33 | INFO     | train |   Per-class recall: 
+2025-12-12 12:01:33 | INFO     | train | C1:0.14 
+2025-12-12 12:01:33 | INFO     | train | C2:0.33 
+2025-12-12 12:01:33 | INFO     | train | C3:0.26 
+2025-12-12 12:01:33 | INFO     | train | C4:0.42 
+2025-12-12 12:01:33 | INFO     | train | C5:0.68 
+2025-12-12 12:01:34 | INFO     | train | ✓ New best model saved! (Val Acc: 0.4431)
+2025-12-12 12:01:34 | INFO     | train | 
+============================================================
+2025-12-12 12:01:34 | INFO     | train | EPOCH 5/5
+2025-12-12 12:01:34 | INFO     | train | ============================================================
+2025-12-12 12:03:05 | INFO     | train | 
+Train Loss: 0.7001, Train Acc: 0.7050
+2025-12-12 12:03:25 | INFO     | train | Val Loss:   1.6091, Val Acc:   0.4414
+2025-12-12 12:03:25 | INFO     | train |   Per-class recall: 
+2025-12-12 12:03:25 | INFO     | train | C1:0.07 
+2025-12-12 12:03:25 | INFO     | train | C2:0.30 
+2025-12-12 12:03:25 | INFO     | train | C3:0.32 
+2025-12-12 12:03:25 | INFO     | train | C4:0.45 
+2025-12-12 12:03:25 | INFO     | train | C5:0.63 
+2025-12-12 12:03:25 | INFO     | train | TRAINING COMPLETE!
+2025-12-12 12:03:25 | INFO     | train | 
+Best validation accuracy: 0.4431 (Epoch 4)
+2025-12-12 12:03:25 | INFO     | train | 
+Loading best model from output/best_model.pt...
+2025-12-12 12:03:26 | INFO     | train | ✓ Loaded best model from epoch 4
+2025-12-12 12:03:26 | INFO     | train | TRAINING HISTORY
+2025-12-12 12:03:27 | INFO     | train | ✓ Training history saved to output/training_history.png
+2025-12-12 12:03:27 | INFO     | train | TRAINING COMPLETE!
+2025-12-12 12:03:27 | INFO     | train | 
+Best model saved to: output/best_model.pt
+2025-12-12 12:03:27 | INFO     | train | To run full evaluation, use: python 03_evaluation.py
+2025-12-12 12:08:15 | INFO     | evaluation | Model Evaluation
+2025-12-12 12:08:15 | INFO     | evaluation | 
+Configuration:
+2025-12-12 12:08:15 | INFO     | evaluation |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-12 12:08:15 | INFO     | evaluation |   Train path: data/processed/train.csv
+2025-12-12 12:08:15 | INFO     | evaluation |   Test path: data/processed/test.csv
+2025-12-12 12:08:15 | INFO     | evaluation |   Model path: output/best_model.pt
+2025-12-12 12:08:15 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-12 12:08:15 | INFO     | evaluation | 
+Training data: (2945, 8)
+2025-12-12 12:08:15 | INFO     | evaluation | Test data: (132, 15)
+2025-12-12 12:08:15 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-12 12:08:15 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-12 12:08:15 | INFO     | evaluation | 
+Tokenizing data...
+2025-12-12 12:08:15 | INFO     | evaluation | 
+Dataset sizes:
+2025-12-12 12:08:15 | INFO     | evaluation |   Validation: 589 samples
+2025-12-12 12:08:15 | INFO     | evaluation |   Test:       132 samples
+2025-12-12 12:08:15 | INFO     | evaluation | 
+DataLoader settings: num_workers=2, pin_memory=True
+2025-12-12 12:08:15 | INFO     | evaluation | 
+✓ DataLoaders created
+2025-12-12 12:08:15 | INFO     | evaluation |   Val batches:  37
+2025-12-12 12:08:15 | INFO     | evaluation |   Test batches: 9
+2025-12-12 12:08:15 | INFO     | evaluation | 
+Device: mps
+2025-12-12 12:08:15 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-12 12:08:17 | INFO     | evaluation | ✓ Model loaded from epoch 4
+2025-12-12 12:08:17 | INFO     | evaluation |   Validation accuracy at save: 0.4431
+2025-12-12 12:08:17 | INFO     | evaluation | VALIDATION SET RESULTS
+2025-12-12 12:08:37 | INFO     | evaluation | 
+Classification Report (Validation):
+2025-12-12 12:08:37 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.2222    0.1429    0.1739        28
+     Class 2     0.3043    0.3281    0.3158        64
+     Class 3     0.3400    0.2636    0.2969       129
+     Class 4     0.4180    0.4225    0.4202       187
+     Class 5     0.5775    0.6796    0.6244       181
+
+    accuracy                         0.4431       589
+   macro avg     0.3724    0.3673    0.3662       589
+weighted avg     0.4283    0.4431    0.4329       589
+
+2025-12-12 12:08:37 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_validation.png
+2025-12-12 12:08:37 | INFO     | evaluation | TEST SET RESULTS
+2025-12-12 12:08:53 | INFO     | evaluation | 
+Classification Report (Test):
+2025-12-12 12:08:54 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.6667    0.2222    0.3333         9
+     Class 2     0.5000    0.1429    0.2222        28
+     Class 3     0.3684    0.2059    0.2642        34
+     Class 4     0.2308    0.4444    0.3038        27
+     Class 5     0.5600    0.8235    0.6667        34
+
+    accuracy                         0.4015       132
+   macro avg     0.4652    0.3678    0.3580       132
+weighted avg     0.4379    0.4015    0.3718       132
+
+2025-12-12 12:08:54 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_test.png
+2025-12-12 12:08:54 | INFO     | evaluation | ORDINAL EVALUATION METRICS
+2025-12-12 12:08:54 | INFO     | evaluation | 
+Validation Set:
+2025-12-12 12:08:54 | INFO     | evaluation |   Exact Accuracy:     0.4431
+2025-12-12 12:08:54 | INFO     | evaluation |   Within-1 Accuracy:  0.8642
+2025-12-12 12:08:54 | INFO     | evaluation |   Within-2 Accuracy:  0.9677
+2025-12-12 12:08:54 | INFO     | evaluation | 
+Test Set:
+2025-12-12 12:08:54 | INFO     | evaluation |   Exact Accuracy:     0.4015
+2025-12-12 12:08:54 | INFO     | evaluation |   Within-1 Accuracy:  0.7348
+2025-12-12 12:08:54 | INFO     | evaluation |   Within-2 Accuracy:  0.9697
+2025-12-12 12:08:54 | INFO     | evaluation | 
+Recall by class:
+2025-12-12 12:08:54 | INFO     | evaluation | ----------------------------------------
+2025-12-12 12:08:54 | INFO     | evaluation | Class      Validation      Test           
+2025-12-12 12:08:54 | INFO     | evaluation | ----------------------------------------
+2025-12-12 12:08:54 | INFO     | evaluation | Class 1    0.1429          0.2222         
+2025-12-12 12:08:54 | INFO     | evaluation | Class 2    0.3281          0.1429         
+2025-12-12 12:08:54 | INFO     | evaluation | Class 3    0.2636          0.2059         
+2025-12-12 12:08:54 | INFO     | evaluation | Class 4    0.4225          0.4444         
+2025-12-12 12:08:54 | INFO     | evaluation | Class 5    0.6796          0.8235         
+2025-12-12 12:08:54 | INFO     | evaluation | EVALUATION SUMMARY
+2025-12-12 12:08:54 | INFO     | evaluation | 
+Model: SZTAKI-HLT/hubert-base-cc
+Model path: output/best_model.pt
+
+Results:
+  Validation:
+    - Accuracy: 0.4431
+    - Within-1: 0.8642
+    - Within-2: 0.9677
+
+  Test:
+    - Accuracy: 0.4015
+    - Within-1: 0.7348
+    - Within-2: 0.9697
+
+Figures saved to: output
+
+2025-12-12 12:08:54 | INFO     | evaluation | EVALUATION COMPLETE!
+2025-12-12 12:10:54 | INFO     | inference | Inference Script
+2025-12-12 12:10:54 | INFO     | inference | Model path: output/best_model.pt
+2025-12-12 12:10:54 | INFO     | inference | Loading model from: output/best_model.pt
+2025-12-12 12:10:54 | INFO     | inference | Device: mps
+2025-12-12 12:10:54 | INFO     | inference | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-12 12:10:55 | INFO     | inference | Model loaded successfully (trained epoch: 4)
+2025-12-12 12:10:55 | INFO     | inference | 
+2025-12-12 12:10:55 | INFO     | inference | Sample texts to classify: 10
+2025-12-12 12:10:55 | INFO     | inference | 
+2025-12-12 12:10:55 | INFO     | inference | Sample data overview:
+2025-12-12 12:10:55 | INFO     | inference |   [1] Simple pricing statement (expected: easy)
+2025-12-12 12:10:55 | INFO     | inference |   [2] Basic contract term (expected: easy)
+2025-12-12 12:10:55 | INFO     | inference |   [3] Consumer withdrawal rights (expected: medium)
+2025-12-12 12:10:55 | INFO     | inference |   [4] Terms modification clause (expected: medium)
+2025-12-12 12:10:55 | INFO     | inference |   [5] Legal reference to Civil Code (expected: hard)
+2025-12-12 12:10:55 | INFO     | inference |   [6] IP violation consequences (expected: hard)
+2025-12-12 12:10:55 | INFO     | inference |   [7] Liability limitation clause (expected: hard)
+2025-12-12 12:10:55 | INFO     | inference |   [8] GDPR data controller info (expected: medium)
+2025-12-12 12:10:55 | INFO     | inference |   [9] Dispute resolution clause (expected: medium)
+2025-12-12 12:10:55 | INFO     | inference |   [10] Complex regulatory reference (expected: very_hard)
+2025-12-12 12:10:55 | INFO     | inference | 
+2025-12-12 12:10:55 | INFO     | inference | Running batched inference on 10 texts (batch_size=8)...
+2025-12-12 12:10:56 | INFO     | inference | Batched inference complete
+2025-12-12 12:10:56 | INFO     | inference | PREDICTION RESULTS
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | [Text 1] Simple pricing statement
+2025-12-12 12:10:56 | INFO     | inference |   Expected: easy → 4-5 (Érthető/Könnyen érthető)
+2025-12-12 12:10:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-12 12:10:56 | INFO     | inference |   Confidence: 93.70%
+2025-12-12 12:10:56 | INFO     | inference |   Length: 33 chars
+2025-12-12 12:10:56 | INFO     | inference |   Probabilities: L1: 1.4% | L2: 0.6% | L3: 1.0% | L4: 3.4% | L5: 93.7%
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | [Text 2] Basic contract term
+2025-12-12 12:10:56 | INFO     | inference |   Expected: easy → 4-5 (Érthető/Könnyen érthető)
+2025-12-12 12:10:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-12 12:10:56 | INFO     | inference |   Confidence: 92.63%
+2025-12-12 12:10:56 | INFO     | inference |   Length: 100 chars
+2025-12-12 12:10:56 | INFO     | inference |   Probabilities: L1: 1.8% | L2: 0.5% | L3: 0.9% | L4: 4.1% | L5: 92.6%
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | [Text 3] Consumer withdrawal rights
+2025-12-12 12:10:56 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-12 12:10:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-12 12:10:56 | INFO     | inference |   Confidence: 50.85%
+2025-12-12 12:10:56 | INFO     | inference |   Length: 219 chars
+2025-12-12 12:10:56 | INFO     | inference |   Probabilities: L1: 5.4% | L2: 2.8% | L3: 4.6% | L4: 36.3% | L5: 50.9%
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | [Text 4] Terms modification clause
+2025-12-12 12:10:56 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-12 12:10:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-12 12:10:56 | INFO     | inference |   Confidence: 89.47%
+2025-12-12 12:10:56 | INFO     | inference |   Length: 218 chars
+2025-12-12 12:10:56 | INFO     | inference |   Probabilities: L1: 0.8% | L2: 0.6% | L3: 1.2% | L4: 8.0% | L5: 89.5%
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | [Text 5] Legal reference to Civil Code
+2025-12-12 12:10:56 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-12 12:10:56 | INFO     | inference |   Predicted: 1 - Nagyon nehezen érthető (Very difficult)
+2025-12-12 12:10:56 | INFO     | inference |   Confidence: 64.56%
+2025-12-12 12:10:56 | INFO     | inference |   Length: 217 chars
+2025-12-12 12:10:56 | INFO     | inference |   Probabilities: L1: 64.6% | L2: 24.7% | L3: 5.8% | L4: 3.4% | L5: 1.5%
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | [Text 6] IP violation consequences
+2025-12-12 12:10:56 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-12 12:10:56 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-12 12:10:56 | INFO     | inference |   Confidence: 44.92%
+2025-12-12 12:10:56 | INFO     | inference |   Length: 339 chars
+2025-12-12 12:10:56 | INFO     | inference |   Probabilities: L1: 1.1% | L2: 10.5% | L3: 33.1% | L4: 44.9% | L5: 10.4%
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | [Text 7] Liability limitation clause
+2025-12-12 12:10:56 | INFO     | inference |   Expected: hard → 2 (Nehezen érthető)
+2025-12-12 12:10:56 | INFO     | inference |   Predicted: 4 - Érthető (Understandable)
+2025-12-12 12:10:56 | INFO     | inference |   Confidence: 51.48%
+2025-12-12 12:10:56 | INFO     | inference |   Length: 269 chars
+2025-12-12 12:10:56 | INFO     | inference |   Probabilities: L1: 1.5% | L2: 8.8% | L3: 24.5% | L4: 51.5% | L5: 13.7%
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | [Text 8] GDPR data controller info
+2025-12-12 12:10:56 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-12 12:10:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-12 12:10:56 | INFO     | inference |   Confidence: 30.73%
+2025-12-12 12:10:56 | INFO     | inference |   Length: 166 chars
+2025-12-12 12:10:56 | INFO     | inference |   Probabilities: L1: 17.7% | L2: 11.4% | L3: 12.0% | L4: 28.2% | L5: 30.7%
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | [Text 9] Dispute resolution clause
+2025-12-12 12:10:56 | INFO     | inference |   Expected: medium → 3 (Többé-kevésbé érthető)
+2025-12-12 12:10:56 | INFO     | inference |   Predicted: 5 - Könnyen érthető (Easily understandable)
+2025-12-12 12:10:56 | INFO     | inference |   Confidence: 73.01%
+2025-12-12 12:10:56 | INFO     | inference |   Length: 221 chars
+2025-12-12 12:10:56 | INFO     | inference |   Probabilities: L1: 1.5% | L2: 1.9% | L3: 3.8% | L4: 19.9% | L5: 73.0%
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | [Text 10] Complex regulatory reference
+2025-12-12 12:10:56 | INFO     | inference |   Expected: very_hard → 1 (Nagyon nehezen érthető)
+2025-12-12 12:10:56 | INFO     | inference |   Predicted: 2 - Nehezen érthető (Difficult)
+2025-12-12 12:10:56 | INFO     | inference |   Confidence: 48.86%
+2025-12-12 12:10:56 | INFO     | inference |   Length: 328 chars
+2025-12-12 12:10:56 | INFO     | inference |   Probabilities: L1: 3.9% | L2: 48.9% | L3: 22.3% | L4: 21.1% | L5: 3.9%
+2025-12-12 12:10:56 | INFO     | inference | SUMMARY
+2025-12-12 12:10:56 | INFO     | inference | Total texts: 10
+2025-12-12 12:10:56 | INFO     | inference | Average confidence: 64.02%
+2025-12-12 12:10:56 | INFO     | inference | 
+2025-12-12 12:10:56 | INFO     | inference | Label distribution:
+2025-12-12 12:10:56 | INFO     | inference |   Label 1: 1 (10.0%)
+2025-12-12 12:10:56 | INFO     | inference |   Label 2: 1 (10.0%)
+2025-12-12 12:10:56 | INFO     | inference |   Label 3: 0 (0.0%)
+2025-12-12 12:10:56 | INFO     | inference |   Label 4: 2 (20.0%)
+2025-12-12 12:10:56 | INFO     | inference |   Label 5: 6 (60.0%)
+2025-12-12 12:10:56 | INFO     | inference | INFERENCE COMPLETE
+2025-12-12 12:17:25 | INFO     | evaluation | Model Evaluation
+2025-12-12 12:17:25 | INFO     | evaluation | 
+Configuration:
+2025-12-12 12:17:25 | INFO     | evaluation |   Model: SZTAKI-HLT/hubert-base-cc
+2025-12-12 12:17:25 | INFO     | evaluation |   Train path: data/processed/train.csv
+2025-12-12 12:17:25 | INFO     | evaluation |   Test path: data/processed/test.csv
+2025-12-12 12:17:25 | INFO     | evaluation |   Model path: output/best_model.pt
+2025-12-12 12:17:25 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-12 12:17:25 | INFO     | evaluation | 
+Training data: (2945, 8)
+2025-12-12 12:17:25 | INFO     | evaluation | Test data: (132, 15)
+2025-12-12 12:17:25 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-12 12:17:26 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-12 12:17:26 | INFO     | evaluation | 
+Tokenizing data...
+2025-12-12 12:17:26 | INFO     | evaluation | 
+Dataset sizes:
+2025-12-12 12:17:26 | INFO     | evaluation |   Validation: 589 samples
+2025-12-12 12:17:26 | INFO     | evaluation |   Test:       132 samples
+2025-12-12 12:17:26 | INFO     | evaluation | 
+DataLoader settings: num_workers=2, pin_memory=True
+2025-12-12 12:17:26 | INFO     | evaluation | 
+✓ DataLoaders created
+2025-12-12 12:17:26 | INFO     | evaluation |   Val batches:  37
+2025-12-12 12:17:26 | INFO     | evaluation |   Test batches: 9
+2025-12-12 12:17:26 | INFO     | evaluation | 
+Device: mps
+2025-12-12 12:17:26 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-12 12:17:27 | INFO     | evaluation | ✓ Model loaded from epoch 4
+2025-12-12 12:17:27 | INFO     | evaluation |   Validation accuracy at save: 0.4431
+2025-12-12 12:17:27 | INFO     | evaluation | VALIDATION SET RESULTS
+2025-12-12 12:17:47 | INFO     | evaluation | 
+Classification Report (Validation):
+2025-12-12 12:17:47 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.2222    0.1429    0.1739        28
+     Class 2     0.3043    0.3281    0.3158        64
+     Class 3     0.3400    0.2636    0.2969       129
+     Class 4     0.4180    0.4225    0.4202       187
+     Class 5     0.5775    0.6796    0.6244       181
+
+    accuracy                         0.4431       589
+   macro avg     0.3724    0.3673    0.3662       589
+weighted avg     0.4283    0.4431    0.4329       589
+
+2025-12-12 12:17:47 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_validation.png
+2025-12-12 12:17:47 | INFO     | evaluation | TEST SET RESULTS
+2025-12-12 12:18:03 | INFO     | evaluation | 
+Classification Report (Test):
+2025-12-12 12:18:03 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.6667    0.2222    0.3333         9
+     Class 2     0.5000    0.1429    0.2222        28
+     Class 3     0.3684    0.2059    0.2642        34
+     Class 4     0.2308    0.4444    0.3038        27
+     Class 5     0.5600    0.8235    0.6667        34
+
+    accuracy                         0.4015       132
+   macro avg     0.4652    0.3678    0.3580       132
+weighted avg     0.4379    0.4015    0.3718       132
+
+2025-12-12 12:18:03 | INFO     | evaluation | ✓ Confusion matrix saved to output/confusion_matrix_test.png
+2025-12-12 12:18:03 | INFO     | evaluation | ORDINAL EVALUATION METRICS
+2025-12-12 12:18:03 | INFO     | evaluation | 
+Validation Set:
+2025-12-12 12:18:03 | INFO     | evaluation |   Exact Accuracy:     0.4431
+2025-12-12 12:18:03 | INFO     | evaluation |   Within-1 Accuracy:  0.8642
+2025-12-12 12:18:03 | INFO     | evaluation |   Within-2 Accuracy:  0.9677
+2025-12-12 12:18:03 | INFO     | evaluation | 
+Test Set:
+2025-12-12 12:18:03 | INFO     | evaluation |   Exact Accuracy:     0.4015
+2025-12-12 12:18:03 | INFO     | evaluation |   Within-1 Accuracy:  0.7348
+2025-12-12 12:18:03 | INFO     | evaluation |   Within-2 Accuracy:  0.9697
+2025-12-12 12:18:03 | INFO     | evaluation | 
+Recall by class:
+2025-12-12 12:18:03 | INFO     | evaluation | ----------------------------------------
+2025-12-12 12:18:03 | INFO     | evaluation | Class      Validation      Test           
+2025-12-12 12:18:03 | INFO     | evaluation | ----------------------------------------
+2025-12-12 12:18:03 | INFO     | evaluation | Class 1    0.1429          0.2222         
+2025-12-12 12:18:03 | INFO     | evaluation | Class 2    0.3281          0.1429         
+2025-12-12 12:18:03 | INFO     | evaluation | Class 3    0.2636          0.2059         
+2025-12-12 12:18:03 | INFO     | evaluation | Class 4    0.4225          0.4444         
+2025-12-12 12:18:03 | INFO     | evaluation | Class 5    0.6796          0.8235         
+2025-12-12 12:18:03 | INFO     | evaluation | EVALUATION SUMMARY
+2025-12-12 12:18:03 | INFO     | evaluation | 
+Model: SZTAKI-HLT/hubert-base-cc
+Model path: output/best_model.pt
+
+Results:
+  Validation:
+    - Accuracy: 0.4431
+    - Within-1: 0.8642
+    - Within-2: 0.9677
+
+  Test:
+    - Accuracy: 0.4015
+    - Within-1: 0.7348
+    - Within-2: 0.9697
+
+Figures saved to: output
+
+2025-12-12 12:18:03 | INFO     | evaluation | EVALUATION COMPLETE!
+2025-12-12 12:46:05 | INFO     | aggregate_jsons | Starting data pipeline...
+2025-12-12 12:46:05 | INFO     | aggregate_jsons | Input directory: data/original
+2025-12-12 12:46:05 | INFO     | aggregate_jsons | Output directory: data/aggregated
+2025-12-12 12:46:05 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-12 12:46:05 | INFO     | aggregate_jsons | Downloading data from SharePoint...
+2025-12-12 12:46:05 | INFO     | aggregate_jsons | Download size: 11.6 MB
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Downloaded 11.6 MB
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Extracting zip contents...
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Flattening nested folder: legaltextdecoder
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Clearing existing data in data/original...
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Moving data to data/original...
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Extraction complete!
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | ------------------------------------------------------------
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Starting data aggregation...
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: A5VHUA
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     merged_annotations.json: 159 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     nemzeti_tehetseg_program_aszf_labeled.json: 68 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     belvarosi_epito_aszf_labeled.json: 91 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: BCLHKC
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     cimkezes.json: 107 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: BP17IB
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     meta.json: 0 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: E77YIW
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     mak_aszf_cimkezes.json: 105 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: EKGPBX
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     project-29-at-2025-10-16-16-34-dc747442.json: 269 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: F0B9YK
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     holyduck_aszf.json: 151 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: FA0B9B
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     FA0B9B_labeling.json: 104 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: G1QFG2
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     cimkezes.json: 103 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: GSFSJ1
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     fonallak_cimkezes.json: 101 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: HV75KB
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     labels.json: 124 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: HW921K
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     labeled_terms.json: 123 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: I1TLYH
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     epitesi_beruhazas.json: 168 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     dpd.json: 110 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: J0R9YS
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: K3I7DL
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     KH_aszf_cimkezes.json: 92 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: KRR9OD
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: LWVUH9
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     shiver_aszf_cimkezes.json: 89 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     sportkorhaz_aszf_cimkezes.json: 69 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: LXXAMS
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     budapestgo_aszf.json: 133 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: MDKFWC
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     hasznalt_auto_cimkek.json: 143 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: NHVU6N
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 3 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     hardverapro_labeled.json: 40 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     zalando_labeled.json: 50 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     netkazan_labeled.json: 15 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: Q88P3E
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     erste-diakhitel-kozpont_cimkezes.json: 224 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: QG1L1V
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     granit_bank_cimkezes.json: 119 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: R1Q6I8
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     telekom_aszf.json: 110 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: R92D9T
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: SS0N7G
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     alza_aszf.json: 189 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: T989VT
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     legal_text_dataset.json: 144 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: TFH22P
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     cimekezes.json: 126 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: UJVBTY
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 0 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: WFXBHI
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 2 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     kepregeny_depo_aszf.json: 67 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     libri_aszf.json: 120 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: XQEBMQ
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     xqebmq.json: 111 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Processing student: Z7ZF6D
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Found 1 JSON file(s)
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     vatera-aszf.json: 120 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Skipping excluded folder: consensus
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Skipping excluded folder: sample
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Aggregation complete!
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Total records: 3744
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Output file: data/aggregated/labeled_data.csv
+2025-12-12 12:46:06 | INFO     | aggregate_jsons | Statistics:
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Unique students: 25
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Unique texts: 3399
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |   Label distribution:
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     Label 1: 200 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     Label 2: 450 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     Label 3: 814 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     Label 4: 1121 records
+2025-12-12 12:46:06 | INFO     | aggregate_jsons |     Label 5: 1159 records

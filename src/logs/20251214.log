@@ -1,0 +1,422 @@
+2025-12-14 19:43:18 | INFO     | inference | Starting inference demo
+2025-12-14 19:43:18 | INFO     | inference | Using device: mps
+2025-12-14 19:43:19 | INFO     | inference | Model weights loaded successfully
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 1 | expected: easy
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 92.69%
+2025-12-14 19:43:19 | INFO     | inference | L1:0.8%, L2:0.9%, L3:0.8%, L4:4.8%, L5:92.7%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 2 | expected: easy
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 93.76%
+2025-12-14 19:43:19 | INFO     | inference | L1:0.8%, L2:0.7%, L3:0.6%, L4:4.2%, L5:93.8%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 3 | expected: easy
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 91.07%
+2025-12-14 19:43:19 | INFO     | inference | L1:1.3%, L2:1.5%, L3:1.1%, L4:5.0%, L5:91.1%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 4 | expected: easy
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 93.62%
+2025-12-14 19:43:19 | INFO     | inference | L1:0.7%, L2:0.8%, L3:0.7%, L4:4.2%, L5:93.6%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 5 | expected: easy
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 91.69%
+2025-12-14 19:43:19 | INFO     | inference | L1:1.7%, L2:1.6%, L3:0.8%, L4:4.2%, L5:91.7%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 6 | expected: medium
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 89.56%
+2025-12-14 19:43:19 | INFO     | inference | L1:1.5%, L2:1.1%, L3:1.2%, L4:6.6%, L5:89.6%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 7 | expected: medium
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 94.02%
+2025-12-14 19:43:19 | INFO     | inference | L1:0.8%, L2:0.9%, L3:0.8%, L4:3.5%, L5:94.0%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 8 | expected: medium
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 92.59%
+2025-12-14 19:43:19 | INFO     | inference | L1:1.3%, L2:1.2%, L3:0.9%, L4:4.0%, L5:92.6%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 9 | expected: medium
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 93.50%
+2025-12-14 19:43:19 | INFO     | inference | L1:1.0%, L2:0.6%, L3:0.6%, L4:4.3%, L5:93.5%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 10 | expected: medium
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 87.83%
+2025-12-14 19:43:19 | INFO     | inference | L1:2.5%, L2:2.8%, L3:1.5%, L4:5.3%, L5:87.8%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 11 | expected: hard
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 47.08%
+2025-12-14 19:43:19 | INFO     | inference | L1:5.3%, L2:4.4%, L3:5.7%, L4:37.5%, L5:47.1%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 12 | expected: hard
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 76.20%
+2025-12-14 19:43:19 | INFO     | inference | L1:2.0%, L2:1.4%, L3:2.6%, L4:17.8%, L5:76.2%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 13 | expected: hard
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 92.35%
+2025-12-14 19:43:19 | INFO     | inference | L1:1.2%, L2:0.8%, L3:0.7%, L4:4.9%, L5:92.3%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 14 | expected: hard
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 4 – Könnyen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 42.99%
+2025-12-14 19:43:19 | INFO     | inference | L1:7.1%, L2:6.9%, L3:10.4%, L4:43.0%, L5:32.6%
+2025-12-14 19:43:19 | INFO     | inference | -
+2025-12-14 19:43:19 | INFO     | inference | Text 15 | expected: hard
+2025-12-14 19:43:19 | INFO     | inference | Predicted: 2 – Nehezen érthető
+2025-12-14 19:43:19 | INFO     | inference | Confidence: 36.98%
+2025-12-14 19:43:19 | INFO     | inference | L1:7.1%, L2:37.0%, L3:21.6%, L4:20.9%, L5:13.4%
+2025-12-14 19:50:57 | INFO     | inference | Starting inference demo
+2025-12-14 19:50:57 | INFO     | inference | Using device: mps
+2025-12-14 19:50:59 | INFO     | inference | Model weights loaded successfully
+2025-12-14 19:50:59 | INFO     | inference | -
+2025-12-14 19:51:30 | INFO     | inference | Starting inference demo
+2025-12-14 19:51:30 | INFO     | inference | Using device: mps
+2025-12-14 19:51:31 | INFO     | inference | Model weights loaded successfully
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 1 | expected: easy
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 90.55%
+2025-12-14 19:51:31 | INFO     | inference | L1:1.6%, L2:1.6%, L3:1.1%, L4:5.1%, L5:90.5%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 2 | expected: easy
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 90.69%
+2025-12-14 19:51:31 | INFO     | inference | L1:1.6%, L2:1.7%, L3:1.4%, L4:4.7%, L5:90.7%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 3 | expected: easy
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 90.99%
+2025-12-14 19:51:31 | INFO     | inference | L1:1.9%, L2:1.7%, L3:1.2%, L4:4.3%, L5:91.0%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 4 | expected: easy
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 93.26%
+2025-12-14 19:51:31 | INFO     | inference | L1:0.9%, L2:0.7%, L3:0.6%, L4:4.6%, L5:93.3%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 5 | expected: medium
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 88.77%
+2025-12-14 19:51:31 | INFO     | inference | L1:0.7%, L2:0.7%, L3:1.1%, L4:8.7%, L5:88.8%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 6 | expected: medium
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 84.42%
+2025-12-14 19:51:31 | INFO     | inference | L1:3.4%, L2:3.3%, L3:2.1%, L4:6.8%, L5:84.4%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 7 | expected: medium
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 40.69%
+2025-12-14 19:51:31 | INFO     | inference | L1:5.3%, L2:5.3%, L3:10.7%, L4:38.1%, L5:40.7%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 8 | expected: medium
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 89.60%
+2025-12-14 19:51:31 | INFO     | inference | L1:1.4%, L2:0.8%, L3:1.3%, L4:6.9%, L5:89.6%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 9 | expected: hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 72.62%
+2025-12-14 19:51:31 | INFO     | inference | L1:3.1%, L2:2.5%, L3:4.6%, L4:17.2%, L5:72.6%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 10 | expected: hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 91.81%
+2025-12-14 19:51:31 | INFO     | inference | L1:1.7%, L2:1.3%, L3:0.9%, L4:4.3%, L5:91.8%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 11 | expected: hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 74.98%
+2025-12-14 19:51:31 | INFO     | inference | L1:1.6%, L2:1.0%, L3:1.9%, L4:20.5%, L5:75.0%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 12 | expected: hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 4 – Könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 35.59%
+2025-12-14 19:51:31 | INFO     | inference | L1:5.3%, L2:10.5%, L3:23.4%, L4:35.6%, L5:25.3%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 13 | expected: very_hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 2 – Nehezen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 33.53%
+2025-12-14 19:51:31 | INFO     | inference | L1:11.8%, L2:33.5%, L3:12.4%, L4:22.9%, L5:19.4%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 14 | expected: very_hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 2 – Nehezen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 40.35%
+2025-12-14 19:51:31 | INFO     | inference | L1:10.4%, L2:40.3%, L3:21.5%, L4:14.7%, L5:13.1%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 15 | expected: very_hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 4 – Könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 47.98%
+2025-12-14 19:51:31 | INFO     | inference | L1:3.5%, L2:3.6%, L3:8.1%, L4:48.0%, L5:36.8%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 16 | expected: very_hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 64.74%
+2025-12-14 19:51:31 | INFO     | inference | L1:3.6%, L2:2.4%, L3:3.9%, L4:25.3%, L5:64.7%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 17 | expected: very_hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 74.00%
+2025-12-14 19:51:31 | INFO     | inference | L1:2.8%, L2:2.2%, L3:3.7%, L4:17.3%, L5:74.0%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 18 | expected: very_hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 4 – Könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 36.07%
+2025-12-14 19:51:31 | INFO     | inference | L1:3.2%, L2:15.3%, L3:30.2%, L4:36.1%, L5:15.2%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 19 | expected: very_hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 70.77%
+2025-12-14 19:51:31 | INFO     | inference | L1:1.3%, L2:1.6%, L3:3.4%, L4:22.9%, L5:70.8%
+2025-12-14 19:51:31 | INFO     | inference | -
+2025-12-14 19:51:31 | INFO     | inference | Text 20 | expected: very_hard
+2025-12-14 19:51:31 | INFO     | inference | Predicted: 4 – Könnyen érthető
+2025-12-14 19:51:31 | INFO     | inference | Confidence: 47.55%
+2025-12-14 19:51:31 | INFO     | inference | L1:1.3%, L2:3.9%, L3:13.7%, L4:47.6%, L5:33.6%
+2025-12-14 19:54:35 | INFO     | inference | Starting inference demo
+2025-12-14 19:54:35 | INFO     | inference | Using device: mps
+2025-12-14 19:54:36 | INFO     | inference | Model weights loaded successfully
+2025-12-14 19:54:36 | INFO     | inference | -
+2025-12-14 19:54:36 | INFO     | inference | Text 1 | expected: easy | expected_label: 2
+2025-12-14 19:54:36 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:54:36 | INFO     | inference | Confidence: 90.55%
+2025-12-14 19:54:36 | INFO     | inference | L1:1.6%, L2:1.6%, L3:1.1%, L4:5.1%, L5:90.5%
+2025-12-14 19:54:50 | INFO     | inference | Starting inference demo
+2025-12-14 19:54:50 | INFO     | inference | Using device: mps
+2025-12-14 19:54:51 | INFO     | inference | Model weights loaded successfully
+2025-12-14 19:54:51 | INFO     | inference | -
+2025-12-14 19:54:51 | INFO     | inference | Text 1 | expected: easy | expected_label: 2
+2025-12-14 19:54:51 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:54:51 | INFO     | inference | Confidence: 90.55%
+2025-12-14 19:54:51 | INFO     | inference | L1:1.6%, L2:1.6%, L3:1.1%, L4:5.1%, L5:90.5%
+2025-12-14 19:55:28 | INFO     | inference | Starting inference demo
+2025-12-14 19:55:28 | INFO     | inference | Using device: mps
+2025-12-14 19:55:29 | INFO     | inference | Model weights loaded successfully
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 1 | expected: easy | expected_label: 2
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 90.55%
+2025-12-14 19:55:29 | INFO     | inference | L1:1.6%, L2:1.6%, L3:1.1%, L4:5.1%, L5:90.5%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 2 | expected: easy | expected_label: 2
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 90.69%
+2025-12-14 19:55:29 | INFO     | inference | L1:1.6%, L2:1.7%, L3:1.4%, L4:4.7%, L5:90.7%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 3 | expected: easy | expected_label: 2
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 90.99%
+2025-12-14 19:55:29 | INFO     | inference | L1:1.9%, L2:1.7%, L3:1.2%, L4:4.3%, L5:91.0%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 4 | expected: easy | expected_label: 2
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 93.26%
+2025-12-14 19:55:29 | INFO     | inference | L1:0.9%, L2:0.7%, L3:0.6%, L4:4.6%, L5:93.3%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 5 | expected: medium | expected_label: 3
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 88.77%
+2025-12-14 19:55:29 | INFO     | inference | L1:0.7%, L2:0.7%, L3:1.1%, L4:8.7%, L5:88.8%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 6 | expected: medium | expected_label: 3
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 84.42%
+2025-12-14 19:55:29 | INFO     | inference | L1:3.4%, L2:3.3%, L3:2.1%, L4:6.8%, L5:84.4%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 7 | expected: medium | expected_label: 3
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 40.69%
+2025-12-14 19:55:29 | INFO     | inference | L1:5.3%, L2:5.3%, L3:10.7%, L4:38.1%, L5:40.7%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 8 | expected: medium | expected_label: 3
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 89.60%
+2025-12-14 19:55:29 | INFO     | inference | L1:1.4%, L2:0.8%, L3:1.3%, L4:6.9%, L5:89.6%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 9 | expected: hard | expected_label: 4
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 72.62%
+2025-12-14 19:55:29 | INFO     | inference | L1:3.1%, L2:2.5%, L3:4.6%, L4:17.2%, L5:72.6%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 10 | expected: hard | expected_label: 4
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 91.81%
+2025-12-14 19:55:29 | INFO     | inference | L1:1.7%, L2:1.3%, L3:0.9%, L4:4.3%, L5:91.8%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 11 | expected: hard | expected_label: 4
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 74.98%
+2025-12-14 19:55:29 | INFO     | inference | L1:1.6%, L2:1.0%, L3:1.9%, L4:20.5%, L5:75.0%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 12 | expected: hard | expected_label: 4
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 4 – Könnyen érthető (hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 35.59%
+2025-12-14 19:55:29 | INFO     | inference | L1:5.3%, L2:10.5%, L3:23.4%, L4:35.6%, L5:25.3%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 13 | expected: very_hard | expected_label: 5
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 2 – Nehezen érthető (easy)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 33.53%
+2025-12-14 19:55:29 | INFO     | inference | L1:11.8%, L2:33.5%, L3:12.4%, L4:22.9%, L5:19.4%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 14 | expected: very_hard | expected_label: 5
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 2 – Nehezen érthető (easy)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 40.35%
+2025-12-14 19:55:29 | INFO     | inference | L1:10.4%, L2:40.3%, L3:21.5%, L4:14.7%, L5:13.1%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 15 | expected: very_hard | expected_label: 5
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 4 – Könnyen érthető (hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 47.98%
+2025-12-14 19:55:29 | INFO     | inference | L1:3.5%, L2:3.6%, L3:8.1%, L4:48.0%, L5:36.8%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 16 | expected: very_hard | expected_label: 5
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 64.74%
+2025-12-14 19:55:29 | INFO     | inference | L1:3.6%, L2:2.4%, L3:3.9%, L4:25.3%, L5:64.7%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 17 | expected: very_hard | expected_label: 5
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 74.00%
+2025-12-14 19:55:29 | INFO     | inference | L1:2.8%, L2:2.2%, L3:3.7%, L4:17.3%, L5:74.0%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 18 | expected: very_hard | expected_label: 5
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 4 – Könnyen érthető (hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 36.07%
+2025-12-14 19:55:29 | INFO     | inference | L1:3.2%, L2:15.3%, L3:30.2%, L4:36.1%, L5:15.2%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 19 | expected: very_hard | expected_label: 5
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 70.77%
+2025-12-14 19:55:29 | INFO     | inference | L1:1.3%, L2:1.6%, L3:3.4%, L4:22.9%, L5:70.8%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | Text 20 | expected: very_hard | expected_label: 5
+2025-12-14 19:55:29 | INFO     | inference | Predicted: 4 – Könnyen érthető (hard)
+2025-12-14 19:55:29 | INFO     | inference | Confidence: 47.55%
+2025-12-14 19:55:29 | INFO     | inference | L1:1.3%, L2:3.9%, L3:13.7%, L4:47.6%, L5:33.6%
+2025-12-14 19:55:29 | INFO     | inference | -
+2025-12-14 19:55:29 | INFO     | inference | SUMMARY (confidence-based, by expected category)
+2025-12-14 19:55:29 | INFO     | inference |   easy: n=4 | acc=0.00% | avg_conf=91.37% | avg_conf_correct=N/A | avg_conf_wrong=91.37% | min_conf=90.55% | max_conf=93.26% | L1:0, L2:0, L3:0, L4:0, L5:4
+2025-12-14 19:55:29 | INFO     | inference |   hard: n=4 | acc=25.00% | avg_conf=68.75% | avg_conf_correct=35.59% | avg_conf_wrong=79.81% | min_conf=35.59% | max_conf=91.81% | L1:0, L2:0, L3:0, L4:1, L5:3
+2025-12-14 19:55:29 | INFO     | inference |   medium: n=4 | acc=0.00% | avg_conf=75.87% | avg_conf_correct=N/A | avg_conf_wrong=75.87% | min_conf=40.69% | max_conf=89.60% | L1:0, L2:0, L3:0, L4:0, L5:4
+2025-12-14 19:55:29 | INFO     | inference |   very_hard: n=8 | acc=37.50% | avg_conf=51.87% | avg_conf_correct=69.83% | avg_conf_wrong=41.10% | min_conf=33.53% | max_conf=74.00% | L1:0, L2:2, L3:0, L4:3, L5:3
+2025-12-14 19:57:11 | INFO     | inference | Starting inference demo
+2025-12-14 19:57:11 | INFO     | inference | Using device: mps
+2025-12-14 19:57:13 | INFO     | inference | Model weights loaded successfully
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 1 | expected: easy | expected_label: 2
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 90.55%
+2025-12-14 19:57:13 | INFO     | inference | L1:1.6%, L2:1.6%, L3:1.1%, L4:5.1%, L5:90.5%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 2 | expected: easy | expected_label: 2
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 90.69%
+2025-12-14 19:57:13 | INFO     | inference | L1:1.6%, L2:1.7%, L3:1.4%, L4:4.7%, L5:90.7%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 3 | expected: easy | expected_label: 2
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 90.99%
+2025-12-14 19:57:13 | INFO     | inference | L1:1.9%, L2:1.7%, L3:1.2%, L4:4.3%, L5:91.0%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 4 | expected: easy | expected_label: 2
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 93.26%
+2025-12-14 19:57:13 | INFO     | inference | L1:0.9%, L2:0.7%, L3:0.6%, L4:4.6%, L5:93.3%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 5 | expected: medium | expected_label: 3
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 88.77%
+2025-12-14 19:57:13 | INFO     | inference | L1:0.7%, L2:0.7%, L3:1.1%, L4:8.7%, L5:88.8%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 6 | expected: medium | expected_label: 3
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 84.42%
+2025-12-14 19:57:13 | INFO     | inference | L1:3.4%, L2:3.3%, L3:2.1%, L4:6.8%, L5:84.4%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 7 | expected: medium | expected_label: 3
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 40.69%
+2025-12-14 19:57:13 | INFO     | inference | L1:5.3%, L2:5.3%, L3:10.7%, L4:38.1%, L5:40.7%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 8 | expected: medium | expected_label: 3
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 89.60%
+2025-12-14 19:57:13 | INFO     | inference | L1:1.4%, L2:0.8%, L3:1.3%, L4:6.9%, L5:89.6%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 9 | expected: hard | expected_label: 4
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 72.62%
+2025-12-14 19:57:13 | INFO     | inference | L1:3.1%, L2:2.5%, L3:4.6%, L4:17.2%, L5:72.6%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 10 | expected: hard | expected_label: 4
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 91.81%
+2025-12-14 19:57:13 | INFO     | inference | L1:1.7%, L2:1.3%, L3:0.9%, L4:4.3%, L5:91.8%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 11 | expected: hard | expected_label: 4
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 74.98%
+2025-12-14 19:57:13 | INFO     | inference | L1:1.6%, L2:1.0%, L3:1.9%, L4:20.5%, L5:75.0%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 12 | expected: hard | expected_label: 4
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 4 – Könnyen érthető (hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 35.59%
+2025-12-14 19:57:13 | INFO     | inference | L1:5.3%, L2:10.5%, L3:23.4%, L4:35.6%, L5:25.3%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 13 | expected: very_hard | expected_label: 5
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 2 – Nehezen érthető (easy)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 33.53%
+2025-12-14 19:57:13 | INFO     | inference | L1:11.8%, L2:33.5%, L3:12.4%, L4:22.9%, L5:19.4%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 14 | expected: very_hard | expected_label: 5
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 2 – Nehezen érthető (easy)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 40.35%
+2025-12-14 19:57:13 | INFO     | inference | L1:10.4%, L2:40.3%, L3:21.5%, L4:14.7%, L5:13.1%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 15 | expected: very_hard | expected_label: 5
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 4 – Könnyen érthető (hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 47.98%
+2025-12-14 19:57:13 | INFO     | inference | L1:3.5%, L2:3.6%, L3:8.1%, L4:48.0%, L5:36.8%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 16 | expected: very_hard | expected_label: 5
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 64.74%
+2025-12-14 19:57:13 | INFO     | inference | L1:3.6%, L2:2.4%, L3:3.9%, L4:25.3%, L5:64.7%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 17 | expected: very_hard | expected_label: 5
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 74.00%
+2025-12-14 19:57:13 | INFO     | inference | L1:2.8%, L2:2.2%, L3:3.7%, L4:17.3%, L5:74.0%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 18 | expected: very_hard | expected_label: 5
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 4 – Könnyen érthető (hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 36.07%
+2025-12-14 19:57:13 | INFO     | inference | L1:3.2%, L2:15.3%, L3:30.2%, L4:36.1%, L5:15.2%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 19 | expected: very_hard | expected_label: 5
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető (very_hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 70.77%
+2025-12-14 19:57:13 | INFO     | inference | L1:1.3%, L2:1.6%, L3:3.4%, L4:22.9%, L5:70.8%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | Text 20 | expected: very_hard | expected_label: 5
+2025-12-14 19:57:13 | INFO     | inference | Predicted: 4 – Könnyen érthető (hard)
+2025-12-14 19:57:13 | INFO     | inference | Confidence: 47.55%
+2025-12-14 19:57:13 | INFO     | inference | L1:1.3%, L2:3.9%, L3:13.7%, L4:47.6%, L5:33.6%
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | SUMMARY (confidence-based, by expected category)
+2025-12-14 19:57:13 | INFO     | inference |   easy: n=4 | acc=0.00% | avg_conf=91.37% | avg_conf_correct=N/A | avg_conf_wrong=91.37% | min_conf=90.55% | max_conf=93.26% | L1:0, L2:0, L3:0, L4:0, L5:4
+2025-12-14 19:57:13 | INFO     | inference |   hard: n=4 | acc=25.00% | avg_conf=68.75% | avg_conf_correct=35.59% | avg_conf_wrong=79.81% | min_conf=35.59% | max_conf=91.81% | L1:0, L2:0, L3:0, L4:1, L5:3
+2025-12-14 19:57:13 | INFO     | inference |   medium: n=4 | acc=0.00% | avg_conf=75.87% | avg_conf_correct=N/A | avg_conf_wrong=75.87% | min_conf=40.69% | max_conf=89.60% | L1:0, L2:0, L3:0, L4:0, L5:4
+2025-12-14 19:57:13 | INFO     | inference |   very_hard: n=8 | acc=37.50% | avg_conf=51.87% | avg_conf_correct=69.83% | avg_conf_wrong=41.10% | min_conf=33.53% | max_conf=74.00% | L1:0, L2:2, L3:0, L4:3, L5:3
+2025-12-14 19:57:13 | INFO     | inference | -
+2025-12-14 19:57:13 | INFO     | inference | SUMMARY (confidence-based, OVERALL)
+2025-12-14 19:57:13 | INFO     | inference |   ALL: n=20 | acc=20.00% | avg_conf=67.95% | avg_conf_correct=61.27% | avg_conf_wrong=69.62% | min_conf=33.53% | max_conf=93.26% | L1:0, L2:2, L3:0, L4:4, L5:14

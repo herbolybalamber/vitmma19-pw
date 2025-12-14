@@ -1,0 +1,155 @@
+2025-12-14 19:38:05 | INFO     | inference | Starting inference demo
+2025-12-14 19:38:05 | INFO     | inference | Using device: mps
+2025-12-14 19:38:07 | INFO     | inference | Model weights loaded successfully
+2025-12-14 19:38:07 | INFO     | inference | -
+2025-12-14 19:38:07 | INFO     | inference | Text 1 | expected: easy
+2025-12-14 19:38:07 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:38:07 | INFO     | inference | Confidence: 87.46%
+2025-12-14 19:38:07 | INFO     | inference | L1:2.6%, L2:2.9%, L3:1.6%, L4:5.5%, L5:87.5%
+2025-12-14 19:38:07 | INFO     | inference | -
+2025-12-14 19:38:07 | INFO     | inference | Text 2 | expected: easy
+2025-12-14 19:38:07 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:38:07 | INFO     | inference | Confidence: 90.83%
+2025-12-14 19:38:07 | INFO     | inference | L1:1.5%, L2:1.4%, L3:1.2%, L4:5.1%, L5:90.8%
+2025-12-14 19:38:07 | INFO     | inference | -
+2025-12-14 19:38:07 | INFO     | inference | Text 3 | expected: medium
+2025-12-14 19:38:07 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:38:07 | INFO     | inference | Confidence: 87.92%
+2025-12-14 19:38:07 | INFO     | inference | L1:1.4%, L2:0.8%, L3:0.9%, L4:9.0%, L5:87.9%
+2025-12-14 19:38:07 | INFO     | inference | -
+2025-12-14 19:38:07 | INFO     | inference | Text 4 | expected: medium
+2025-12-14 19:38:07 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:38:07 | INFO     | inference | Confidence: 87.11%
+2025-12-14 19:38:07 | INFO     | inference | L1:1.1%, L2:0.8%, L3:0.9%, L4:10.1%, L5:87.1%
+2025-12-14 19:38:07 | INFO     | inference | -
+2025-12-14 19:38:07 | INFO     | inference | Text 5 | expected: hard
+2025-12-14 19:38:07 | INFO     | inference | Predicted: 4 – Könnyen érthető
+2025-12-14 19:38:07 | INFO     | inference | Confidence: 48.58%
+2025-12-14 19:38:07 | INFO     | inference | L1:8.4%, L2:12.3%, L3:13.7%, L4:48.6%, L5:16.9%
+2025-12-14 19:41:28 | INFO     | inference | Starting inference demo
+2025-12-14 19:41:28 | INFO     | inference | Using device: mps
+2025-12-14 19:41:29 | INFO     | inference | Model weights loaded successfully
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 1 | expected: easy
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 92.69%
+2025-12-14 19:41:30 | INFO     | inference | L1:0.8%, L2:0.9%, L3:0.8%, L4:4.8%, L5:92.7%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 2 | expected: easy
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 93.76%
+2025-12-14 19:41:30 | INFO     | inference | L1:0.8%, L2:0.7%, L3:0.6%, L4:4.2%, L5:93.8%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 3 | expected: easy
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 91.07%
+2025-12-14 19:41:30 | INFO     | inference | L1:1.3%, L2:1.5%, L3:1.1%, L4:5.0%, L5:91.1%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 4 | expected: easy
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 93.62%
+2025-12-14 19:41:30 | INFO     | inference | L1:0.7%, L2:0.8%, L3:0.7%, L4:4.2%, L5:93.6%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 5 | expected: easy
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 91.69%
+2025-12-14 19:41:30 | INFO     | inference | L1:1.7%, L2:1.6%, L3:0.8%, L4:4.2%, L5:91.7%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 6 | expected: medium
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 89.56%
+2025-12-14 19:41:30 | INFO     | inference | L1:1.5%, L2:1.1%, L3:1.2%, L4:6.6%, L5:89.6%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 7 | expected: medium
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 94.02%
+2025-12-14 19:41:30 | INFO     | inference | L1:0.8%, L2:0.9%, L3:0.8%, L4:3.5%, L5:94.0%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 8 | expected: medium
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 92.59%
+2025-12-14 19:41:30 | INFO     | inference | L1:1.3%, L2:1.2%, L3:0.9%, L4:4.0%, L5:92.6%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 9 | expected: medium
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 93.50%
+2025-12-14 19:41:30 | INFO     | inference | L1:1.0%, L2:0.6%, L3:0.6%, L4:4.3%, L5:93.5%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 10 | expected: medium
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 87.83%
+2025-12-14 19:41:30 | INFO     | inference | L1:2.5%, L2:2.8%, L3:1.5%, L4:5.3%, L5:87.8%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 11 | expected: hard
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 47.08%
+2025-12-14 19:41:30 | INFO     | inference | L1:5.3%, L2:4.4%, L3:5.7%, L4:37.5%, L5:47.1%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 12 | expected: hard
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 76.20%
+2025-12-14 19:41:30 | INFO     | inference | L1:2.0%, L2:1.4%, L3:2.6%, L4:17.8%, L5:76.2%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 13 | expected: hard
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 5 – Nagyon könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 92.35%
+2025-12-14 19:41:30 | INFO     | inference | L1:1.2%, L2:0.8%, L3:0.7%, L4:4.9%, L5:92.3%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 14 | expected: hard
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 4 – Könnyen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 42.99%
+2025-12-14 19:41:30 | INFO     | inference | L1:7.1%, L2:6.9%, L3:10.4%, L4:43.0%, L5:32.6%
+2025-12-14 19:41:30 | INFO     | inference | -
+2025-12-14 19:41:30 | INFO     | inference | Text 15 | expected: hard
+2025-12-14 19:41:30 | INFO     | inference | Predicted: 2 – Nehezen érthető
+2025-12-14 19:41:30 | INFO     | inference | Confidence: 36.98%
+2025-12-14 19:41:30 | INFO     | inference | L1:7.1%, L2:37.0%, L3:21.6%, L4:20.9%, L5:13.4%
+2025-12-14 20:31:35 | INFO     | evaluation | MODEL EVALUATION
+2025-12-14 20:31:35 | INFO     | evaluation | PREPARING DATA FOR EVALUATION
+2025-12-14 20:31:35 | INFO     | evaluation | Training data: (2255, 8)
+2025-12-14 20:31:35 | INFO     | evaluation | Test data:     (749, 15)
+2025-12-14 20:31:35 | INFO     | evaluation | Loading tokenizer: SZTAKI-HLT/hubert-base-cc
+2025-12-14 20:31:36 | INFO     | evaluation | ✓ Tokenizer loaded
+2025-12-14 20:31:36 | INFO     | evaluation | Validation samples: 564
+2025-12-14 20:31:36 | INFO     | evaluation | Test samples:       749
+2025-12-14 20:31:36 | INFO     | evaluation | Device: mps
+2025-12-14 20:31:36 | INFO     | evaluation | Loading model from: output/best_model.pt
+2025-12-14 20:31:37 | INFO     | evaluation | ✓ Model loaded (epoch 5)
+2025-12-14 20:31:37 | INFO     | evaluation | VALIDATION
+2025-12-14 20:31:58 | INFO     | evaluation | 
+Classification report – Validation
+2025-12-14 20:31:58 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.8333    0.9259    0.8772        27
+     Class 2     0.7917    0.8769    0.8321        65
+     Class 3     0.7589    0.6746    0.7143       126
+     Class 4     0.7284    0.6705    0.6982       176
+     Class 5     0.8138    0.9000    0.8547       170
+
+    accuracy                         0.7766       564
+   macro avg     0.7852    0.8096    0.7953       564
+weighted avg     0.7733    0.7766    0.7730       564
+
+2025-12-14 20:31:58 | INFO     | evaluation | ✓ Confusion matrix saved: output/confusion_validation_norm_true.png
+2025-12-14 20:31:58 | INFO     | evaluation | TEST
+2025-12-14 20:32:20 | INFO     | evaluation | 
+Classification report – Test
+2025-12-14 20:32:20 | INFO     | evaluation |               precision    recall  f1-score   support
+
+     Class 1     0.3182    0.1750    0.2258        40
+     Class 2     0.2520    0.3444    0.2911        90
+     Class 3     0.3588    0.2883    0.3197       163
+     Class 4     0.4516    0.4375    0.4444       224
+     Class 5     0.6289    0.6940    0.6598       232
+
+    accuracy                         0.4593       749
+   macro avg     0.4019    0.3879    0.3882       749
+weighted avg     0.4552    0.4593    0.4539       749
+
+2025-12-14 20:32:20 | INFO     | evaluation | ✓ Confusion matrix saved: output/confusion_test_norm_true.png
+2025-12-14 20:32:20 | INFO     | evaluation | 
+SUMMARY
+2025-12-14 20:32:20 | INFO     | evaluation | Val acc:  0.7766
+2025-12-14 20:32:20 | INFO     | evaluation | Test acc: 0.4593
+2025-12-14 20:32:20 | INFO     | evaluation | Val within-1:  0.9770
+2025-12-14 20:32:20 | INFO     | evaluation | Test within-1: 0.8571

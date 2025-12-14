@@ -1,0 +1,48 @@
+# =============================================================================
+# LOGGING CONFIGURATION
+# =============================================================================
+
+logging:
+  log_dir: "output/log"
+  console_level: INFO
+  file_level: DEBUG
+  log_to_file: true
+  log_to_console: true
+  log_format: '%(asctime)s | %(levelname)-8s | %(name)s | %(message)s'
+  date_format: '%Y-%m-%d %H:%M:%S'
+
+# =============================================================================
+# DATA PREPROCESSING CONFIGURATION
+# =============================================================================
+
+preprocess:
+  data_url: "https://bmeedu-my.sharepoint.com/:u:/g/personal/gyires-toth_balint_vik_bme_hu/IQDYwXUJcB_jQYr0bDfNT5RKARYgfKoH97zho3rxZ46KA1I?e=iFp3iz&download=1"
+  user_input_dir: "data/original"
+  folders_to_exclude:
+    - sample
+    - consensus
+  aggregated_dir: "data/aggregated"
+  aggregated_file: "data/aggregated/labeled_data.csv"
+  processed_dir: "data/processed"
+  min_text_length: 70
+  min_mean_lead_time: 15.0
+
+# =============================================================================
+# TRAINING CONFIGURATION
+# =============================================================================
+
+train:
+  train_path: "data/processed/train.csv"
+  val_path: "data/processed/validation.csv"
+  test_path: "data/processed/test.csv"
+  model_dir: "output"
+  model_path: "output/best_model.pt"
+  log_dir: "logs"
+  model_name: "SZTAKI-HLT/hubert-base-cc"
+  num_classes: 5
+  max_token_length: 256
+  batch_size: 16
+  learning_rate: 3e-5
+  num_epochs: 5
+  warmup_ratio: 0.1
+  random_seed: 42
