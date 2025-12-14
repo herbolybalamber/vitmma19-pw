@@ -44,7 +44,8 @@ docker run --rm --gpus all \
 ---
 
 ## 🛠️ Technical Architecture & Data Processing
-###1. Automated Data Pipeline (`00_aggregate_jsons.py`)The system features a "self-healing" data ingestion module. The script downloads the raw dataset ZIP from SharePoint, extracts it, and recursively traverses student folders.
+### 1. Automated Data Pipeline (`00_aggregate_jsons.py`)
+The system features a "self-healing" data ingestion module. The script downloads the raw dataset ZIP from SharePoint, extracts it, and recursively traverses student folders.
 
 During JSON processing, the system extracts texts and their corresponding annotations. Crucially, metadata (such as `lead_time`) is also extracted to facilitate the filtering of "noisy" data.
 
@@ -82,12 +83,12 @@ The model was trained for 5 epochs. The learning curves (below) perfectly illust
 
 ## 📊 Detailed Evaluation (`03_evaluation.py`
 Evaluation went beyond simple accuracy to include **ordinal metrics**. Since readability is subjective and ordinal (1 is closer to 2 than to 5), the "magnitude of error" matters.
-```
-### Metrics| Metric | Validation Set | Test Set | Interpretation |
-| --- | --- | --- | --- |
+
+| Metric | Validation Set | Test Set | Interpretation |
+| :--- | :---: | :---: | :--- |
 | **Exact Accuracy** | **46%** | **38%** | Precise match with the annotator. |
 | **Within-1 Accuracy** | **88%** | **78%** | The prediction is off by at most 1 rank. |
-```
+
 The results show that in **78%** of cases (on the unseen test set), the model either hits the exact level or predicts the immediately adjacent category. Given that human annotators often disagree by 1 level, this is an excellent result.
 
 ### Confusion Matrix 
